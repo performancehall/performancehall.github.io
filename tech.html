@@ -1,0 +1,16 @@
+---
+layout: page
+title: Tech
+---
+
+<p> This is the tech hub page. ZOMG! </p>
+
+<div>
+    <ul>
+        {% for post in site.tech %}
+        <li>
+            <a href="{{ post.url }}"> {{ post.title}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

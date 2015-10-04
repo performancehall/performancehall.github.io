@@ -1,32 +1,36 @@
-# Site settings
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
 title: Performance Hall Docs
-email: kpmccornack@gmail.com
-url: https://performancehall.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+tagline: 'A fount of Logan Center Knowledge'
+description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here email: </br> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
+url:                 performancehall.github.io
+baseurl:             ''
+paginate:            1
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+# About/contact
+author:
+  name:              Kyle McCornack
+  url:
+  email:             kpmccornack@gmail.com
 
-# Footer settings
-footer: PH Docs
+# Custom vars
+version:             1.0.0
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+audio:
+  - title: One
+    url: https://facebook.com
+  - title: Two
+    url: https://google.com
 
+# Lighting
 
+tech:
+    - title: Projection Cheat Sheet
+      url: /2015/10/03/projection-cheat-sheet.html
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Drawings
