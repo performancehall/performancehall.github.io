@@ -18,7 +18,7 @@ permalink: /2015/10/03/projection-cheat-sheet.html
 
 #####If that doesn’t get you an image now we start:
 
-<a name="troubleshooting">*TROUBLESHOOTING*</a>
+<a name="troubleshooting"> *TROUBLESHOOTING* </a>
 
 * Make sure you are actually sending some sort of image from your source: (very helpful to have the preview monitor at FOH set to the same source as the projector)
 * If your source is the mac mini, try dragging a window to the right
@@ -45,7 +45,8 @@ permalink: /2015/10/03/projection-cheat-sheet.html
  5. Confirm that your AVP Patch point (the one to which you connected the Blue SDI cable) is patched to AV38 in the patchbay (The default patching is AV12 to AV38)
  6. On the KUMO Routing Interface (Chrome), select Projector on the Bottom Row and STAGE on the Top Row.
 
-That *should* get you an image. If it doesn't, refer to the <a href=#troubleshooting>__*Troubleshooting*__</a> section above.
+That *should* get you an image. If it doesn't, refer to the [Troubleshooting](#troubleshooting) section above.
+section above.
 
 Then, if none of that works:
 

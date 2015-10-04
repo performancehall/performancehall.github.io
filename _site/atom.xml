@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2015-10-03T21:15:19-05:00</updated>
+ <updated>2015-10-03T22:01:35-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -37,7 +37,7 @@
 
 &lt;h5 id=&quot;if-that-doesnt-get-you-an-image-now-we-start&quot;&gt;If that doesn’t get you an image now we start:&lt;/h5&gt;
 
-&lt;p&gt;&lt;a name=&quot;troubleshooting&quot;&gt;&lt;em&gt;TROUBLESHOOTING&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;troubleshooting&quot;&gt; &lt;em&gt;TROUBLESHOOTING&lt;/em&gt; &lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Make sure you are actually sending some sort of image from your source: (very helpful to have the preview monitor at FOH set to the same source as the projector)&lt;/li&gt;
@@ -69,7 +69,8 @@
   &lt;li&gt;On the KUMO Routing Interface (Chrome), select Projector on the Bottom Row and STAGE on the Top Row.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;That &lt;em&gt;should&lt;/em&gt; get you an image. If it doesn’t, refer to the &amp;lt;a href=#troubleshooting&amp;gt;&lt;strong&gt;&lt;em&gt;Troubleshooting&lt;/em&gt;&lt;/strong&gt;&amp;lt;/a&amp;gt; section above.&lt;/p&gt;
+&lt;p&gt;That &lt;em&gt;should&lt;/em&gt; get you an image. If it doesn’t, refer to the &lt;a href=&quot;#troubleshooting&quot;&gt;Troubleshooting&lt;/a&gt; section above.
+section above.&lt;/p&gt;
 
 &lt;p&gt;Then, if none of that works:&lt;/p&gt;
 
