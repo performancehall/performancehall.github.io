@@ -86,12 +86,11 @@ You can do all the same things you can do from the web interface, and more, from
 5. In the communication settings window, make sure **Projector** is selected
 
  *  The IP Address is:  `192.168.1.134` Port is: `43728`
- <br></br>
 
  ![Image Four](http://i.imgur.com/hx6h4VI.png)
 
 6. Click OK (Also, the projector must be on in order to communicate with it. If it’s not on, nothing further will work. *And how were you planning to size an image if it’s off anyways?* :P
- <br></br>
+
  ![Image Five](http://i.imgur.com/O1bGrL9.png)
 7. Once the communication loading bar has completed and gone away, click the **lens** tab at the top.
 8. From the lens tab you have access to the focusing and resizing adjustments, as well as Fine Adjust mode, and *presets*
