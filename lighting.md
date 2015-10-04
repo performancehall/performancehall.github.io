@@ -3,4 +3,4 @@ layout: page
 title: Lighting
 ---
 
-This is a lighting page. MORE WHOA!
+This will be the lighting page. Patience is a virtue.
