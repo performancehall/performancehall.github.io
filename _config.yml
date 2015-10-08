@@ -28,10 +28,14 @@ audio:
 lighting:
     - title: Performance Hall Magic Sheet
       url: /assets/ph_magic_sheet.pdf
+    - title: Lighting Board Cheat Sheet
+      url: /assets/lighting_board_cheat_sheet.pdf
 
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html
+    - title: Tech Brochure
+      url: /assets/tech_brochure.pdf
 
 drawings:
     - title: Performance Hall East Perspective
