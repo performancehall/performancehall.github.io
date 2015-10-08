@@ -22,15 +22,17 @@ author:
 version:             1.0.0
 
 audio:
-  - title: One
-    url: https://facebook.com
-  - title: Two
-    url: https://google.com
+    - title: Audio Basics Guide
+      url: /assets/audio_basics_guide.pdf
 
-# Lighting
+lighting:
+    - title: Performance Hall Magic Sheet
+      url: /assets/ph_magic_sheet.pdf
 
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html
 
-# Drawings
+drawings:
+    - title: Performance Hall East Perspective
+      url: /assets/ph_east_perspective.pdf

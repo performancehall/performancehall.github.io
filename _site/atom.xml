@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2015-10-03T22:01:35-05:00</updated>
+ <updated>2015-10-08T01:47:59-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -123,23 +123,19 @@ section above.&lt;/p&gt;
 &lt;/ol&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The IP Address is:  &lt;code&gt;192.168.1.134&lt;/code&gt; Port is: &lt;code&gt;43728&lt;/code&gt;
- &lt;br /&gt;&amp;lt;/br&amp;gt;&lt;/li&gt;
+  &lt;li&gt;The IP Address is:  &lt;code&gt;192.168.1.134&lt;/code&gt; Port is: &lt;code&gt;43728&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/hx6h4VI.png&quot; alt=&quot;Image Four&quot; /&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Click OK (Also, the projector must be on in order to communicate with it. If it’s not on, nothing further will work. &lt;em&gt;And how were you planning to size an image if it’s off anyways?&lt;/em&gt; :P
- &lt;br /&gt;&amp;lt;/br&amp;gt;
- &lt;img src=&quot;http://i.imgur.com/O1bGrL9.png&quot; alt=&quot;Image Five&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Once the communication loading bar has completed and gone away, click the &lt;strong&gt;lens&lt;/strong&gt; tab at the top.&lt;/li&gt;
-  &lt;li&gt;From the lens tab you have access to the focusing and resizing adjustments, as well as Fine Adjust mode, and &lt;em&gt;presets&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;SAVING A PRESET&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Click OK (Also, the projector must be on in order to communicate with it. If it’s not on, nothing further will work. &lt;em&gt;And how were you planning to size an image if it’s off anyways?&lt;/em&gt; :P&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/O1bGrL9.png&quot; alt=&quot;Image Five&quot; /&gt;
+7. Once the communication loading bar has completed and gone away, click the &lt;strong&gt;lens&lt;/strong&gt; tab at the top.
+8. From the lens tab you have access to the focusing and resizing adjustments, as well as Fine Adjust mode, and &lt;em&gt;presets&lt;/em&gt;
+	* SAVING A PRESET&lt;/p&gt;
 
  		* Make all the image adjustments you need
  		* Click the &lt;strong&gt;Memory List&lt;/strong&gt; button to access the list of presets, then click a new row under all the ones that currently exist
