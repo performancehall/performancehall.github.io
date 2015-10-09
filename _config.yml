@@ -19,23 +19,31 @@ author:
   email:             kpmccornack@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             1.1.0
 
 audio:
     - title: Audio Basics Guide
       url: /assets/audio_basics_guide.pdf
+    - title: Archival Recording Standards
+      url: /assets/archival_recording_standards.pdf
+    - tite: Handheld Tascam Tutorial
+      url: /assets/handheld_tascam_tutorial.pdf
 
 lighting:
     - title: Performance Hall Magic Sheet
       url: /assets/ph_magic_sheet.pdf
-    - title: Lighting Board Cheat Sheet
+    - title: Penthouse Lighting Board Cheat Sheet
       url: /assets/lighting_board_cheat_sheet.pdf
+    - title: Node Configuration Instructions
+      url: /assets/lighting_node_config.pdf
 
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html
     - title: Tech Brochure
       url: /assets/tech_brochure.pdf
+    - title: Event Rider Sheet
+      url: /assets/event_rider_sheet.pdf
 
 drawings:
     - title: Performance Hall East Perspective
