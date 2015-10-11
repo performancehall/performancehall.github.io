@@ -36,7 +36,12 @@ lighting:
       url: /assets/lighting_board_cheat_sheet.pdf
     - title: Node Configuration Instructions
       url: /assets/lighting_node_config.pdf
-
+    - title: Performance Hall Channel Hookup
+      url: /assets/lighting_channel_hookup.pdf
+    - title: Performance Hall Rep Plot
+      url: /assets/lighting_rep_plot.pdf
+    - title: Performance Hall Instrument Schedule
+      url: /assets/lighting_instrument_schedule.pdf
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html
