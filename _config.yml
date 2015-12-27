@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title: Performance Hall Docs
-tagline: 'A fount of Logan Center Knowledge'
+tagline: 'The Home of Logan Center Tech Knowledge'
 description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here email: </br> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
 url:                 performancehall.github.io
 baseurl:             ''
@@ -24,6 +24,8 @@ version:             1.1.0
 audio:
     - title: Audio Basics Guide
       url: /assets/audio_basics_guide.pdf
+    - title: Audio Glossary
+      url: /2015/12/26/audio-glossary.html
     - title: Archival Recording Standards
       url: /assets/archival_recording_standards.pdf
     - title: Handheld Tascam Tutorial
@@ -56,4 +58,4 @@ drawings:
     - title: Performance Hall Rigging East Perspective
       url: /assets/ph_rigging_east.pdf
     - title: Performance Hall Lighting West Perspective
-      url: /assets/ph_lighting_west.jpg 
+      url: /assets/ph_lighting_west.jpg
