@@ -28,12 +28,18 @@ audio:
       url: /2015/12/26/audio-glossary.html
     - title: Archival Recording Instructions and Standards
       url: /2015/12/29/archival_instructions.html
-    - title: Equipment and Set Up
+    - title: Audio Equipment and Set Up
       url: /2015/12/26/equipment-and-setup.html
+    - title: Getting Sound From a Mic to the mains
+      url: /2015/12/29/mic-to-mains.html
     - title: Handheld Tascam Tutorial
       url: /2015/12/29/handheld_tascam_tutorial.html
     - title: Microphone List
       url: /2015/12/26/microphone-list.html
+    - title: Setting Up a DI-Box
+      url: /2015/12/29/setting-up-a-di-box.html
+    - title: Seven System Dwarves
+      url: /2015/12/29/seven-system-dwarves.html
 lighting:
     - title: Performance Hall Magic Sheet
       url: /assets/ph_magic_sheet.pdf

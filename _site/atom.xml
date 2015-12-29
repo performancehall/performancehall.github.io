@@ -4,13 +4,153 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2015-12-29T11:32:40-05:00</updated>
+ <updated>2015-12-29T12:07:27-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
    <email>kpmccornack@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Seven Bad System Dwarves</title>
+   <link href="performancehall.github.io/2015/12/29/seven-system-dwarves.html"/>
+   <updated>2015-12-29T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2015/12/29/seven-system-dwarves</id>
+   <content type="html">&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/seven_system_dwarves.png&quot; alt=&quot;Seven Bad System Dwarves&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Setting Up a DI-Box</title>
+   <link href="performancehall.github.io/2015/12/29/setting-up-a-di-box.html"/>
+   <updated>2015-12-29T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2015/12/29/setting-up-a-di-box</id>
+   <content type="html">&lt;p&gt;A DI-Box (Direct Input Box) allows you to connect high-impedance sources to a mixer without adverse effects.
+The most common uses are for connecting electric keyboards, guitars, bass guitars and most forms of instrument pickups directly to the mixer without using an amp or microphone.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plug the 1⁄4” TS cable from the instrument’s pick up into the DI (using the high-Z input)&lt;/li&gt;
+  &lt;li&gt;Plug an XLR into the output of the DI and run that to a system input (floorbox, AVP, snake, etc).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If an amp is involved, but they still want a direct line as well, you’ll have to split the source.
+Usually the musician will have his/her instrument plugged directly into the amp, so you’ll have to break this chain.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pull the plug from the amp input and insert it into either input of your DI box.&lt;/li&gt;
+  &lt;li&gt;Grab a short instrument cable (1/4 inch TS usually) and plug into the THRU port of the DI and then back into the input of the amp.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Sound From a Mic to the mains</title>
+   <link href="performancehall.github.io/2015/12/29/mic-to-mains.html"/>
+   <updated>2015-12-29T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2015/12/29/mic-to-mains</id>
+   <content type="html">&lt;h2 id=&quot;setting-up-a-mic&quot;&gt;Setting up a Mic&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find out who or what you are miking and how versatile they need to be during the show. Choose a
+stand and mic accordingly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find out where the mic needs to be placed on stage. Setup the stand, attach the clip, and slip the
+mic into the clip. Make sure everything within the stand is tight.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If the mic is wired and you are using a boom stand,
+    &lt;ul&gt;
+      &lt;li&gt;Take your XLR cable and first plug the male end into the floorbox or AVP.&lt;/li&gt;
+      &lt;li&gt;Carry the coil to the stand (when possible, follow along with other cables going in that same
+direction) and drop the coil under the center of the stand.
+￼￼￼￼￼* Run the female end up the stand, wrapping it around once.&lt;/li&gt;
+      &lt;li&gt;As you hit the boom, make sure the cord runs over the tightening pin.&lt;/li&gt;
+      &lt;li&gt;Wrap the cord once more around the boom in the same direction.&lt;/li&gt;
+      &lt;li&gt;Plug the female end into the mic, making sure the cord has enough slack at the end so that
+the mic can be easily adjusted, but not so much that the cord is hanging all over.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Always leave the cable slack at the base of the mic stand, never at the input or somewhere in
+between.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Try to run the cables in right angles when possible and along with other cables nearby. However,
+avoid running microphone cables alongside AC power cables or SpeakOn unless absolutely
+necessary;; this will generate noise in the signal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Any loose cables onstage or backstage should be taped down after soundcheck is complete, and
+prior to doors opening. Remember to not tape down any mics that will need to move around during
+the show.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If the mic is wireless, check to make sure the battery has at least two bars for a rehearsal setting
+and three for a public performance. Batteries with less than two bars should be recycled in the
+“dead battery” bin.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;the-patchbay&quot;&gt;The Patchbay&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is where you will be connecting the signal directly to the SC48. Check the number on the floorbox or AVP input you plug into;; it should be in the format of the letter M then a sequence of ascending numbers, example: M12. Take a long-frame cable and run it from that input to whichever channel you intend to use on the mixing board. Use different colored cables to show different groups of mics (wired vs wireless or vocals vs instruments or input to split to SC48 vs booth).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;While patching, make sure the sound system is on by checking that the sequencer key is turned to “on” and that all its associated amps have turned on. While you’re doing this, check the subwoofer amp and turn on manually if needed.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;at-the-venue-sc48&quot;&gt;At the Venue SC48&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn on the Venue if it hasn’t been turned on yet. Once it is on, make sure all channels have been
+muted or have their faders turned down. Then turn the master fader (at the far right) up to “unity”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select each channel you have patched mics to and label them by double clicking on the “Channel #”
+in the top left corner of the onscreen interface and naming what instrument or type of mic it is (“SL Vox” for stage left vocals, or “W1” for wireless mic #1). This makes it easier to keep track of your mics and keeps you from forgetting which channels are which.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you are using a condenser mic, remember to mute the channel before turning on phantom power because the 48 volts will cause the mike to pop momentarily. If the mic is not muted, the entire house may hear an very loud and unpleasant sound. To engage phantom power:
+    &lt;ul&gt;
+      &lt;li&gt;Select the channel that needs the phantom.&lt;/li&gt;
+      &lt;li&gt;Again, make sure the channel is MUTED and the fader is down.&lt;/li&gt;
+      &lt;li&gt;Press the 48V button near the top of the Venue.&lt;/li&gt;
+      &lt;li&gt;Unmute, gain and then fader up.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find someone assigned as or willing to temporarily be your audio assistant to test the mics. Have them first go to each mic and test that each one is working by gently tapping the grill of the mic. You are checking to see that you are getting signal to the channel;; if you see nothing, turn up the gain until you do. Remember to keep the channel muted and fader down while line checking.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once you have completed the line check, you know all your patches are correct, and you have extra time and want to do things right, you can now do your pre-soundcheck soundcheck! Ask your assistant to go back to each mic and spend more time with each one. They should speak through vocal mic and play approved instruments, one at a time, to help you set gains and test monitors.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;During line check, confirm that each channel is going to the appropriate main speaker (LR or C). To do this, decide whether the sound from each independent channel should be coming out of the left and right speakers, the center speaker, or all three. * As a rule, vocalists should be routed to the center speaker only, instruments to the left and right and pre-recorded music again to just left and right (although left, center, and right is also an option if you need more level). On the board, select the channel, then choose the L/R or Center assigns from the master mains routing section.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Adjust the panning, limiter, comps, gate and effects (FX) as you see fit. These should all be adjusted pre-show;; turning any of these on mid-show would have to be done very gradually and strategically. When done improperly, you could lose sound completely and totally throw off a performance.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Double check that the speakers are at the the right height for the show.
+    &lt;ul&gt;
+      &lt;li&gt;For a lecture or panel, the center speaker can be the only one down.&lt;/li&gt;
+      &lt;li&gt;Instrumental performances can have the left and right speakers down.&lt;/li&gt;
+      &lt;li&gt;For use with the projection screen, left and right should be set below the break in the screen.&lt;/li&gt;
+      &lt;li&gt;For a film screening from the booth, fly the line array below the break in the screen.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;At this point the basic loop of mic to patchbay to Venue to speakers is complete. There are a bunch of technical processes in there, but basic mic amplification is taking place, which can be enough for some musical performances and most lecture settings.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Handheld Tascam Tutorial</title>
@@ -295,10 +435,10 @@
  </entry>
  
  <entry>
-   <title>Equipment and Set-Up</title>
+   <title>Audio Equipment and Set-Up</title>
    <link href="performancehall.github.io/2015/12/26/equipment-and-setup.html"/>
    <updated>2015-12-26T00:00:00-05:00</updated>
-   <id>performancehall.github.io/2015/12/26/equipment-and-setup</id>
+   <id>performancehall.github.io/2015/12/26/audio-equipment-and-setup</id>
    <content type="html">&lt;h3 id=&quot;stands--safety&quot;&gt;Stands &amp;amp; Safety&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;The hall has two basic types of stands: boom stands and straight stands.&lt;/p&gt;
@@ -359,71 +499,6 @@ If you have a hard time getting good coils, use this video to help while practic
 &lt;p&gt;&lt;strong&gt;Subs:&lt;/strong&gt; We own 2 EV X-SUB’s that live in the work lofts to the left and right of downstage. The subs supply the low end frequencies to both the main and projection systems.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Sidefills:&lt;/strong&gt; The 2 side fills we have, EV Zx1’s, are built into the downstage left and right walls, just where the plank design ends. The side fills are also tied to both the main speakers and the projection audio system.&lt;/p&gt;
-
-&lt;h3 id=&quot;sending-a-mic-through-the-pa&quot;&gt;Sending a mic through the PA&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Setting up a mic&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Find out who or what you are miking and how versatile they need to be during the show. Choose a
-stand and mic accordingly.&lt;/li&gt;
-  &lt;li&gt;Find out where the mic needs to be placed on stage. Setup the stand, attach the clip, and slip the
-mic into the clip. Make sure everything within the stand is tight.&lt;/li&gt;
-  &lt;li&gt;If the mic is wired and you are using a boom stand,
-    &lt;ul&gt;
-      &lt;li&gt;Take your XLR cable and first plug the male end into the floorbox or AVP.&lt;/li&gt;
-      &lt;li&gt;Carry the coil to the stand (when possible, follow along with other cables going in that same
-direction) and drop the coil under the center of the stand.
-￼￼￼￼￼* Run the female end up the stand, wrapping it around once.&lt;/li&gt;
-      &lt;li&gt;As you hit the boom, make sure the cord runs over the tightening pin.&lt;/li&gt;
-      &lt;li&gt;Wrap the cord once more around the boom in the same direction.&lt;/li&gt;
-      &lt;li&gt;Plug the female end into the mic, making sure the cord has enough slack at the end so that
-the mic can be easily adjusted, but not so much that the cord is hanging all over.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Always leave the cable slack at the base of the mic stand, never at the input or somewhere in
-between.&lt;/li&gt;
-  &lt;li&gt;Try to run the cables in right angles when possible and along with other cables nearby. However,
-avoid running microphone cables alongside AC power cables or SpeakOn unless absolutely
-necessary;; this will generate noise in the signal.&lt;/li&gt;
-  &lt;li&gt;Any loose cables onstage or backstage should be taped down after soundcheck is complete, and
-prior to doors opening. Remember to not tape down any mics that will need to move around during
-the show.&lt;/li&gt;
-  &lt;li&gt;If the mic is wireless, check to make sure the battery has at least two bars for a rehearsal setting
-and three for a public performance. Batteries with less than two bars should be recycled in the
-“dead battery” bin.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Patchbay&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;This is where you will be connecting the signal directly to the SC48. Check the number on the floorbox or AVP input you plug into;; it should be in the format of the letter M then a sequence of ascending numbers, example: M12. Take a long-frame cable and run it from that input to whichever channel you intend to use on the mixing board. Use different colored cables to show different groups of mics (wired vs wireless or vocals vs instruments or input to split to SC48 vs booth).&lt;/li&gt;
-  &lt;li&gt;While patching, make sure the sound system is on by checking that the sequencer key is turned to “on” and that all its associated amps have turned on. While you’re doing this, check the subwoofer amp and turn on manually if needed.
-Venue SC48 console&lt;/li&gt;
-  &lt;li&gt;Turn on the Venue if it hasn’t been turned on yet. Once it is on, make sure all channels have been
-muted or have their faders turned down. Then turn the master fader (at the far right) up to “unity”.&lt;/li&gt;
-  &lt;li&gt;Select each channel you have patched mics to and label them by double clicking on the “Channel #”
-in the top left corner of the onscreen interface and naming what instrument or type of mic it is (“SL Vox” for stage left vocals, or “W1” for wireless mic #1). This makes it easier to keep track of your mics and keeps you from forgetting which channels are which.&lt;/li&gt;
-  &lt;li&gt;If you are using a condenser mic, remember to mute the channel before turning on phantom power because the 48 volts will cause the mike to pop momentarily. If the mic is not muted, the entire house may hear an very loud and unpleasant sound. To engage phantom power:
-    &lt;ul&gt;
-      &lt;li&gt;Select the channel that needs the phantom.&lt;/li&gt;
-      &lt;li&gt;Again, make sure the channel is MUTED and the fader is down.&lt;/li&gt;
-      &lt;li&gt;Press the 48V button near the top of the Venue.&lt;/li&gt;
-      &lt;li&gt;Unmute, gain and then fader up.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Find someone assigned as or willing to temporarily be your audio assistant to test the mics. Have them first go to each mic and test that each one is working by gently tapping the grill of the mic. You are checking to see that you are getting signal to the channel;; if you see nothing, turn up the gain until you do. Remember to keep the channel muted and fader down while line checking.&lt;/li&gt;
-  &lt;li&gt;Once you have completed the line check, you know all your patches are correct, and you have extra time and want to do things right, you can now do your pre-soundcheck soundcheck! Ask your assistant to go back to each mic and spend more time with each one. They should speak through vocal mic and play approved instruments, one at a time, to help you set gains and test monitors.&lt;/li&gt;
-  &lt;li&gt;During line check, confirm that each channel is going to the appropriate main speaker (LR or C). To do this, decide whether the sound from each independent channel should be coming out of the left and right speakers, the center speaker, or all three. *As a rule, vocalists should be routed to the center speaker only, instruments to the left and right and pre-recorded music again to just left and right (although left, center, and right is also an option if you need more level). On the board, select the channel, then choose the L/R or Center assigns from the master mains routing section.&lt;/li&gt;
-  &lt;li&gt;Adjust the panning, limiter, comps, gate and effects (FX) as you see fit. These should all be adjusted pre-show;; turning any of these on mid-show would have to be done very gradually and strategically. When done improperly, you could lose sound completely and totally throw off a performance.&lt;/li&gt;
-  &lt;li&gt;Double check that the speakers are at the the right height for the show. For a lecture or panel, the center speaker can be the only one down;; instrumental performances can have the left and right speakers down. For use with the projection screen, left and right should be set below the break in the screen. For a film screening from the booth, fly the line array below the break in the screen.
-At this point the basic loop of mic to patchbay to Venue to speakers is complete. There are a bunch of technical processes in there, but basic mic amplification is taking place, which can be enough for some musical performances and most lecture settings.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;using-a-di-box&quot;&gt;Using a DI-Box&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;A DI-Box (Direct Input Box) allows you to connect high-impedance sources to a mixer without adverse effects. The most common uses are for connecting electric keyboards, guitars, bass guitars and most forms of instrument pickups directly to the mixer without using an amp or microphone. Plug the 1⁄4” TS cable from the instrument’s pick up into the DI (using the high-Z input) then plug an XLR into it’s output and run that to a system input (floorbox, AVP, snake, etc).
-If an amp is involved, but they still want a direct line as well, you’ll have to split the source. Usually the musician will have his/her instrument plugged directly into the amp, so you’ll have to break this chain. Pull that plug from the amp and inset it into either input of your DI box. Grab a shortie instrument cable and plug it both into the second input of the DI and then back into the input of the amp.&lt;/p&gt;
 </content>
  </entry>
  
