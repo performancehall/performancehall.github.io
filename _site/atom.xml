@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2015-12-26T22:26:27-06:00</updated>
+ <updated>2015-12-29T11:32:40-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -13,9 +13,175 @@
 
  
  <entry>
+   <title>Handheld Tascam Tutorial</title>
+   <link href="performancehall.github.io/2015/12/29/handheld_tascam_tutorial.html"/>
+   <updated>2015-12-29T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2015/12/29/handheld-tascam-tutorial</id>
+   <content type="html">&lt;h2 id=&quot;initial-set-up&quot;&gt;Initial Set Up&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Press and hold the Home button to turn on the Tascam.&lt;/li&gt;
+  &lt;li&gt;Check the battery indicator and replace if the battery is low.&lt;/li&gt;
+  &lt;li&gt;Check to see if the SD card is actually in the device; if not, find one and insert it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;empty-the-memory-to-ensure-theres-enough-space-for-your-recording&quot;&gt;Empty the memory to ensure there’s enough space for your recording:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Press menu button to get to the menu&lt;/li&gt;
+  &lt;li&gt;Use plus or minus buttons to scroll down to others, press enter&lt;/li&gt;
+  &lt;li&gt;Scroll down to system, press enter&lt;/li&gt;
+  &lt;li&gt;Scroll down to quick format, press enter.  Exec, enter.&lt;/li&gt;
+  &lt;li&gt;“All data erased. Are you sure?” Press enter and you’re done.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Press menu to get back to the record screen and press the Rec Mode button to choose an input.&lt;/p&gt;
+
+&lt;p&gt;Stay in “stereo” and then select your input under “source”.&lt;/p&gt;
+
+&lt;p&gt;Your source will be either “Internal microphone” or “External in 1&amp;amp;2” (your XLR 1&amp;amp;2).&lt;/p&gt;
+
+&lt;p&gt;Pressing menu again will bring you back to the home screen.&lt;/p&gt;
+
+&lt;h2 id=&quot;there-are-three-methods-of-taking-a-recording-in-the-penthouse&quot;&gt;There are three methods of taking a recording in the Penthouse:&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Plan to use the Tascam’s built-in mic as default because it is much easier and you can place it anywhere.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;To record using the mic, all you need to do is press record twice to begin the recording.&lt;/li&gt;
+  &lt;li&gt;Make sure to test it!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;If the group specifically wants you to take a board feed:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Connect 2 XLRs between Stereo Alt Out on the back of the board and the Tascam&lt;/li&gt;
+  &lt;li&gt;Press the little AB button near the master fader to enable the output&lt;/li&gt;
+  &lt;li&gt;On the side of the Tascam, choose “Line” under the the Ext In selector&lt;/li&gt;
+  &lt;li&gt;Test the mics and ensure you’re getting signal&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;If the group specifically asks you to get a recording from the hanging house mics:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Start in the patch bay and connect the “hanging house mics 2 &amp;amp; 3” to the AVP nearest your mix position&lt;/li&gt;
+  &lt;li&gt;Connect two gender changers and XLRs from that AVP to the Tascam&lt;/li&gt;
+  &lt;li&gt;On the side of the Tascam, choose “Mic+Phantom” under the Ext In selector.&lt;/li&gt;
+  &lt;li&gt;Test the mics and ensure you’re getting signal&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When the performance ends, press the stop button and eject the SD card.&lt;/p&gt;
+
+&lt;p&gt;Bring the SD card to the computer in the recording booth or at FOH and insert it into the USB SD card reader (or insert it into any cage laptop checked out).&lt;/p&gt;
+
+&lt;p&gt;Download the content to the Archival Audio file folder and use the naming convention as follows:&lt;/p&gt;
+
+&lt;p&gt;Year.Month.Date_Description_Engineer.mp3 (Example: 14.3.19_FOTA_Kyle.mp3)&lt;/p&gt;
+
+&lt;p&gt;Then, send the file to:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;erinbrenner@uchicago.edu.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Go to the website WeTransfer.com&lt;/li&gt;
+  &lt;li&gt;Upload the recording to the site&lt;/li&gt;
+  &lt;li&gt;Enter Erin’s email address (above)&lt;/li&gt;
+  &lt;li&gt;Enter your email address press Send.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now go put the SD card back into the handheld Tascam device and you’re done!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Archival Recording Instructions and Standards</title>
+   <link href="performancehall.github.io/2015/12/29/archival_instructions.html"/>
+   <updated>2015-12-29T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2015/12/29/archival_instructions</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Setting up the Audio Console:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turn the board on (button on the back of the board center)&lt;/li&gt;
+  &lt;li&gt;Choose “Filing” from the options tab at the top of the display&lt;/li&gt;
+  &lt;li&gt;Select the “Load” tab&lt;/li&gt;
+  &lt;li&gt;If you don’t have your own preset, choose “Performance Hall” folder&lt;/li&gt;
+  &lt;li&gt;Select “Archival Recording Preset”&lt;/li&gt;
+  &lt;li&gt;Press the button “Load”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Setting up the Mac Mini:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turn on the monitor display to the Mac Mini&lt;/li&gt;
+  &lt;li&gt;Click on your empty desktop&lt;/li&gt;
+  &lt;li&gt;Choose “Go” in from the options tab at the top of the display&lt;/li&gt;
+  &lt;li&gt;Select “Applications”&lt;/li&gt;
+  &lt;li&gt;Open “Microwave”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Setting up your session:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change the Sample Rate to 44100&lt;/li&gt;
+  &lt;li&gt;Change the bit depth to 24 bit&lt;/li&gt;
+  &lt;li&gt;Change the channels to stereo if showing mono&lt;/li&gt;
+  &lt;li&gt;Click “Create”&lt;/li&gt;
+  &lt;li&gt;Name your session according to the naming protocol below (don’t include the .mp3)&lt;/li&gt;
+  &lt;li&gt;Click the arrow next to the file name to drop down the filing menu&lt;/li&gt;
+  &lt;li&gt;Save the file under “Documents” -&amp;gt; “PH_Recordings”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Testing the recording during rehearsal:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Press the record button to enable recording (large red circle) while making noise&lt;/li&gt;
+  &lt;li&gt;Press the same record button to stop recording&lt;/li&gt;
+  &lt;li&gt;If you see a very slight waveform, it means your recording is working, but you want more signal&lt;/li&gt;
+  &lt;li&gt;Gain the hanging house mics until you see a better waveform. Congrats! You’ve got a recording going.&lt;/li&gt;
+  &lt;li&gt;Drag the timing bar back to the beginning of your recording; it will allow you to record over your test&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Record the show:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Press Record both before and after the show&lt;/p&gt;
+
+&lt;p&gt;Normalize, Gain, Normalize:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;From the drop down menu at the top of the screen choose “Effects” then “Normalize”; allow it to process&lt;/li&gt;
+  &lt;li&gt;Next, also under “Effects”, choose “Dynamics Processor” and press “Apply” on the pop up window&lt;/li&gt;
+  &lt;li&gt;Normalize again by repeating step 1: “Effects” and “Normalize”&lt;/li&gt;
+  &lt;li&gt;Choose “File” -&amp;gt; “Export”&lt;/li&gt;
+  &lt;li&gt;Ensure that the Output File Format is MPEG 2 Audio Layer III (.mp3) and press “OK”&lt;/li&gt;
+  &lt;li&gt;Name the file the same way you named the session (according to the naming convention below)&lt;/li&gt;
+  &lt;li&gt;Click the arrow next to the file name to drop down the filing menu&lt;/li&gt;
+  &lt;li&gt;Save the file under “Documents” -&amp;gt; “PH_Recordings”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Send the file to erinbrenner@uchicago.edu:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open Chrome or Safari (using the same method you used to open Microwave or from the dock below)&lt;/li&gt;
+  &lt;li&gt;Go to the website WeTransfer.com&lt;/li&gt;
+  &lt;li&gt;Upload the recording -&amp;gt; enter Erin’s email address -&amp;gt; enter your email address -&amp;gt; press Send&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Naming Convention:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Year.Month.Date_Show_Engineer.mp3&lt;/p&gt;
+
+&lt;p&gt;Example:    14.8.31_ThirdCoastPercussion_Remy.mp3&lt;/p&gt;
+
+&lt;p&gt;Example:    15.2.24_MEME_Jace.mp3&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Microphone List</title>
    <link href="performancehall.github.io/2015/12/26/microphone-list.html"/>
-   <updated>2015-12-26T00:00:00-06:00</updated>
+   <updated>2015-12-26T00:00:00-05:00</updated>
    <id>performancehall.github.io/2015/12/26/microphone-list</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Shure SM 58: Dynamic (Cardioid)&lt;/strong&gt;&lt;/p&gt;
 
@@ -131,7 +297,7 @@
  <entry>
    <title>Equipment and Set-Up</title>
    <link href="performancehall.github.io/2015/12/26/equipment-and-setup.html"/>
-   <updated>2015-12-26T00:00:00-06:00</updated>
+   <updated>2015-12-26T00:00:00-05:00</updated>
    <id>performancehall.github.io/2015/12/26/equipment-and-setup</id>
    <content type="html">&lt;h3 id=&quot;stands--safety&quot;&gt;Stands &amp;amp; Safety&lt;/h3&gt;
 &lt;hr /&gt;
@@ -264,7 +430,7 @@ If an amp is involved, but they still want a direct line as well, you’ll have 
  <entry>
    <title>Audio Glossary</title>
    <link href="performancehall.github.io/2015/12/26/audio-glossary.html"/>
-   <updated>2015-12-26T00:00:00-06:00</updated>
+   <updated>2015-12-26T00:00:00-05:00</updated>
    <id>performancehall.github.io/2015/12/26/Audio-Glossary</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;A/D Converter:&lt;/strong&gt; Analog to digital converter, a device that transforms incoming analog signals into digital signals.&lt;/p&gt;
 
@@ -380,7 +546,7 @@ is out of phase. 180 degrees out of phase is a special case which, for a continu
  <entry>
    <title>Projection Cheat Sheet</title>
    <link href="performancehall.github.io/2015/10/03/projection-cheat-sheet.html"/>
-   <updated>2015-10-03T00:00:00-05:00</updated>
+   <updated>2015-10-03T00:00:00-04:00</updated>
    <id>performancehall.github.io/2015/10/03/projection-cheat-sheet</id>
    <content type="html">&lt;h3 id=&quot;basic&quot;&gt;BASIC&lt;/h3&gt;
 
@@ -534,7 +700,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>Introducing Lanyon</title>
    <link href="performancehall.github.io/2014/01/02/introducing-lanyon/"/>
-   <updated>2014-01-02T00:00:00-06:00</updated>
+   <updated>2014-01-02T00:00:00-05:00</updated>
    <id>performancehall.github.io/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
@@ -579,7 +745,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>Example content</title>
    <link href="performancehall.github.io/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00-06:00</updated>
+   <updated>2014-01-01T00:00:00-05:00</updated>
    <id>performancehall.github.io/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
@@ -709,7 +875,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>What's Jekyll?</title>
    <link href="performancehall.github.io/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00-06:00</updated>
+   <updated>2013-12-31T00:00:00-05:00</updated>
    <id>performancehall.github.io/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
