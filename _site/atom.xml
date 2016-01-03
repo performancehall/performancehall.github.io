@@ -4,13 +4,469 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-01-02T18:08:13-05:00</updated>
+ <updated>2016-01-03T11:44:30-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
    <email>kpmccornack@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Penthouse Lightboard Cheatsheet</title>
+   <link href="performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet</id>
+   <content type="html">&lt;h3 id=&quot;startup&quot;&gt;Startup&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn on board via power switch under front lip of board&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Make sure all cables are plugged in first.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Board will take a while to start up&lt;/li&gt;
+  &lt;li&gt;Use the top bank of sliders (they are labeled on the board) to create different lighting looks in the room and shift between them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;if-you-want-to-bring-up-specific-lights-refer-to-the-magic-sheet-image-further-down-this-page&quot;&gt;If you want to bring up specific lights, refer to the “magic sheet” image further down this page.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Type in the number corresponding to the lights you want to bring up on the number pad.&lt;/li&gt;
+  &lt;li&gt;Then hit [@] and a value from 0-100 and then [Enter] to set their brightness.&lt;/li&gt;
+  &lt;li&gt;Hit the [Undo] key several times to turn them off and release control of them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;to-shut-the-board-down&quot;&gt;To shut the board down&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Move the mouse to the top of the screen so the menu bar appears, click on the File menu and then Click Exit.&lt;/li&gt;
+  &lt;li&gt;Then click the power button in the lower left corner of the screen, to the right of where it says “Run Palette.”&lt;/li&gt;
+  &lt;li&gt;The board will then (slowly) shut down.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;if-the-board-crashes&quot;&gt;If the Board Crashes&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can hard power down the board by holding down the power button.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Only do this if you absolutely need to!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/penthouse_board_magic_sheet.jpg&quot; alt=&quot;Penthouse Magic Sheet&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Node Configuration Instructions</title>
+   <link href="performancehall.github.io/2016/01/03/node-configuration.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/node-configuration</id>
+   <content type="html">&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plug the node into the lighting network and write down the ip address taped to the side of the node&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find a Mac (If you’re using a PC, you’re on your own…)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open System Preferences&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the Network Preferences page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Move the “Auditorium” Wi-Fi network&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click on Advanced towards the bottom right corner of the window&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to the TCP/IP page&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the drop down menu where it says “Configure IPv4” select “Manually”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Give the computer an ip address of &lt;code&gt;192.168.0.199&lt;/code&gt; (or any other ip address within the
+lighting network but not used by an entity on that network)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Give the computer a Subnet Mask of &lt;code&gt;255.255.255.0&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click Ok and then click Apply&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Firefox (other browsers are less successful at interacting with the strand
+interface)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Type in the ip address of the mode where you would enter a web address + /mini/&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;If the ip address is: &lt;code&gt;192.168.0.72&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Type in: &lt;code&gt;192.168.0.72/mini/&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are only a few things that you should be changing in this screen, depending
+upon what you are configuring the node to do:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;You can change whether the ports (DMX A and DMX B) output or input DMX by
+going to their respective pages within this screen by clicking on them and then
+selecting DMX in from the drop-down menu&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;You can change what DMX universe (set of 512 DMX channels—usually we’ll just
+be using universes one and two to give the hall a total of 1024 addressable channels of lighting control) each port corresponds to by changing the “Netslot” field value of each port along the bottom of the window.&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;To put a DMX port (A or B) in Universe 1, enter “1” for the “Netslot” For Universe 2, you would enter 513 for the “Netslot”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;If you reconfigure the node, make sure to change the label for each DMX port to reflect what it is doing, (i.e. if you configure a port to be DMX in second universe, change the label to DMX IN U2)&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click Update to update the node with the changes you made. The password is &lt;code&gt;2606&lt;/code&gt;. Go back to the DMX A and DMX B pages to make sure the desired changes held.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After reconfiguring the node, for the changes to take effect, you frequently have to reboot the node by unplugging it from ethernet and then plugging it back in!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’re done! To make your computer connect to the regular internet again, go back to the Configure IPv4 drop down menu in system preferences and change it back to “Using DHCP” and apply the changes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>PH Magic Sheet Summer 2015</title>
+   <link href="performancehall.github.io/2016/01/03/ph-magic-sheet-summer-2015.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/magic-sheet-summer-2015</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/Magic_Sheet_Summer_2015.png&quot; alt=&quot;Magic Sheet&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lighting General Information</title>
+   <link href="performancehall.github.io/2016/01/03/lighting-info.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/lighting-info</id>
+   <content type="html">&lt;h3 id=&quot;control&quot;&gt;CONTROL&lt;/h3&gt;
+
+&lt;p&gt;House Board is Strand Light Palette Classic
+Wireless and wired Strand Shownet Ethernet lighting network N21 Ethernet to DMX nodes available
+Remote Focus Unit Available
+Houselights and Worklights controlled via Strand Vision Net, auxiliary console, and wall panels around the space, as well as through primary console (HTP)&lt;/p&gt;
+
+&lt;h3 id=&quot;power&quot;&gt;POWER&lt;/h3&gt;
+
+&lt;p&gt;400 Amp Three Phase Company Switch available for additional power needs, any use of which must be approved in advance&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;dimmerscircuits&quot;&gt;DIMMERS/CIRCUITS&lt;/h3&gt;
+
+&lt;p&gt;Circuits are 1:1 with corresponding dimmers
+* 192 Strand C21 Dimmers (1-169 for stage lighting)
+* 48 20Amp Non-Dim Circuits (204-223 available)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dimmed Circuits - Stage Pin&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1-52: FOH in Catwalks (52)&lt;/li&gt;
+  &lt;li&gt;53-88: Stage Level (36)&lt;/li&gt;
+  &lt;li&gt;89-148: on Electrics (60)&lt;/li&gt;
+  &lt;li&gt;149-157: Permanently wired to Fixed Pars in Ceiling&lt;/li&gt;
+  &lt;li&gt;158-160: Extra Circuits on Electric 2 (numbered OL 210-212), 161-169: Extra FOH circuits in Catwalks (9) (numbered OL 213-221)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-Dim Relays - Twistlock (L5-20) 210-217: FOH in Catwalks (8)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;204-209: Stage Level (6)&lt;/li&gt;
+  &lt;li&gt;218-223: on Electrics (6)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Work/House Light Circuits&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;170-172: Booth track lights (dim)&lt;/li&gt;
+  &lt;li&gt;173, 174: Blue Running Lights&lt;/li&gt;
+  &lt;li&gt;175, 243: Work/Running Lights Back Stage (dim) 176,184: Projector Booth Track Lights (dim) 177,201: Catwalk Access&lt;/li&gt;
+  &lt;li&gt;178: North and West Vestibules (dim)&lt;/li&gt;
+  &lt;li&gt;179: Stage Vestibule (dim)&lt;/li&gt;
+  &lt;li&gt;181-182: Constant On (Power to House Accents) 193,183,194: Booth work lights&lt;/li&gt;
+  &lt;li&gt;195, 196: Stage Works&lt;/li&gt;
+  &lt;li&gt;197: Catwalk Works&lt;/li&gt;
+  &lt;li&gt;198: Projector Booth work lights&lt;/li&gt;
+  &lt;li&gt;199: Work Lofts Works&lt;/li&gt;
+  &lt;li&gt;200: Work Lofts Works&lt;/li&gt;
+  &lt;li&gt;241: FOH Works (1st Catwalk)&lt;/li&gt;
+  &lt;li&gt;244-249: House Lights (dim)&lt;/li&gt;
+  &lt;li&gt;250-253: House Accents (Dimming Control)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lighting-positions&quot;&gt;LIGHTING POSITIONS&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Front of House&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catwalk 1&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Lighting network, dimmed lighting circuits, non-dim power available Throw distance approximately 37’ to Downstage Center&lt;/li&gt;
+      &lt;li&gt;Length: 47’, Length of ceiling opening: 44’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catwalk 2&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Lighting network, dimmed lighting circuits, non-dim power available Throw distance approximately 46’ to Downstage Center&lt;/li&gt;
+      &lt;li&gt;Length: 47’, Length of ceiling opening: 44’&lt;/li&gt;
+      &lt;li&gt;Design does not permit lights to be pointed far upstage from this position&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catwalk 3&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;No lighting circuits&lt;/li&gt;
+      &lt;li&gt;Design does not permit lights to be pointed at the stage from this position&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catwalk 4&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;No lighting circuits&lt;/li&gt;
+      &lt;li&gt;Design does not permit lights to be pointed at the stage from this position&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Flown Lighting Positions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Electric 1 (U5)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lighting network, dimmed lighting circuits, non-dim power available 30’ Trim, Length 41’8”, Throw distance approximately 36’ to DSC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Electric 2 (U7)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lighting network, dimmed lighting circuits, non-dim power available 30’ Trim, Length 41’0”, Throw distance approximately 41’ to DSC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;followspots&quot;&gt;FOLLOWSPOTS&lt;/h3&gt;
+
+&lt;p&gt;Two Lycian SuperArc 400 Followspots with manual color changers are available, usable from the FOH Followspot booth. The throw is approximately 90 ft to the front of the stage. Use of followspots must be approved in advance.&lt;/p&gt;
+
+&lt;h3 id=&quot;fog-and-haze-machines&quot;&gt;FOG AND HAZE MACHINES&lt;/h3&gt;
+
+&lt;p&gt;Usage of any fog/smoke/haze/atmospherics must be approved in advance&lt;/p&gt;
+
+&lt;h3 id=&quot;strobeslasers&quot;&gt;STROBES/LASERS&lt;/h3&gt;
+
+&lt;p&gt;Usage of strobe lighting or lasers must be approved in advance&lt;/p&gt;
+
+&lt;h3 id=&quot;pyrotechnics-naked-flame&quot;&gt;PYROTECHNICS, NAKED FLAME&lt;/h3&gt;
+
+&lt;p&gt;No pyrotechnics or flames of any sort are allowed in the space&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Followspot Guide</title>
+   <link href="performancehall.github.io/2016/01/03/followspot-guide.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/followspot-guide</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/Followspot_Guide_1.jpeg&quot; alt=&quot;Follow Spot Guide One&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/Followspot_Guide_2.jpeg&quot; alt=&quot;Follow Spot Guide Two&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A1 Checklist</title>
+   <link href="performancehall.github.io/2016/01/03/a1-checklist.html"/>
+   <updated>2016-01-03T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/01/03/a1-checklist</id>
+   <content type="html">&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Phase Of Show&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Task&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Clock On &amp;amp; Start Checklist&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Check in with your shift leader for a production meeting&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Necessary speakers flown in to proper height and tested&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Banners In or Out&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Talk back mic and monitoring headphones set up &amp;amp; working&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Input channels patched, tested, gained, working, labelled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Signal metering on all channels&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Hanging House mics working &amp;amp; showing signal on Mac Pro&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Recording set up &amp;amp; metering at appropriate level&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;Wireless batteries checked &amp;amp; wireless transmitters sleeved&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;Stairs to stage in or out&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;No extraneous items left on stage&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;Pre-show music playing &amp;amp; video live if requested&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Stage Manager and Lighting are ready for show to start&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Start archival recording as house goes to half&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Un-mute mics and level before speaker / talent approaches mic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Minimize extraneous mic noise (pops when taking mic out of stand or setting on table)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Watch / listen to performers for non-verbal / verbal cues&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Listen and check for proper usage of compressors, gates, FX &amp;amp; EQ&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Follow program or set list for end of show or intermission&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Show&lt;/td&gt;
+      &lt;td&gt;Establish whether or not performers are coming out for an encore&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Locate, remove, &amp;amp; store / return any borrowed gear&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Test &amp;amp; troubleshoot any malfunctioning equipment, fix or label accordingly&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;On Microwave, save .taf, normalize, compress, normalize, export to mp3, save again, WeTransfer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Clip, bag, and store each mic, coil XLRs, check on drum rug&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Remove show specific patches in patch bay&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Relocate any articles left in house to office or #122 (NO overnight storage without advance approval)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Check backstage for misplaced hall items, restore to their homes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Return rechargeable batteries to charging stations!&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Headphones, talkback mic, cables, adaptors &amp;amp; manual are under desk / put away&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Sequencer is off; SC48 off and covered&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Mac Mini displays &amp;amp; projection systems are off&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Post&lt;/td&gt;
+      &lt;td&gt;Confirm with shift manager that you can leave; Clock off&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Setting Up a Board Feed for a Videographer</title>

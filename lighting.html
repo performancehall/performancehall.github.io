@@ -4,10 +4,27 @@ title: Lighting
 ---
 
 
+<div>
+    <h2>Performance Hall</h2>
+</div>
 
 <div>
     <ul>
-        {% for post in site.lighting %}
+        {% for post in site.hall_lighting %}
+        <li>
+            <a href="{{ post.url }}"> {{ post.title}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div>
+    <h2>Penthouse</h2>
+</div>
+
+<div>
+    <ul>
+        {% for post in site.penthouse_lighting %}
         <li>
             <a href="{{ post.url }}"> {{ post.title}}</a>
         </li>

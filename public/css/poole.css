@@ -52,7 +52,7 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
+@media (min-width: 42em) {
   html {
     font-size: 20px;
   }
@@ -154,7 +154,7 @@ pre {
 code {
   padding: .25em .5em;
   font-size: 85%;
-  color: #bf616a;
+  color: #000080;
   background-color: #f9f9f9;
   border-radius: 3px;
 }

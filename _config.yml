@@ -22,8 +22,8 @@ author:
 version:             1.1.0
 
 audio:
-    #- title: Audio Basics Guide
-     # url: /assets/audio_basics_guide.pdf
+    - title: A1 Checklist
+      url: /2016/01/03/a1-checklist.html
     - title: Audio Glossary
       url: /2015/12/26/audio-glossary.html
     - title: Archival Recording Instructions and Standards
@@ -44,19 +44,29 @@ audio:
       url: /2015/12/30/setting-up-monitors.html
     - title: Seven System Dwarves
       url: /2015/12/29/seven-system-dwarves.html
-lighting:
+
+hall_lighting:
+    - title: Followspot Guide
+      url: /2016/01/03/followspot-guide.html
+    - title: General Information
+      url: /2016/01/03/lighting-info.html
     - title: Performance Hall Magic Sheet
-      url: /assets/ph_magic_sheet.pdf
-    - title: Penthouse Lighting Board Cheat Sheet
-      url: /assets/lighting_board_cheat_sheet.pdf
-    - title: Node Configuration Instructions
-      url: /assets/lighting_node_config.pdf
+      url: /2016/01/03/ph-magic-sheet-summer-2015.html
     - title: Performance Hall Channel Hookup
       url: /assets/lighting_channel_hookup.pdf
     - title: Performance Hall Rep Plot
       url: /assets/lighting_rep_plot.pdf
     - title: Performance Hall Instrument Schedule
       url: /assets/lighting_instrument_schedule.pdf
+    - title: Node Configuration Instructions
+      url: /2016/01/03/node-configuration.html
+
+penthouse_lighting:
+    - title: Penthouse Channel Hookup
+      url: /assets/penthouse_channel_hookup.pdf
+    - title: Penthouse Lightboard Cheat Sheet
+      url: /2016/01/03/penthouse-lightboard-cheatsheet.html
+
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html
