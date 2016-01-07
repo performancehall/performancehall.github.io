@@ -14,12 +14,10 @@ Pre | Input channels patched, tested, gained, working, labelled
 Pre | Signal metering on all channels
 Pre | Hanging House mics working & showing signal on Mac Pro
 Pre | Recording set up & metering at appropriate level
-
 Opening | Wireless batteries checked & wireless transmitters sleeved
 Opening | Stairs to stage in or out
 Opening | No extraneous items left on stage
 Opening | Pre-show music playing & video live if requested
-
 Show | Stage Manager and Lighting are ready for show to start
 Show | Start archival recording as house goes to half
 Show | Un-mute mics and level before speaker / talent approaches mic
@@ -28,8 +26,6 @@ Show | Watch / listen to performers for non-verbal / verbal cues
 Show | Listen and check for proper usage of compressors, gates, FX & EQ
 Show | Follow program or set list for end of show or intermission
 Show | Establish whether or not performers are coming out for an encore
-
-
 Post | Locate, remove, & store / return any borrowed gear
 Post | Test & troubleshoot any malfunctioning equipment, fix or label accordingly
 Post | On Microwave, save .taf, normalize, compress, normalize, export to mp3, save again, WeTransfer
