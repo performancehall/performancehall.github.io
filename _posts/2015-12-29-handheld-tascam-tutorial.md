@@ -57,7 +57,7 @@ Year.Month.Date_Description_Engineer.mp3 (Example: 14.3.19_FOTA_Kyle.mp3)
 
 Then, send the file to:
 
-    erinbrenner@uchicago.edu.
+    erinbrenner@uchicago.edu
 
 1. Go to the website WeTransfer.com
 2. Upload the recording to the site
