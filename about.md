@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 title: About
 ---
@@ -6,3 +6,4 @@ title: About
 ###Hello!
 
 Information is on the way!
+--->
