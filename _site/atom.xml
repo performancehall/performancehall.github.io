@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-02-05T17:16:55-06:00</updated>
+ <updated>2016-02-05T17:28:11-06:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Grand Curtain Installation Tutorial</title>
-   <link href="performancehall.github.io/2016/01/21/grand-tutorial.html"/>
+   <link href="performancehall.github.io/_posts/2016-01-21-grand-tutorial.html"/>
    <updated>2016-01-21T00:00:00-06:00</updated>
-   <id>performancehall.github.io/2016/01/21/grand-tutorial</id>
+   <id>performancehall.github.io/_posts/grand-tutorial</id>
    <content type="html">&lt;h1 id=&quot;what-the-grand-is&quot;&gt;What the Grand Is&lt;/h1&gt;
 
 &lt;p&gt;Our Grand Curtain is a manually operated dual curtain system used to cut the

@@ -2,7 +2,7 @@
 layout: post
 title: Grand Curtain Installation Tutorial
 author: By Kyle McCornack |
-permalink: /2016/01/21/grand-tutorial.html
+permalink: /_posts/2016-01-21-grand-tutorial.html
 ---
 
 #What the Grand Is
