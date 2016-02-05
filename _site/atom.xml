@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-01-03T11:48:04-05:00</updated>
+ <updated>2016-02-05T17:16:55-06:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -13,9 +13,289 @@
 
  
  <entry>
+   <title>Grand Curtain Installation Tutorial</title>
+   <link href="performancehall.github.io/2016/01/21/grand-tutorial.html"/>
+   <updated>2016-01-21T00:00:00-06:00</updated>
+   <id>performancehall.github.io/2016/01/21/grand-tutorial</id>
+   <content type="html">&lt;h1 id=&quot;what-the-grand-is&quot;&gt;What the Grand Is&lt;/h1&gt;
+
+&lt;p&gt;Our Grand Curtain is a manually operated dual curtain system used to cut the
+stage (usually very far downstage) in order to create dramatic opening and
+finale effects.
+It consists of:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Two (2) batton mounted frames, one upstage, one downstage, which support three of the four pulleys,
+ and support the track on which the curtain carriers run.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Four (4) pulleys, three of which reside on the frame pieces, and one of which lives on the ground during operation of the curtain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Fifty-six (56) single curtain carriers. One single curtain carrier lives at the offstage end of each frame piece, closest to the pulley.
+The remaining 54 single carriers are evenly distributed on the tracks of each of the frame pieces, and support and enable the movement of the curtain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_10.jpg&quot; alt=&quot;Single Carrier&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Two (2) master curtain carriers. One master carrier lives on each track as the furthest on-stage carrier, after all the single carriers have been placed.
+The master carriers serve to clamp the rope to segment it into two pieces, which is essential for the proper operation of the curtain. More on this later.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_8.jpg&quot; alt=&quot;Master Carrier&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Four (4) end stops. Two of these live towards the offstage ends of the carrier track, and two of these live at the onstage ends of the track.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_9.jpg&quot; alt=&quot;End Stop&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One (1) rope. The rope forms a loop that connects through all the curtain carriers and pulleys and (ideally, if the curtain is set up correctly)
+  permits the opening and closing of the Grand Curtain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Two (2) curtains.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;how-the-grand-works&quot;&gt;How the Grand Works&lt;/h1&gt;
+
+&lt;p&gt;The two most important concepts to comprehend in order to understand the operation of the Grand are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The free/restricted movement of the curtain carriers on the track&lt;/li&gt;
+  &lt;li&gt;The movement of the rope through the pulleys and how this influences the movement of the curtain carriers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;on-the-rope&quot;&gt;On the Rope&lt;/h3&gt;
+
+&lt;p&gt;When set up properly, the rope forms a giant loop that connects through:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The pulley on the floor (from where the curtain is operated)&lt;/li&gt;
+  &lt;li&gt;The downstage stage left vertical pulley&lt;/li&gt;
+  &lt;li&gt;The downstage curtain carriers&lt;/li&gt;
+  &lt;li&gt;The stage right horizontal pulley&lt;/li&gt;
+  &lt;li&gt;The upstage curtain carriers&lt;/li&gt;
+  &lt;li&gt;The upstage vertical pulley&lt;/li&gt;
+  &lt;li&gt;The pulley on the floor to complete the loop.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The rope is divided into two segments via clamping at the two master carriers. One of these segments consists of everything that is &lt;strong&gt;stage left&lt;/strong&gt;
+of the downstage master carrier that the rope comes in contact with, so:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The downstage single carriers&lt;/li&gt;
+  &lt;li&gt;The downstage vertical pulley&lt;/li&gt;
+  &lt;li&gt;The ground pulley&lt;/li&gt;
+  &lt;li&gt;The upstage vertical pulley&lt;/li&gt;
+  &lt;li&gt;The rope between the upstage vertical pulley and the upstage master carrier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The other segment consists of everything that is effectively &lt;strong&gt;stage right&lt;/strong&gt; of the downstage master carrier:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The rope between the downstage master carrier and the stage right horizontal pulley&lt;/li&gt;
+  &lt;li&gt;The stage right horizontal pulley itself&lt;/li&gt;
+  &lt;li&gt;The upstage single curtain carriers&lt;/li&gt;
+  &lt;li&gt;The upstage master curtain carrier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The segmentation / clamping at the master carriers is one of the integral parts of the movement of the curtain.
+If not for this, the rope would just move mostly unimpeded through the single carriers and the curtain would not move along with the rope.&lt;/p&gt;
+
+&lt;p&gt;Given this importance, it is pertinent to have the proper lengths of rope in each segment,
+and the proper amount of slack distributed between the segments.&lt;/p&gt;
+
+&lt;p&gt;When initially setting up the rope, you must size the rope lengths to the stage right segment. The stage left segment is slightly more
+flexible in terms of the acceptable range of rope length and permittable slack.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-movement-of-the-rope&quot;&gt;The Movement of the Rope.&lt;/h3&gt;
+
+&lt;p&gt;When the rope is clamped at the two master carriers, pulling on one of the two vertical segments of rope from the floor position
+either closes or opens the curtain. This works because the rope is fixed at the master carriers.&lt;/p&gt;
+
+&lt;p&gt;If you imagine a position at upstage center to be 12 o clock, closing the curtain moves the rope and the carriers clockwise around the loop, and opening the curtain moves the
+rope/carriers counterclockwise around the loop. The master carriers are hooked to the onstage edges of the curtain. The single carriers are hooked onto the rest of the grommets with the most offstage grommet hooked to a carrier that is secured behind a bracket on the track.&lt;/p&gt;
+
+&lt;p&gt;As the curtain is closed and the master carriers are pulled onstage the master carriers will pull the curtain edges taught and cause the single carriers to pseudo-follow the rope as they follow the grommets on the curtain to which they are connected as the curtain is gradually pulled taught. When the curtain is opened the master carriers will be pulled offstage and will collide with the single carriers, pulling them offstage with it. This will pull the curtain along with the grommets similar to the action when closing the curtain.&lt;/p&gt;
+
+&lt;p&gt;Now that you hopefully understand the movement of the curtain, let’s tell you how to actually build it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;building-the-curtain&quot;&gt;Building the Curtain&lt;/h1&gt;
+
+&lt;p&gt;First gather the parts and tools you’ll need. These include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The single and master curtain carriers
+&lt;br /&gt;   These live in a plastic bin in the stage right upstage wing&lt;/li&gt;
+  &lt;li&gt;The rope - Lives in another plastic bin by the bin for the carriers&lt;/li&gt;
+  &lt;li&gt;Crescent wrenches - Live in Janice on one of the lower-ish shelves&lt;/li&gt;
+  &lt;li&gt;Patience - Find it inside yourself&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fly in U2, assuming the frame for the Grand is still built out on it.&lt;/p&gt;
+
+&lt;h2 id=&quot;placing-the-curtain-carriers-on-the-track&quot;&gt;Placing the Curtain Carriers on the Track&lt;/h2&gt;
+
+&lt;p&gt;The first thing you need to do is remove the end stops from the onstage ends of the track.
+You’re doing this in order to place the curtain carriers on the track.&lt;/p&gt;
+
+&lt;p&gt;Once the end stops are off, place twenty-seven (27) single carriers on each track.
+These need to be placed so that the fold guides are pointing downstage. &lt;/p&gt;
+
+&lt;p&gt;Once the single carriers are all placed, count them again to make sure you have 27 on each side,
+then place one master carrier on each track, these should be oriented so that the metal posts on the downstage
+master carriers point downstage, and so that the posts on the upstage master carrier point upstage.&lt;/p&gt;
+
+&lt;p&gt;Once the carriers are all in place, check again to make sure you have the proper number of carriers on each track,
+then replace and resecure the end stops at the onstage ends of the tracks.&lt;/p&gt;
+
+&lt;p&gt;Once the end stops are in place you can begin to thread the rope through the pulleys and carriers.&lt;/p&gt;
+
+&lt;h2 id=&quot;threading-the-rope&quot;&gt;Threading the Rope&lt;/h2&gt;
+
+&lt;p&gt;Begin by threading the rope through the floor pulley. With the pulley placed on the floor and the knob facing stage left and you,
+thread the rope through the gap in the top on the right hand side, staying between the pulley and the bar. Continue feeding the rope along
+the wheel, staying inside the posts, until you can bring the rope up out the other side of the gap at the top.&lt;/p&gt;
+
+&lt;p&gt;Now feed the end of the rope that you pulled through the left side of the gap through the downstage, stage left vertical pulley.
+With this pulley, (and with its upstage cousin later on) take the rope up and outside the bottom bar, then feed it along the
+wheel and the inside of the posts until you can come out the onstage gap that leads to the curtain carriers.&lt;/p&gt;
+
+&lt;p&gt;Once you’re through that pulley, feed it through the big holes of the downstage single carriers, starting with the one closest to the vertical pulley
+(this is stage left of the offstage endstop and may be hard to see, as it’s very close to the pulley). Feed the rope through all the big holes on the single carriers one after the other, making sure not to skip any.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve finished threading the downstage single carriers, skip the downstage master carrier for now, and pull the rope to the stage right horizontal pulley.
+Thread through the stage right horizontal pulley. Feed the rope through the inner gap, around the wheel, again, staying on the inside of the bar in the back. However,
+once you’re around the back and the rope is along the wheel, skip going back through the inner gap and feed the rope through the offstage single carrier’s hole.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_11.jpg&quot; alt=&quot;Stage Right Pulley&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now feed through the rest of the upstage single carriers.&lt;/p&gt;
+
+&lt;p&gt;Once you’re through all the single carriers, pull the master carrier to the onstage end of the track. Now pull the rope so that you have about a foot and a half of slack at the master carrier at the end of the track. Push the rope into the the gap between the metal posts of the master carrier.&lt;/p&gt;
+
+&lt;p&gt;Have someone go to the downstage master carrier and pull it as far onstage as it will go. Have the upstage person
+hold their end of the rope, and have the downstage person pull the rope towards stage left so the rope is taught. With the rope taught,
+or mostly taught, place the rope into the gap between the metal posts on the downstage master carrier, leaving a little slack,  and clamp the rope in place.&lt;/p&gt;
+
+&lt;p&gt;Now you can feed the stage left part of the rope (the end that isn’t the one you’ve been working with this whole time) through the upstage vertical pulley,
+like you did before with the other one.&lt;/p&gt;
+
+&lt;p&gt;Once you’re through the pulley pull that end of the rope to the upstage master carrier. Pull it so that you have about the same amount of slack on that end as on the other end, shove both ends into the gap in the metal posts and clamp them tightly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_6.jpg&quot; alt=&quot;Upstage Master Carrier Slack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the rope is secured to the master carriers, you can start hanging the curtain on the hooks hanging from the carriers.&lt;/p&gt;
+
+&lt;h2 id=&quot;hanging-the-curtain&quot;&gt;Hanging the Curtain&lt;/h2&gt;
+
+&lt;p&gt;Dump each side of the curtains on their respective side of the stage, and unroll them enough so that you can hang them on the hooks.
+You should bring all the carriers back to the offstage ends. Make sure the labeled side of the curtain is facing upstage, and start
+hooking the hooks to the grommets on the curtain. The farthest offstage grommet hooks onto the single carrier that is ‘anchored’ offstage,
+and the furthest onstage grommet hooks onto the hooks of the master carrier. There should be exactly as many hooks from the single and master carriers
+as there are grommets on the curtain. Once all the hooks are attached to the grommets, you’re good to fly the Grand out.&lt;/p&gt;
+
+&lt;p&gt;As you fly it out, have someone watch the slack by the floor pulley and feed it so that it doesn’t catch on itself. If you’re able to fly the curtain all the way out
+without picking up the pulley, you’re in luck you got the rope lengths mostly right on your first try.&lt;/p&gt;
+
+&lt;p&gt;Try running the curtain.&lt;/p&gt;
+
+&lt;p&gt;If you can close the curtain and open it somewhat easily then congratulations!
+You just built out what has historically been the most frustrating piece of equipment we own.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure the stage right segment of rope is at the proper tension and length&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve left off the fold guides of the single carriers. These are the small holes on the little brackets that are connected by a small chain to the single carriers. In previous (incorrect) configurations of the Grand, the rope used to be threaded through these. This is no longer the case, as they seem to serve only to impede the movement of the curtain.&lt;/li&gt;
+  &lt;li&gt;Check to make sure the rope isn’t caught around the floor pulley. If it is you probably have too much slack on the stage left segment. Pull more through the upstage master carrier and reclamp.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;striking-the-grand&quot;&gt;Striking the Grand&lt;/h1&gt;
+
+&lt;p&gt;Pretty much just take everything apart that you set up.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unclamp the ropes from the master carriers.
+    &lt;ul&gt;
+      &lt;li&gt;Re-attach the clamping bracket after the rope is off.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Remove and reserve the end stops&lt;/li&gt;
+  &lt;li&gt;Take the rope out of the carriers and pulleys (if the stage is bare, try and keep it off the wood)&lt;/li&gt;
+  &lt;li&gt;Take all the carriers (except the ones anchored offstage) off the tracks
+    &lt;ul&gt;
+      &lt;li&gt;The best / most fun way is to hold a bin at the end off the track and just push them off the track into the bin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Replace the End Stops&lt;/li&gt;
+  &lt;li&gt;Make sure the rope is somewhat neatly in the bin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;folding-the-curtains&quot;&gt;Folding the curtains&lt;/h1&gt;
+
+&lt;p&gt;Folding the curtains is easier to get wrong then you may think, and if you get it wrong you may not be able to fit the curtain in its bin,
+which, writing from experience is extremely frustrating at the end of a long strike call. Thankfully it’s also easy to fold properly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Begin by laying the curtain out flat (or as flat as it will get with its pleats).
+    &lt;ul&gt;
+      &lt;li&gt;Pull the bottom corners taught, then the top corners.&lt;/li&gt;
+      &lt;li&gt;Make sure the center seam is relatively straight between the top and bottom of the curtain.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once the curtain is laid out, you can fold it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have one person at one top corner and one person at the bottom corner of the same side. Together you’ll fold the curtain from one edge to the center seam.&lt;/li&gt;
+  &lt;li&gt;Run and lift the curtain in a similar manner to how you would fold any other of our soft goods (try to catch air).&lt;/li&gt;
+  &lt;li&gt;Make sure that your fold aligns nicely with the seam, and make sure the fold is about as flat as it can be, not overlapping on itself.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you’ve checked that, fold the other side similarly.&lt;/p&gt;
+
+&lt;p&gt;After the other side is folded, you’re going to fold from the outside edges to the center again, similar to what you just did.&lt;/p&gt;
+
+&lt;p&gt;It should look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/grand_pics/grand_7.jpg&quot; alt=&quot;Twice Folded&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you’ve completed the second fold to the center, you’re going to take one side and fold it over the center line to the seam on the other side.
+The best way to do this is to get like four or so people to just pick the whole side up and place it across to the seam.&lt;/p&gt;
+
+&lt;p&gt;Now take the edge of the other side and fold it to the edge of the side you just folded (so over on itself). Once it’s all folded, roll from the bottom to the top.
+The roll will be pretty thick, but it should fit nicely in the bin. Once that’s done, repeat the process for the other curtain.&lt;/p&gt;
+
+&lt;p&gt;After that, thank the Grand for its service and celebrate being done with it for now.&lt;/p&gt;
+
+&lt;p&gt;Then, party.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://49.media.tumblr.com/tumblr_ly2hdgDFoL1r4ghkoo1_500.gif&quot; alt=&quot;spongebob&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Penthouse Lightboard Cheatsheet</title>
    <link href="performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet</id>
    <content type="html">&lt;h3 id=&quot;startup&quot;&gt;Startup&lt;/h3&gt;
 
@@ -62,7 +342,7 @@
  <entry>
    <title>Node Configuration Instructions</title>
    <link href="performancehall.github.io/2016/01/03/node-configuration.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/node-configuration</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
@@ -150,7 +430,7 @@ be using universes one and two to give the hall a total of 1024 addressable chan
  <entry>
    <title>PH Magic Sheet Summer 2015</title>
    <link href="performancehall.github.io/2016/01/03/ph-magic-sheet-summer-2015.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/magic-sheet-summer-2015</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/Magic_Sheet_Summer_2015.png&quot; alt=&quot;Magic Sheet&quot; /&gt;&lt;/p&gt;
 </content>
@@ -159,7 +439,7 @@ be using universes one and two to give the hall a total of 1024 addressable chan
  <entry>
    <title>Lighting General Information</title>
    <link href="performancehall.github.io/2016/01/03/lighting-info.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/lighting-info</id>
    <content type="html">&lt;h3 id=&quot;control&quot;&gt;CONTROL&lt;/h3&gt;
 
@@ -295,7 +575,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>Followspot Guide</title>
    <link href="performancehall.github.io/2016/01/03/followspot-guide.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/followspot-guide</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/Followspot_Guide_1.jpeg&quot; alt=&quot;Follow Spot Guide One&quot; /&gt;
 &lt;br /&gt;
@@ -306,7 +586,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>A1 Checklist</title>
    <link href="performancehall.github.io/2016/01/03/a1-checklist.html"/>
-   <updated>2016-01-03T00:00:00-05:00</updated>
+   <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/a1-checklist</id>
    <content type="html">&lt;table&gt;
   &lt;thead&gt;
@@ -352,116 +632,101 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
       &lt;td style=&quot;text-align: center&quot;&gt;Pre&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;Recording set up &amp;amp; metering at appropriate level&lt;/td&gt;
     &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Opening&lt;/td&gt;
-      &lt;td&gt;Wireless batteries checked &amp;amp; wireless transmitters sleeved&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Opening&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Wireless batteries checked &amp;amp; wireless transmitters sleeved&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Opening&lt;/td&gt;
-      &lt;td&gt;Stairs to stage in or out&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Opening&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Stairs to stage in or out&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Opening&lt;/td&gt;
-      &lt;td&gt;No extraneous items left on stage&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Opening&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No extraneous items left on stage&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Opening&lt;/td&gt;
-      &lt;td&gt;Pre-show music playing &amp;amp; video live if requested&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Stage Manager and Lighting are ready for show to start&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Opening&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pre-show music playing &amp;amp; video live if requested&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Start archival recording as house goes to half&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Stage Manager and Lighting are ready for show to start&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Un-mute mics and level before speaker / talent approaches mic&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Start archival recording as house goes to half&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Minimize extraneous mic noise (pops when taking mic out of stand or setting on table)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Un-mute mics and level before speaker / talent approaches mic&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Watch / listen to performers for non-verbal / verbal cues&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Minimize extraneous mic noise (pops when taking mic out of stand or setting on table)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Listen and check for proper usage of compressors, gates, FX &amp;amp; EQ&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Watch / listen to performers for non-verbal / verbal cues&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Follow program or set list for end of show or intermission&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Listen and check for proper usage of compressors, gates, FX &amp;amp; EQ&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Show&lt;/td&gt;
-      &lt;td&gt;Establish whether or not performers are coming out for an encore&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Locate, remove, &amp;amp; store / return any borrowed gear&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Follow program or set list for end of show or intermission&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Test &amp;amp; troubleshoot any malfunctioning equipment, fix or label accordingly&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Show&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Establish whether or not performers are coming out for an encore&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;On Microwave, save .taf, normalize, compress, normalize, export to mp3, save again, WeTransfer&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Locate, remove, &amp;amp; store / return any borrowed gear&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Clip, bag, and store each mic, coil XLRs, check on drum rug&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Test &amp;amp; troubleshoot any malfunctioning equipment, fix or label accordingly&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Remove show specific patches in patch bay&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;On Microwave, save .taf, normalize, compress, normalize, export to mp3, save again, WeTransfer&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Relocate any articles left in house to office or #122 (NO overnight storage without advance approval)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Clip, bag, and store each mic, coil XLRs, check on drum rug&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Check backstage for misplaced hall items, restore to their homes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Remove show specific patches in patch bay&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Return rechargeable batteries to charging stations!&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Relocate any articles left in house to office or #122 (NO overnight storage without advance approval)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Headphones, talkback mic, cables, adaptors &amp;amp; manual are under desk / put away&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Check backstage for misplaced hall items, restore to their homes&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Sequencer is off; SC48 off and covered&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Return rechargeable batteries to charging stations!&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Mac Mini displays &amp;amp; projection systems are off&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Headphones, talkback mic, cables, adaptors &amp;amp; manual are under desk / put away&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Post&lt;/td&gt;
-      &lt;td&gt;Confirm with shift manager that you can leave; Clock off&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Sequencer is off; SC48 off and covered&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Mac Mini displays &amp;amp; projection systems are off&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Post&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Confirm with shift manager that you can leave; Clock off&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -471,7 +736,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>Setting Up a Board Feed for a Videographer</title>
    <link href="performancehall.github.io/2016/01/02/board-feed-for-videographer.html"/>
-   <updated>2016-01-02T00:00:00-05:00</updated>
+   <updated>2016-01-02T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/02/board-feed-for-videographer</id>
    <content type="html">&lt;p&gt;If a group decides they would like a video recording of their event and has hired someone to do so, they may ask for an audio feed from the board. This videographer will probably be doing post production and wants direct raw mic feeds as opposed to using the distance mic on his camera.&lt;/p&gt;
 
@@ -532,7 +797,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>Setting Up monitors</title>
    <link href="performancehall.github.io/2015/12/30/setting-up-monitors.html"/>
-   <updated>2015-12-30T00:00:00-05:00</updated>
+   <updated>2015-12-30T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/30/setting-up-monitors</id>
    <content type="html">&lt;p&gt;The basic idea here is that you’re sending a certain mix of sounds back to the musicians so they can hear themselves better or other instruments that might be too quiet or far away for them to hear otherwise. This mix is, more often than not, different from the house mix that the audience hears. You are sending audio from a channel to an auxiliary output on the Venue (a separate output from the mains), which goes to the patchbay, then to a floorbox or AVP, then to a monitor.&lt;/p&gt;
 
@@ -619,7 +884,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>Seven Bad System Dwarves</title>
    <link href="performancehall.github.io/2015/12/29/seven-system-dwarves.html"/>
-   <updated>2015-12-29T00:00:00-05:00</updated>
+   <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/seven-system-dwarves</id>
    <content type="html">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -630,7 +895,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
  <entry>
    <title>Setting Up a DI-Box</title>
    <link href="performancehall.github.io/2015/12/29/setting-up-a-di-box.html"/>
-   <updated>2015-12-29T00:00:00-05:00</updated>
+   <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/setting-up-a-di-box</id>
    <content type="html">&lt;p&gt;A DI-Box (Direct Input Box) allows you to connect high-impedance sources to a mixer without adverse effects.
 The most common uses are for connecting electric keyboards, guitars, bass guitars and most forms of instrument pickups directly to the mixer without using an amp or microphone.&lt;/p&gt;
@@ -653,7 +918,7 @@ Usually the musician will have his/her instrument plugged directly into the amp,
  <entry>
    <title>Getting Sound From a Mic to the mains</title>
    <link href="performancehall.github.io/2015/12/29/mic-to-mains.html"/>
-   <updated>2015-12-29T00:00:00-05:00</updated>
+   <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/mic-to-mains</id>
    <content type="html">&lt;h2 id=&quot;setting-up-a-mic&quot;&gt;Setting up a Mic&lt;/h2&gt;
 &lt;hr /&gt;
@@ -759,7 +1024,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
  <entry>
    <title>Handheld Tascam Tutorial</title>
    <link href="performancehall.github.io/2015/12/29/handheld_tascam_tutorial.html"/>
-   <updated>2015-12-29T00:00:00-05:00</updated>
+   <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/handheld-tascam-tutorial</id>
    <content type="html">&lt;h2 id=&quot;initial-set-up&quot;&gt;Initial Set Up&lt;/h2&gt;
 
@@ -825,7 +1090,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
 
 &lt;p&gt;Then, send the file to:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;erinbrenner@uchicago.edu.
+&lt;pre&gt;&lt;code&gt;erinbrenner@uchicago.edu
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;ol&gt;
@@ -842,7 +1107,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
  <entry>
    <title>Archival Recording Instructions and Standards</title>
    <link href="performancehall.github.io/2015/12/29/archival_instructions.html"/>
-   <updated>2015-12-29T00:00:00-05:00</updated>
+   <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/archival_instructions</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Setting up the Audio Console:&lt;/strong&gt;&lt;/p&gt;
 
@@ -925,7 +1190,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
  <entry>
    <title>Microphone List</title>
    <link href="performancehall.github.io/2015/12/26/microphone-list.html"/>
-   <updated>2015-12-26T00:00:00-05:00</updated>
+   <updated>2015-12-26T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/26/microphone-list</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Shure SM 58: Dynamic (Cardioid)&lt;/strong&gt;&lt;/p&gt;
 
@@ -1041,7 +1306,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
  <entry>
    <title>Audio Equipment and Set-Up</title>
    <link href="performancehall.github.io/2015/12/26/equipment-and-setup.html"/>
-   <updated>2015-12-26T00:00:00-05:00</updated>
+   <updated>2015-12-26T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/26/audio-equipment-and-setup</id>
    <content type="html">&lt;h3 id=&quot;stands--safety&quot;&gt;Stands &amp;amp; Safety&lt;/h3&gt;
 &lt;hr /&gt;
@@ -1109,7 +1374,7 @@ If you have a hard time getting good coils, use this video to help while practic
  <entry>
    <title>Audio Glossary</title>
    <link href="performancehall.github.io/2015/12/26/audio-glossary.html"/>
-   <updated>2015-12-26T00:00:00-05:00</updated>
+   <updated>2015-12-26T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/26/Audio-Glossary</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;A/D Converter:&lt;/strong&gt; Analog to digital converter, a device that transforms incoming analog signals into digital signals.&lt;/p&gt;
 
@@ -1225,7 +1490,7 @@ is out of phase. 180 degrees out of phase is a special case which, for a continu
  <entry>
    <title>Projection Cheat Sheet</title>
    <link href="performancehall.github.io/2015/10/03/projection-cheat-sheet.html"/>
-   <updated>2015-10-03T00:00:00-04:00</updated>
+   <updated>2015-10-03T00:00:00-05:00</updated>
    <id>performancehall.github.io/2015/10/03/projection-cheat-sheet</id>
    <content type="html">&lt;h3 id=&quot;basic&quot;&gt;BASIC&lt;/h3&gt;
 
@@ -1379,7 +1644,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>Introducing Lanyon</title>
    <link href="performancehall.github.io/2014/01/02/introducing-lanyon/"/>
-   <updated>2014-01-02T00:00:00-05:00</updated>
+   <updated>2014-01-02T00:00:00-06:00</updated>
    <id>performancehall.github.io/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
@@ -1424,7 +1689,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>Example content</title>
    <link href="performancehall.github.io/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00-05:00</updated>
+   <updated>2014-01-01T00:00:00-06:00</updated>
    <id>performancehall.github.io/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
@@ -1554,7 +1819,7 @@ section above.&lt;/p&gt;
  <entry>
    <title>What's Jekyll?</title>
    <link href="performancehall.github.io/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00-05:00</updated>
+   <updated>2013-12-31T00:00:00-06:00</updated>
    <id>performancehall.github.io/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
