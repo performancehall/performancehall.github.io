@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-02-05T17:28:11-06:00</updated>
+ <updated>2016-02-05T17:51:25-06:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Grand Curtain Installation Tutorial</title>
+   <title>Grand Tutorial</title>
    <link href="performancehall.github.io/_posts/2016-01-21-grand-tutorial.html"/>
    <updated>2016-01-21T00:00:00-06:00</updated>
    <id>performancehall.github.io/_posts/grand-tutorial</id>
@@ -116,7 +116,7 @@ and the proper amount of slack distributed between the segments.&lt;/p&gt;
 &lt;p&gt;When initially setting up the rope, you must size the rope lengths to the stage right segment. The stage left segment is slightly more
 flexible in terms of the acceptable range of rope length and permittable slack.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-movement-of-the-rope&quot;&gt;The Movement of the Rope.&lt;/h3&gt;
+&lt;h3 id=&quot;the-movement-of-the-rope&quot;&gt;The Movement of the Rope&lt;/h3&gt;
 
 &lt;p&gt;When the rope is clamped at the two master carriers, pulling on one of the two vertical segments of rope from the floor position
 either closes or opens the curtain. This works because the rope is fixed at the master carriers.&lt;/p&gt;

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Grand Curtain Installation Tutorial
+title: Grand Tutorial
 author: By Kyle McCornack |
 permalink: /_posts/2016-01-21-grand-tutorial.html
 ---
 
-#What the Grand Is
+# What the Grand Is #
 
 Our Grand Curtain is a manually operated dual curtain system used to cut the
 stage (usually very far downstage) in order to create dramatic opening and
@@ -38,14 +38,14 @@ It consists of:
 
 ----------------------
 
-#How the Grand Works
+# How the Grand Works #
 
 The two most important concepts to comprehend in order to understand the operation of the Grand are:
 
 * The free/restricted movement of the curtain carriers on the track
 * The movement of the rope through the pulleys and how this influences the movement of the curtain carriers.
 
-###On the Rope
+### On the Rope ###
 
 When set up properly, the rope forms a giant loop that connects through:
 
@@ -82,7 +82,7 @@ and the proper amount of slack distributed between the segments.
 When initially setting up the rope, you must size the rope lengths to the stage right segment. The stage left segment is slightly more
 flexible in terms of the acceptable range of rope length and permittable slack.
 
-###The Movement of the Rope.
+### The Movement of the Rope ###
 
 When the rope is clamped at the two master carriers, pulling on one of the two vertical segments of rope from the floor position
 either closes or opens the curtain. This works because the rope is fixed at the master carriers.
@@ -96,7 +96,7 @@ Now that you hopefully understand the movement of the curtain, let's tell you ho
 
 -------------------
 
-#Building the Curtain
+# Building the Curtain #
 
 First gather the parts and tools you'll need. These include:
 
@@ -108,7 +108,7 @@ First gather the parts and tools you'll need. These include:
 
 Fly in U2, assuming the frame for the Grand is still built out on it.
 
-##Placing the Curtain Carriers on the Track
+## Placing the Curtain Carriers on the Track ##
 
 The first thing you need to do is remove the end stops from the onstage ends of the track.
 You're doing this in order to place the curtain carriers on the track.
@@ -125,7 +125,7 @@ then replace and resecure the end stops at the onstage ends of the tracks.
 
 Once the end stops are in place you can begin to thread the rope through the pulleys and carriers.
 
-##Threading the Rope
+## Threading the Rope ##
 
 Begin by threading the rope through the floor pulley. With the pulley placed on the floor and the knob facing stage left and you,
 thread the rope through the gap in the top on the right hand side, staying between the pulley and the bar. Continue feeding the rope along
@@ -161,7 +161,7 @@ Once you're through the pulley pull that end of the rope to the upstage master c
 
 After the rope is secured to the master carriers, you can start hanging the curtain on the hooks hanging from the carriers.
 
-##Hanging the Curtain
+## Hanging the Curtain ##
 
 Dump each side of the curtains on their respective side of the stage, and unroll them enough so that you can hang them on the hooks.
 You should bring all the carriers back to the offstage ends. Make sure the labeled side of the curtain is facing upstage, and start
@@ -179,7 +179,7 @@ You just built out what has historically been the most frustrating piece of equi
 
 -----
 
-#Troubleshooting
+# Troubleshooting #
 
 * Make sure the stage right segment of rope is at the proper tension and length
 * Make sure you've left off the fold guides of the single carriers. These are the small holes on the little brackets that are connected by a small chain to the single carriers. In previous (incorrect) configurations of the Grand, the rope used to be threaded through these. This is no longer the case, as they seem to serve only to impede the movement of the curtain.
@@ -187,7 +187,7 @@ You just built out what has historically been the most frustrating piece of equi
 
 -----
 
-#Striking the Grand
+# Striking the Grand #
 
 Pretty much just take everything apart that you set up.
 
@@ -202,7 +202,7 @@ Pretty much just take everything apart that you set up.
 
 -----
 
-#Folding the curtains
+# Folding the curtains #
 
 Folding the curtains is easier to get wrong then you may think, and if you get it wrong you may not be able to fit the curtain in its bin,
 which, writing from experience is extremely frustrating at the end of a long strike call. Thankfully it's also easy to fold properly.
