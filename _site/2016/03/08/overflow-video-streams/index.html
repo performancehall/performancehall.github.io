@@ -1,0 +1,56 @@
+<h1 id="setting-up-mezzanine-and-lobby-overflow-video-streams">Setting up Mezzanine and Lobby Overflow Video Streams</h1>
+
+<h2 id="equipment">Equipment</h2>
+
+<p>To set up a video feed for the Gidwitz Lobby Displays and the Mezzanine,
+you will need the following equipment.</p>
+
+<ul>
+  <li>The Decimator</li>
+  <li>One of the Blue SDI Cables</li>
+  <li>XLR Cables</li>
+  <li>HDMI Cable</li>
+  <li>XLR-&gt;RCA Cable</li>
+  <li>1/4” -&gt; XLR Cable</li>
+  <li>A Long Ethernet Cable (will need to be checked out from the cage)</li>
+  <li>A DC Power Adapter </li>
+  <li>The Large Portable TV from the 11th floor.</li>
+  <li>Decoder Remote</li>
+  <li>Camera (likely provided by videographer team)</li>
+</ul>
+
+<h2 id="foh-setup">FOH Setup</h2>
+
+<p>Set up an audio feed for the camera on the Venue with an AUX patched to an unused output (x). 
+Connect AUX-out(x) to  camera’s XLR-in and make sure the audio is routed to SDI-out on the camera. 
+Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk. 
+Set up another AUX on the Venue (should be a copy of the first) so that it is patched to another unused output (y).</p>
+
+<h2 id="amp-room-setup">Amp Room Setup</h2>
+
+<p>Patch V40 video output into Decimator SDI input, and connect power to the Decimator. 
+Connect the Decimator’s HDMI-out to the Encoder’s (labeled “Performance Hall”) HDMI-&gt;DVI-in adapter. 
+The encoder is located in the open slot in the rightmost rack towards the top. 
+To run cabling you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection. 
+Take the XLR-out you patched from FOH (y) from ‘Venue Outputs’ with ¼”-&gt;XLR cable, connect it to the XLR-&gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder. Run SDI from the Decimator’s SDI-out to SM console.</p>
+
+<p>Decimator Settings: HDMI-out&lt;-SDI-in, SDI-out(1)&lt;-SDI-in (make loop)</p>
+
+<h2 id="stage-manager-console-setup">Stage Manager Console Setup</h2>
+<p>Set up a second Decimator with SDI-in taken from the Amp Room SDI run. 
+Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in. Enter Technician Mode at Crestron panel (5540) and route “SM Input” to all the TVs you want to use for overflow viewing.</p>
+
+<p>Decimator Settings: HDMI-out&lt;-SDI-in</p>
+
+<h2 id="theater-eastwest">Theater East/West</h2>
+<p>Remove the Decoder box from below the TV in either Theater West or Theater East.
+(When restoring these, take care with cable/port matches: Yellow Component cable -&gt; Yellow Component output, Black/Silver Audio cable -&gt; Red audio output)</p>
+
+<h2 id="mezzanine">Mezzanine</h2>
+<p>Connect the ethernet cable to left port under Erin’s desk (the right port is disconnected) and connect the other end to “Primary” on the Decoder box. 
+Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box. 
+Run Component-outs from the Decoder to Component-ins on back of TV. 
+Turn on TV and set to Component source. 
+Run HDMI-out from the Decoder to HDMI-in on back of TV. 
+The following must be done quickly: using remote, select 1080i-out on Decoder; switch TV source to HDMI; hit accept/confirm on Decoder remote.</p>
+

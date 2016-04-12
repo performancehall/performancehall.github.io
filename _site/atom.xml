@@ -4,13 +4,485 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-02-05T17:51:25-06:00</updated>
+ <updated>2016-04-12T14:05:20-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
    <email>kpmccornack@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>How to Be a Great Stagehand</title>
+   <link href="performancehall.github.io/2016/04/12/stagehand-guide.html"/>
+   <updated>2016-04-12T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/04/12/stagehand-guide</id>
+   <content type="html">&lt;h3 id=&quot;the-basics&quot;&gt;The Basics&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Remember to stay busy during your work call. If you have nothing to do, ask your other crew members and supervisor if they need help doing anything. 
+*If no one needs help, keep yourself busy by working on something else like tidying backstage or the storage closets, sweeping or mopping the stage, returning tools to their homes, or organizing gels in the catwalks. &lt;/li&gt;
+  &lt;li&gt;If you’ve finished cleaning and your co-workers/supervisor still don’t need assistance, either ask for a break or spend the time getting more familiar with systems that you might not yet understand. &lt;/li&gt;
+  &lt;li&gt;If someone walks into the space while you are staring at your phone, book or computer, it reflects badly on the entire crew and building.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-to-wear-and-not-wear&quot;&gt;What to Wear (and not wear)&lt;/h3&gt;
+
+&lt;h4 id=&quot;appropriate-dress&quot;&gt;Appropriate Dress&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Closed Toe shoes (no flip flops or birkenstocks)&lt;/li&gt;
+  &lt;li&gt;Clothes you can move comfortably in&lt;/li&gt;
+  &lt;li&gt;Full length pants&lt;/li&gt;
+  &lt;li&gt;Appropriate tools for the job (flashlight, crescent wrench, etc)&lt;/li&gt;
+  &lt;li&gt;Long hair is tied back&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;inappropriate-dress-do-not-wear&quot;&gt;Inappropriate Dress (DO NOT WEAR)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open-toed shoes&lt;/li&gt;
+  &lt;li&gt;High heels&lt;/li&gt;
+  &lt;li&gt;Dangly jewelry&lt;/li&gt;
+  &lt;li&gt;Skirts or dresses&lt;/li&gt;
+  &lt;li&gt;Torn or dirty clothes (unless it’s a tech day)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;more-notes&quot;&gt;More Notes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you’re working a show call and/or will be positioned backstage, wear all black (or as close as you can possibly get) with black/dark soft-soled shoes. &lt;/li&gt;
+  &lt;li&gt;NO shorts are allowed (unless it’s a tech day but even then, consider your knees). &lt;/li&gt;
+  &lt;li&gt;If you’re working at front of house, wear all black OR dark professional clothes: button down shirt, dress pants, nice shoes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;communication&quot;&gt;Communication&lt;/h3&gt;
+&lt;p&gt;Don’t be afraid to ask questions. If you don’t know how to do something, ask. It’s way better to spend more time on something during setup than to do something incorrectly if you’re unsure; we will all pay for it at showtime. Double/triple check everything you do and point out concerns or inconsistencies to the other crew members and supervisor. &lt;/p&gt;
+
+&lt;p&gt;Don’t be afraid to talk to those renting/using the spaces. Consider the implications of user requests before saying yes or no. If these requests are outside of your domain, bring that question to the right person:&lt;/p&gt;
+
+&lt;p&gt;Examples: &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can we get access to the greenroom?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    Yes.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can we hang a curtain here?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    I’ll have to ask my Stage Manager or Supervisor.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can we get a 2nd wireless mic?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    I’ll ask the audio engineer for you.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can we get a spotlight here?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    I’ll ask the lighting engineer for you. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can we get a table in the lobby for check in?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    Yes. Then, go grab a table from 065 and bring it up to the lobby. 
+    If you’re short on time, or can’t follow through, reach out 
+    to Operations for support.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I peek through the stage door while people are in the house?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    No. Guide them to look at the video monitor at the Stage Manager 
+    Console instead (you have control over the camera, so you could 
+    scan the audience to get a feel for how crowded the house is). 
+    Otherwise, if they need a better view, tell them to sneak out 
+    into the lower vestibule and enter at the lower level entrance.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I get a stage picture through the stage door?&lt;/strong&gt; &lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    Tell them to hold while you ask the person in charge of the event 
+    to approve this request. Opening the stage door for any reason 
+    other than an entrance will distract the audience, but in the 
+    end it’s up to the person running the show. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;general-shift-etiquette&quot;&gt;General Shift Etiquette&lt;/h3&gt;
+
+&lt;p&gt;While lightheartedness and laughter are crucial and help us all get through long hours of hard labor, remember that you’re here to work. Try not to goof off too much while on the clock. Socialize after work.&lt;/p&gt;
+
+&lt;p&gt;If you are doing something that could potentially affect the entire crew, announce to everyone what you are doing. For example, if you are working in the catwalks or in a genie, shout, “Working overhead!” If you are bringing in a lineset, say, “Lineset moving!” or “U3 flying in!” Before you turn off all the lights off on stage or in the house, you should shout “Going dark!”. Always wait for acknowledgement from others in the space in the form of “Thank you!” before executing the change. &lt;/p&gt;
+
+&lt;p&gt;If there are patrons or members of the cast on stage or in the house and you need to be working up in the catwalks on lighting, check with your supervisor first. It may be better to wait until the space is empty. However, if time is tight, as it can often be, you may have to work despite others being in the way. Make sure those directly below you have cleared the area before continuing to work over them.&lt;/p&gt;
+
+&lt;h3 id=&quot;finding-covers&quot;&gt;Finding Covers&lt;/h3&gt;
+
+&lt;p&gt;If you cannot make a shift for some reason, text/email other members of the crew to find a replacement. Let your manager know immediately. Your shift is your responsibility, so even if you have other things going on, get sick, injured or realize your have a paper due in the morning, you must find a cover because the show must go on. Be very careful when finding a cover because they must have the same skill set you do in order to do your job. Double check with this person the day before the shift to make sure they are still covering for you. If for some reason they fall through, it falls on you. Even one “incident” could put you into suspension. &lt;/p&gt;
+
+&lt;h3 id=&quot;physical-hazards--how-to-be-safe&quot;&gt;Physical Hazards / How to Be Safe&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be smart about lifting heavy objects! 
+    &lt;ul&gt;
+      &lt;li&gt;If you can’t lift it yourself, ask someone to help. &lt;/li&gt;
+      &lt;li&gt;If you are lifting something onto a cart, bring the cart close to the object you are moving. &lt;/li&gt;
+      &lt;li&gt;The less carrying, the less strain on your back. As always, lift with your knees and legs, not your back.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Always confirm that lighting or audio equipment is off before plugging or unplugging anything. &lt;/li&gt;
+  &lt;li&gt;When using a blade, always cut away from yourself and others; be careful and use common sense. &lt;/li&gt;
+  &lt;li&gt;Wear gloves and long sleeves when planning to touch hot lighting fixtures. &lt;/li&gt;
+  &lt;li&gt;Always wear shoes while on the stage. The stage floor splinters terribly and nobody wants that. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;closing-the-hall&quot;&gt;Closing the Hall&lt;/h3&gt;
+
+&lt;p&gt;When closing the hall, don’t ask if you can clock out or go home until:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Everything is back in its place&lt;/li&gt;
+  &lt;li&gt;Stage/backstage/FOH are totally clean&lt;/li&gt;
+  &lt;li&gt;Everything is setup for the next event&lt;/li&gt;
+  &lt;li&gt;All the systems are shut down and the three sets of exterior doors (as well as auxiliary doors to the storage closet, instrument storage, and green room) are closed and locked securely. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;door-stops&quot;&gt;Door Stops:&lt;/h3&gt;
+&lt;p&gt;Always push door stops into the vestibules, not out into the hallways! This is exactly how they grow legs and walk away (/ get stolen by… other departments). Also, push them to the sides of the vestibules so other people walking in don’t trip over them. &lt;/p&gt;
+
+&lt;h3 id=&quot;piano-safety&quot;&gt;Piano Safety&lt;/h3&gt;
+&lt;p&gt;The Steinway is a big object on little wheels! 
+Move it slowly and be aware of all hazards AT ALL TIMES. 
+Do not allow it to come close to running into doors, door frames and walls or over items such as cables, curtain, or the little metal thresholds for the door closers. 
+Immediately lock it down after moving it by twisting the pins on the two wheels near the piano keys clockwise until tight.&lt;/p&gt;
+
+&lt;p&gt;After you have locked down the piano, tri-fold the cover lengthwise, and then roll it up and store it backstage. 
+Next, lift the cover off the piano keys. 
+Then, slide the built in music stand toward the keys and lift it up into place. 
+Ask the the pianist whether they would like the piano lid to be down, at half-stick, or at full-stick. 
+Always double check that the wheels are locked before lifting the lid. 
+The full stick sits in the square hole. The half stick sits in the circular hole. 
+Be extremely careful when handling the piano. &lt;/p&gt;
+
+&lt;p&gt;Always have at least two people moving the piano; a third is helpful to open doors and move anything that’s in the way. 
+These two people moving the piano, or at least one of them, should be from our team. 
+If you see a group trying to move a piano on their own, please step in and put your hands on that piano until it is in place, the wheels are locked, and everyone has stepped away. 
+Kindly open the lid for them. &lt;/p&gt;
+
+&lt;h3 id=&quot;stage-and-spiking-things&quot;&gt;Stage and Spiking Things&lt;/h3&gt;
+&lt;p&gt;Remember to lock the stage wall panels. 
+If they need to be open at an angle where they cannot lock, sandbag them. 
+Sandbags can be found in the amp room. If you see bags sitting out, put them back in the amp room. 
+Confirm that the panels are locked by pushing them gently once or twice. &lt;/p&gt;
+
+&lt;p&gt;Again, double and triple check your work, if necessary, to avoid messing up an entire show. Take your time, ask questions, do it right the first time and you won’t have to be embarrassed when it fails or waste everyone’s time while doing it again.&lt;/p&gt;
+
+&lt;p&gt;Typically, spike the upstage offstage corners of objects.
+Spike the piano with L’s on the upstage and offstage sides of the legs. 
+Spike music stands with T’s directly under the vertical of the stand. Have the long line of the T point the direction the stand faces. If you have more than one stage change, color code each setup. You can even write a note to yourself on the spike tape. Use sharpie or pen and keep it simple. If there is going to be a lot of movement/big set changes, it is a good idea to draw up a stage plot of each change and label the page with the appropriate color of spike tape. If marley is down, put a piece of clear tape over each spike to make sure it doesn’t get danced off. &lt;/p&gt;
+
+&lt;h3 id=&quot;know-your-stage-directions&quot;&gt;Know Your Stage Directions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stage Left and Stage Right&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When speaking stage directions, you always refer to it from the artist’s perspective. If you are standing on stage, facing the audience, your left is stage left and right is stage right. If you are standing in the audience, or at FOH, and you are calling out stage movement, your left will become “stage right” and your right is “stage left”. Same rule applies to someone standing backstage left and looking onto stage from the wing; away from you should be referred to as “stage right”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On and Off Stage&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes, if you’re standing at a funny angle, up in the genie, or it doesn’t matter which direction you’re going, it may be easier for you to explain yourself using “on stage” and “off stage.”&lt;br /&gt;
+“Off stage” is always referring to the direction further away from the center line of the stage and towards the wings in either direction. 
+Moving something “on stage” would mean to move it toward the center line from the wings. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Upstage and Downstage&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Upstage is on the stage further away from the audience, so towards the ‘back’ of the stage.
+Downstage is further towards the audience, so towards the ‘front’ of the stage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flying in and out&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is how we refer to things that are moving up and down. Battens and banners fly in when they are moving down from the ceiling and they fly out when moving back up toward the ceiling. Always call out, in your loudest speaking voice, to the whole room when you are flying battens in or out. Example: Batten 2 flying out! Or U6 flying in! The response should be: Thank you flying in! or Thank you U6!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Stage Terminology</title>
+   <link href="performancehall.github.io/2016/04/12/stage-terminology.html"/>
+   <updated>2016-04-12T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/04/12/stage-terminology</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Apron: The portion of the stage that is downstage of the proscenium arch. (Since we don’t have a built in proscenium in the hall, we consider the apron to be everything downstage of the ‘plaster line’.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Batten: Part of a fly system. A horizontal pipe, supported by lift lines, electrical hoists (ours are drum winch) &amp;amp; motors (variable speed), which is easily raised and lowered; even while holding a substantial amount of weight.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Blackout: Removing all light from the stage, often for a set change.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Boom: A boom is a vertical pipe standing anywhere onstage where lighting units are hung on stage, usually in the wings. They are usually screwed into 50lb boom bases.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Catwalks: A catwalk is a section of the house hidden in the ceiling from which many of the technical functions of a theatre, such as lighting and sound, may be manipulated.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Center Line: A special type of line drawn on a Ground Plan, located at the plane which bisects the stage left and stage right sides of the theater.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Crossover: The upstage place behind any stage curtains or scenery, which allows performers to get from one side of the stage to the other without being seen by the audience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cue: Any moment in the course of a performance where there is a change in the physical state. In the case of sound, a cue might start music playing, and then a subsequent cue might lower the volume as an actor starts to speak, and yet another might fade the music to silence when the scene comes to an end. Cues are most often associated with lighting and sound (any given show quite often has hundreds of light and sound cues), but cues are also established when scenery needs to change, line sets need to fly, effects need to be triggered, etc. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dimmer room: The room which contains the dimmer racks which power the lighting rig in the theater.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Electric: An electric is a horizontal pipe hanging upstage of the proscenium (usually part of the fly system), often with lighting circuits connected to it, where lighting units are hung in a theater.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fly System: A series of pulleys, ropes, wires, and/or other apparatus which collectively allows the hanging and vertical movement of curtains, lighting instruments, scenery, and even people. (Our fly system is motorized electrical drum winch hoists and controlled through the automated rigging system.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Grand Curtain (or Main Curtain): The curtain that closes just upstage of the proscenium arch. Generally speaking, opening the grand curtain signifies the start of the show or act and closing it signifies the end of the act or show.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;House: The place where the audience sits to watch the performance. Also the place where lighting instruments hang when they’re hanging over the audience. Front-of-House can refer to the lobby or other non-performance space where audience members congregate before and after the show and during intermission. (Just to confuse things, Audio Engineers also refer to front-of-house, or FOH, as their house mix position in order to differentiate themselves from the the monitor engineer on stage.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Masking: As a noun, anything which hides something from the audience. As a verb, the act of hiding things from the audience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Plaster Line: An imaginary reference line on stage that indicates where the proscenium arch is. (Our plaster line runs stage left to right from about the point where the stage starts to curve on the downstage lip.) &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Proscenium Arch: The viewing portal or frame through which the audience sees the performance. (Our Proscenium Arch is theoretical except for when the grand curtain and border are hanging on U1 and U2.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shell: A hard, often movable surface, designed to reflect sound into the audience for musical performances.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sight lines: Imaginary lines indicating the view from the extreme-most seats. If someone or something is said to be in sight lines, it means that they are visible to all audience members regardless of seating choice. If someone or something is described as out of sightlines, it means that no audience members are able to see them. A good rule of thumb for sightlines is “if you can see them, they can see you.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Soft Goods: Curtains that are used onstage. This can include the “Blacks,” “Cyc,” “Grand Curtain,” and “Scrims,” among other things. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spike: Marking the stage floor with an indicator showing the location of a set piece or where a performer should stand. Spike marks are usually made on the upstage corners of a prop with small pieces of spike tape to show the direction it should be facing and also color coded by set transition.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stage/Deck: The primary playing space surrounded by the apron, wings, and fly space.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Strike: Strike can be referred to as temporarily taking something away (e.g. “During the scene change, you strike the phone.”).  It can also be used at the end of a run to specify that everything should be disassembled, put away and cleaned in order to have a fresh canvas for the next group coming in. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trim: The height that a batten or any other object hangs at.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wings: Areas that are part of a stage deck but offstage (out of sight of the audience). The wings are typically masked with legs. The wing space is used for performers preparing to enter, storage of sets for scenery changes and as a stagehand work area. Wings also contain technical equipment, such as the fly system.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Guide to Laying and Striking Marley</title>
+   <link href="performancehall.github.io/2016/04/12/marley-guide.html"/>
+   <updated>2016-04-12T00:00:00-05:00</updated>
+   <id>performancehall.github.io/2016/04/12/marley-guide</id>
+   <content type="html">&lt;p&gt;Marley is a type of dance floor. It allows dancers to move easily across the deck and offers more give, resulting in higher and more efficient jumps. Marley comes in heavy vinyl strips. These strips are about four feet wide and span the length of the stage. To both lay out and strike marley, you need at least two people. Ideally, you have a crew of four: two to tape down a strip while the other two prep the next strips.&lt;/p&gt;
+
+&lt;p&gt;The Performance Hall’s marley is stored on pieces of white PVC pipe backstage right. When the flooring is down, the empty rolls can live backstage left, preferably upstage and out of the way. To lay the marley you’ll start offstage right. When rolling it back up you’ll start offstage left. The bottom of the marley will be on the outside of the roll; make sure the correct side is face up. &lt;/p&gt;
+
+&lt;p&gt;Before marley is laid out, the stage should be swept thoroughly. The Performance Hall’s marley is cut into seven panels (1 = upstage, 7 = downstage apron). Each is labeled. If for some reason you can’t find the label, relabel it using gaff tape and a sharpie.&lt;/p&gt;
+
+&lt;p&gt;To lay a marley floor you will need: marley tape, scissors/a blade, at least one buddy, knee pads (optional). While Marley tape is black like gaff tape, it is smooth and shiny in texture. Do not use gaff tape on the marley; it will leave behind a residue. When you need to cut marley tape, use scissors or a blade. Don’t try to tear the marley tape, it’s not worth the effort.&lt;/p&gt;
+
+&lt;p&gt;For both laying and striking the marley, the wings stage left and right should be open. The marley will lie underneath them. Be careful when sliding the marley under each panel; go too far and you’ll hit a hinge and need to readjust. Try not to cover any of the panel locking drop holes so you can still lock them into place if needed. Be aware that the Performance Hall’s stage is trapezoidal. The upstage wall is shorter than the downstage edge and the marley is cut to match this. &lt;/p&gt;
+
+&lt;h2 id=&quot;laying-marley&quot;&gt;Laying Marley&lt;/h2&gt;
+
+&lt;h3 id=&quot;beginning-the-process&quot;&gt;Beginning the process:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;With another person, move the roll #6 of marley to the stage right, downstage corner. The rolls are very heavy, so be careful and work in a team when possible. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The best way to move the marley is to slowly walk the roll over on its end.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tip the marley onto the floor so the longer edge is downstage. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove the pieces of tape holding the roll together. If any tape goo is left on the marley, clean it before laying it down.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Unroll the marley fully by pushing the roll across the stage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Store the PVC pipes in the backstage left corner, upstage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;With another person, align the edges of the marley with off stage walls. Once it’s even on both sides and kissing the lip, park it and tape it down.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If there are no bubbles, tape the stage left and right sides down first. Use three pieces of tape running off stage (one upstage, one downstage and one center) to anchor both sides.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If there are bubbles, tape one side down and have one person kneel on that edge to hold it in place. Have a second person on the other edge pulling toward themselves and a third person stomp across toward the second person. Once the third person has crossed the stage, the second person will tape their edge down before the third person steps off the marley.  &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;taping-lengthwise&quot;&gt;Taping lengthwise:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start offstage right and work your way stage left as a team (or vice versa). &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tech A will hold the tape down while the Tech B creates a long stretch of slack.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Before touching the tape down, Tech B will stretch it taut and carefully hold it over the seam.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tech A will then smoothly press the tape onto the ground (moving toward Tech B) and check for any irregularity along the way.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Continue this process across the length of the stage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;While Techs A and B are taping Panel 6, Techs C and D should be prepping the next panel, laying the rest of the panels out in order.&lt;/li&gt;
+  &lt;li&gt;When securing section #7, tape slowly and try to follow the curve of the lip smoothly. If you must fold tape over the stage edge, do so, but do it neatly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If for some reason you have irregularity, fix the issue before moving on. Irregularity can create dangerous situations for dancers who are unaware of the problem. Here are some situations you would fix:
+* If the marley is overlapping under the tape, either press it out or lift up and start again. A small gap between panels is better than overlap.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If there is a bubble in the marley itself, stomp it out in the direction you’re taping.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If your roll runs out of tape, cut that edge straight, tape it down and grab a new roll. Line up the new piece of tape carefully to ensure clean overlap. &lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Congratulations! You just laid your own dance floor! &lt;/p&gt;
+
+&lt;p&gt;Only one more thing to do before you take a break: dry sweep and mop the marley flooring. Use a bit of the Roscoe Marley Floor Cleaner in your bucket of water but nothing else. If an outside stage manager wants to use something else, ask your supervisor first. &lt;/p&gt;
+
+&lt;h3 id=&quot;notes&quot;&gt;Notes&lt;/h3&gt;
+
+&lt;p&gt;Before every rehearsal or performance on marley, the stage must be swept and then mopped. Mop in smooth figure eights across the stage pulling the dirt toward you and not pushing it out away from you. Clean one strip at a time. When you’ve pulled all the dirt to one end of the stage, use the mop to pick up the dirt and deposit it into the water bucket. Do not walk on the marley until it is dry.&lt;/p&gt;
+
+&lt;p&gt;When using marley alongside soft goods, always roll marley out first. When you need to sweep and mop the marley while soft goods are in, fly the goods out about a foot. This will allow you to clean the entire floor.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;striking-the-marley&quot;&gt;Striking the Marley&lt;/h2&gt;
+
+&lt;p&gt;Striking marley is far easier than laying it. If there are soft goods hanging that touch the floor, sweep the stage and strike the soft goods first. Then:
+*Sweep and mop one last time. Wait for the marley to dry. DO NOT roll the marley up if it is wet.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove all of your tape. (Make a giant tape ball, if you’d like! Play with it, name it, take it home, and shower it with unconditional love. Don’t shower with it.)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Collect your PVC pipes. Always roll panels stage left to stage right.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Starting downstage left (Strip #7), tape the edge of the marley to your PVC pipe at three points; top, center and bottom (Strips #7 and #6 have unique edges that will only need one or two strips of tape to anchor them to the PVC pipe). &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make sure you are taping the marley to the pipe in a way that will allow you to roll the marley in a straight line the entire length of the floor.  One side should always be flush with the pipe edge but not overextending over the end of the pipe edge.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you find that you have lost sight of the pipe on your straight edge, unroll and start over. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once you get to the end, make sure you still have the one exposed PVC pipe edge you’ve been working hard to maintain throughout the length of the roll.  This is the side the marley will stand on when stored upright.  &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If it looks good and your edge is straight, you’re ready to tape the rolled up marley to itself (again top, center, and bottom).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Double check that it has not lost its label. If it has, make a new one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stand the rolled up marley in its home backstage right.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;DO NOT store upright unsupported by the PVC pipe with the weight on the edge of the flooring itself. This will cause the ends to bend and crease in ways that will damage the marley long term.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Overflow Video Streams</title>
+   <link href="performancehall.github.io/2016/03/08/overflow-video-streams/"/>
+   <updated>2016-03-08T00:00:00-06:00</updated>
+   <id>performancehall.github.io/2016/03/08/overflow-video-streams</id>
+   <content type="html">&lt;h1 id=&quot;setting-up-mezzanine-and-lobby-overflow-video-streams&quot;&gt;Setting up Mezzanine and Lobby Overflow Video Streams&lt;/h1&gt;
+
+&lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;To set up a video feed for the Gidwitz Lobby Displays and the Mezzanine,
+you will need the following equipment.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Decimator&lt;/li&gt;
+  &lt;li&gt;One of the Blue SDI Cables&lt;/li&gt;
+  &lt;li&gt;XLR Cables&lt;/li&gt;
+  &lt;li&gt;HDMI Cable&lt;/li&gt;
+  &lt;li&gt;XLR-&amp;gt;RCA Cable&lt;/li&gt;
+  &lt;li&gt;1/4” -&amp;gt; XLR Cable&lt;/li&gt;
+  &lt;li&gt;A Long Ethernet Cable (will need to be checked out from the cage)&lt;/li&gt;
+  &lt;li&gt;A DC Power Adapter &lt;/li&gt;
+  &lt;li&gt;The Large Portable TV from the 11th floor.&lt;/li&gt;
+  &lt;li&gt;Decoder Remote&lt;/li&gt;
+  &lt;li&gt;Camera (likely provided by videographer team)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;foh-setup&quot;&gt;FOH Setup&lt;/h2&gt;
+
+&lt;p&gt;Set up an audio feed for the camera on the Venue with an AUX patched to an unused output (x). 
+Connect AUX-out(x) to  camera’s XLR-in and make sure the audio is routed to SDI-out on the camera. 
+Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk. 
+Set up another AUX on the Venue (should be a copy of the first) so that it is patched to another unused output (y).&lt;/p&gt;
+
+&lt;h2 id=&quot;amp-room-setup&quot;&gt;Amp Room Setup&lt;/h2&gt;
+
+&lt;p&gt;Patch V40 video output into Decimator SDI input, and connect power to the Decimator. 
+Connect the Decimator’s HDMI-out to the Encoder’s (labeled “Performance Hall”) HDMI-&amp;gt;DVI-in adapter. 
+The encoder is located in the open slot in the rightmost rack towards the top. 
+To run cabling you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection. 
+Take the XLR-out you patched from FOH (y) from ‘Venue Outputs’ with ¼”-&amp;gt;XLR cable, connect it to the XLR-&amp;gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder. Run SDI from the Decimator’s SDI-out to SM console.&lt;/p&gt;
+
+&lt;p&gt;Decimator Settings: HDMI-out&amp;lt;-SDI-in, SDI-out(1)&amp;lt;-SDI-in (make loop)&lt;/p&gt;
+
+&lt;h2 id=&quot;stage-manager-console-setup&quot;&gt;Stage Manager Console Setup&lt;/h2&gt;
+&lt;p&gt;Set up a second Decimator with SDI-in taken from the Amp Room SDI run. 
+Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in. Enter Technician Mode at Crestron panel (5540) and route “SM Input” to all the TVs you want to use for overflow viewing.&lt;/p&gt;
+
+&lt;p&gt;Decimator Settings: HDMI-out&amp;lt;-SDI-in&lt;/p&gt;
+
+&lt;h2 id=&quot;theater-eastwest&quot;&gt;Theater East/West&lt;/h2&gt;
+&lt;p&gt;Remove the Decoder box from below the TV in either Theater West or Theater East.
+(When restoring these, take care with cable/port matches: Yellow Component cable -&amp;gt; Yellow Component output, Black/Silver Audio cable -&amp;gt; Red audio output)&lt;/p&gt;
+
+&lt;h2 id=&quot;mezzanine&quot;&gt;Mezzanine&lt;/h2&gt;
+&lt;p&gt;Connect the ethernet cable to left port under Erin’s desk (the right port is disconnected) and connect the other end to “Primary” on the Decoder box. 
+Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box. 
+Run Component-outs from the Decoder to Component-ins on back of TV. 
+Turn on TV and set to Component source. 
+Run HDMI-out from the Decoder to HDMI-in on back of TV. 
+The following must be done quickly: using remote, select 1080i-out on Decoder; switch TV source to HDMI; hit accept/confirm on Decoder remote.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Grand Tutorial</title>
@@ -157,7 +629,7 @@ then place one master carrier on each track, these should be oriented so that th
 master carriers point downstage, and so that the posts on the upstage master carrier point upstage.&lt;/p&gt;
 
 &lt;p&gt;Once the carriers are all in place, check again to make sure you have the proper number of carriers on each track,
-then replace and resecure the end stops at the onstage ends of the tracks.&lt;/p&gt;
+then replace and re-secure the end stops at the onstage ends of the tracks.&lt;/p&gt;
 
 &lt;p&gt;Once the end stops are in place you can begin to thread the rope through the pulleys and carriers.&lt;/p&gt;
 
@@ -182,7 +654,7 @@ once you’re around the back and the rope is along the wheel, skip going back t
 
 &lt;p&gt;Now feed through the rest of the upstage single carriers.&lt;/p&gt;
 
-&lt;p&gt;Once you’re through all the single carriers, pull the master carrier to the onstage end of the track. Now pull the rope so that you have about a foot and a half of slack at the master carrier at the end of the track. Push the rope into the the gap between the metal posts of the master carrier.&lt;/p&gt;
+&lt;p&gt;Once you’re through all the single carriers, pull the master carrier to the onstage end of the track. Now pull the rope so that you have about a foot and a half of slack at the master carrier at the end of the track. Push the rope into the gap between the metal posts of the master carrier.&lt;/p&gt;
 
 &lt;p&gt;Have someone go to the downstage master carrier and pull it as far onstage as it will go. Have the upstage person
 hold their end of the rope, and have the downstage person pull the rope towards stage left so the rope is taught. With the rope taught,

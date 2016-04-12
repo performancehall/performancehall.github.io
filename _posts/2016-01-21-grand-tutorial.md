@@ -121,7 +121,7 @@ then place one master carrier on each track, these should be oriented so that th
 master carriers point downstage, and so that the posts on the upstage master carrier point upstage.
 
 Once the carriers are all in place, check again to make sure you have the proper number of carriers on each track,
-then replace and resecure the end stops at the onstage ends of the tracks.
+then replace and re-secure the end stops at the onstage ends of the tracks.
 
 Once the end stops are in place you can begin to thread the rope through the pulleys and carriers.
 
@@ -146,7 +146,7 @@ once you're around the back and the rope is along the wheel, skip going back thr
 
 Now feed through the rest of the upstage single carriers.
 
-Once you're through all the single carriers, pull the master carrier to the onstage end of the track. Now pull the rope so that you have about a foot and a half of slack at the master carrier at the end of the track. Push the rope into the the gap between the metal posts of the master carrier.
+Once you're through all the single carriers, pull the master carrier to the onstage end of the track. Now pull the rope so that you have about a foot and a half of slack at the master carrier at the end of the track. Push the rope into the gap between the metal posts of the master carrier.
 
 Have someone go to the downstage master carrier and pull it as far onstage as it will go. Have the upstage person
 hold their end of the rope, and have the downstage person pull the rope towards stage left so the rope is taught. With the rope taught,
