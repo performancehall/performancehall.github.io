@@ -5,8 +5,8 @@ permalink: /2016/04/12/stagehand-guide.html
 ---
 
 ###The Basics
-* Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.
 
+* Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.
 * Remember to stay busy during your work call. If you have nothing to do, ask your other crew members and supervisor if they need help doing anything. 
 *If no one needs help, keep yourself busy by working on something else like tidying backstage or the storage closets, sweeping or mopping the stage, returning tools to their homes, or organizing gels in the catwalks. 
 * If you’ve finished cleaning and your co-workers/supervisor still don’t need assistance, either ask for a break or spend the time getting more familiar with systems that you might not yet understand. 
