@@ -4,7 +4,7 @@ title: Audio Board Operator Duties
 permalink: /2016/04/12/audio-duties.html
 ---
 
-###Before the Show
+### Before the Show
 
 * When you arrive, uncover and turn on the Venue SC48; store the cover under the console. 
 * Turn on the sequencer (the key in the upper section of the left rack in the patchbay). Also, turn on the sub amp (the lower right hand section of the rack) by pressing the on button.
@@ -41,7 +41,7 @@ permalink: /2016/04/12/audio-duties.html
   
 ---
 
-###During the Show
+### During the Show
 
 * If you are tasked with recording the performance, remember to PRESS RECORD(!!) in the minutes leading up to the start of the show. Make sure the device is actually recording and picking up signal. 
 * Follow along with the program, and any notes you’ve taken, to make sure you turn the correct mic on each time someone is about to speak and then mute it when they travel off stage. 
@@ -52,7 +52,7 @@ permalink: /2016/04/12/audio-duties.html
 
 ---
 
-###After the Show
+### After the Show
 
 * Mute the audio console and head down to stage to begin strike. Play some quiet music if you’d like. 
 * Before doing anything, attempt to troubleshoot any issues you realized during the show. Test suspect mics, cables, patches, systems, channels, etc before striking. Immediately, send an email to Erin about the problem, when it happened, how you dealt with it and the current status.  Leave the broken gear up in #243 on the secondary desk in Erin’s office. 

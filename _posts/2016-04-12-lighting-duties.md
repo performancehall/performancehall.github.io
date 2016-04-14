@@ -4,7 +4,7 @@ title: Lighting Board Operator Duties
 permalink: /2016/04/12/lighting-duties.html
 ---
 
-###Before the Show
+### Before the Show
 
 * When you arrive, uncover the Strand light board and the auxiliary console and store their covers on the shelf directly underneath them.
 * Turn on the Strand Light Palette. Make sure you are in the Standard.spf show file and in Cue Only mode (unless you are utterly desperate to work in Tracking mode). 
@@ -28,7 +28,7 @@ permalink: /2016/04/12/lighting-duties.html
 
 ---
 
-###During the Show
+### During the Show
 
 * Follow along with the program.
 * Change the lights according to your notes from earlier.
@@ -40,7 +40,7 @@ Communicate with the stage manager.
 
 ---
 
-###After the Show
+### After the Show
 
 * Once the house is mostly empty, bring up the stage work lights.
 * Help the rest of the crew clean up, strike and set up for the next day.

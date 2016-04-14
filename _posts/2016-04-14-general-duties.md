@@ -16,7 +16,7 @@ If your shift is scheduled at the same time as something on the **Rehearsal** ca
 
 If you complete your tasks quickly and see others still working, go lend them a hand. This is not a union house--you can cross between departments. Whoever you may be, meet up with the rest of the crew or the members of a visiting production team. Understand what is expected of you throughout the show.
 
-###During the Show
+### During the Show
 
 Even if you do not have anything to do for a while, do not busy yourself with homework, reading, or facebook. Your actions distract audience members and artists while you end up looking lazy to the other professionals. Watch and pay attention to the show. You never know what is going to happen on stage and if you’re not paying attention, you’ll miss your cue. If you cannot spare four or six hours to work a show, then you should not take the shift.
 

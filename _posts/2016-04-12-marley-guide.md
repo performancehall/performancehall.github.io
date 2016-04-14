@@ -14,9 +14,9 @@ To lay a marley floor you will need: marley tape, scissors/a blade, at least one
 
 For both laying and striking the marley, the wings stage left and right should be open. The marley will lie underneath them. Be careful when sliding the marley under each panel; go too far and you’ll hit a hinge and need to readjust. Try not to cover any of the panel locking drop holes so you can still lock them into place if needed. Be aware that the Performance Hall’s stage is trapezoidal. The upstage wall is shorter than the downstage edge and the marley is cut to match this. 
 
-##Laying Marley
+## Laying Marley
 
-###Beginning the process:
+### Beginning the process:
 
 * With another person, move the roll #6 of marley to the stage right, downstage corner. The rolls are very heavy, so be careful and work in a team when possible. 
 
@@ -36,7 +36,7 @@ For both laying and striking the marley, the wings stage left and right should b
 
 * If there are bubbles, tape one side down and have one person kneel on that edge to hold it in place. Have a second person on the other edge pulling toward themselves and a third person stomp across toward the second person. Once the third person has crossed the stage, the second person will tape their edge down before the third person steps off the marley.  
 
-###Taping lengthwise: 
+### Taping lengthwise: 
 
 * Start offstage right and work your way stage left as a team (or vice versa). 
 
@@ -62,7 +62,7 @@ Congratulations! You just laid your own dance floor!
 
 Only one more thing to do before you take a break: dry sweep and mop the marley flooring. Use a bit of the Roscoe Marley Floor Cleaner in your bucket of water but nothing else. If an outside stage manager wants to use something else, ask your supervisor first. 
 
-###Notes
+### Notes
 
 Before every rehearsal or performance on marley, the stage must be swept and then mopped. Mop in smooth figure eights across the stage pulling the dirt toward you and not pushing it out away from you. Clean one strip at a time. When you’ve pulled all the dirt to one end of the stage, use the mop to pick up the dirt and deposit it into the water bucket. Do not walk on the marley until it is dry.
 
@@ -70,7 +70,7 @@ When using marley alongside soft goods, always roll marley out first. When you n
 
 --------------
 
-##Striking the Marley
+## Striking the Marley
 
 Striking marley is far easier than laying it. If there are soft goods hanging that touch the floor, sweep the stage and strike the soft goods first. Then:
 *Sweep and mop one last time. Wait for the marley to dry. DO NOT roll the marley up if it is wet.

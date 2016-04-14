@@ -6,23 +6,23 @@ permalink: /2016/04/12/soft-goods-guide.html
 
 What most people refer to as “curtains” are actually called “soft goods” within the technical theater community. As opposed to “hard goods,” soft goods have the capability to fold. These goods include items such as legs, borders, scrims, full stage blacks, and grand curtains (also referred to as main curtain). The Performance Hall at the University of Chicago has all of these. This section guides you through identifying, hanging, folding, and handling these various soft goods.
 
-###Anatomy of a Soft Good
+### Anatomy of a Soft Good
 Every soft good’s basic components are named in relation to how it hangs on stage. A good’s top, bottom, back and front are easily identifiable even when folded. When one of these goods is set up on stage, the top refers to the end near the ceiling, the bottom to the end at the floor, the front refers to the side facing the audience, the back is the side the audience can’t see. 
 Along the top of the good is a row of lengths of tie line. These tie lines are used to attach it to the pipe. When tying these lines to a batten, use a knot like tying your shoes. First, tie a simple half hitch, or what is commonly known as a single knot. Then, finish with a bow. Never tie a double knot. The ties on every good are all black except for one white tie; the white tie is your center tie.
 
 On the top of the good is a handwritten label, naming the good and giving specifications related to the size of the good. When taking down and folding it, the label must always end up on the outside of the roll so future stagehands can easily identify it. You’ll notice only the Legs and Film Screen Masking curtains have chain at the bottom. The purpose of this chain is to stretch the good down to the stage and keep it from moving if touched.
 
-###Hanging
+### Hanging
 
 When hanging a soft good, first determine if it requires fullness or tautness (a loose or a tight look). Our borders and legs usually require fullness whereas our scrim and the full stage black need to be hung taut. Knots should be tight against the batten pipe unless instructed otherwise.  Never hang soft goods on a batten where they will be in direct contact with lights. This is a fire hazard. Talk to your supervisor and the visiting production team to determine a compromise.
 
-###Takedown / Flying Soft Goods 
+### Takedown / Flying Soft Goods 
 
 When flying-in any batten, pull together a ground crew to watch the pipe from stage level. While watching the pipe for possible collisions, your ground crew should also do an initial rough accordion folding of the curtain, making sure the front velour doesn’t accidentally fall forward onto the floor. Do not pull it too hard on the curtains as you fold them; you do not want to put too much stress on the rigging or move the pipe much.
 
 Once the batten has stopped moving, untie the goods and fly the pipe out again so there is nothing in the way while folding. Before you start moving the curtain around and spreading it out to fold, make sure all of the front is always face up and the back is face down. The back is a rougher texture than the velvety front, so it’s easy to tell the difference. It is important that the good rolls only on its back, so as to “save face.”  
 
-###Folding
+### Folding
 
 You should always have a buddy or two helping when folding soft goods. It is possible to fold solo, but it is very, very hard. Before flying-in any soft good, first clear the deck and sweep the floor! We want to keep our curtains looking tidy for a number of good reasons. Never walk on any of the soft goods with shoes.
 
@@ -32,7 +32,7 @@ When folding (with your buddy) run one side’s corners to the other side’s co
 
 -------
 
-###Legs
+### Legs
 
 Legs are used to create wings. They come in pairs, one hung with fullness on each side of the stage on the same batten. The Performance Hall has four sets of legs. Keep each leg with its buddy.
 
@@ -58,7 +58,7 @@ Prior to hanging legs, determine whether you need pipe extensions in each end of
 
 --------
 
-###Borders
+### Borders
 
 Borders are used with legs to complete the proscenium look. They are also used to hide other things hanging in the air, such as lights & other things in the air. They run the width of the stage, but only hang down a few feet from the ceiling. Our borders are also used as a skirt to mask the bottom of the film screen. 
 
@@ -81,7 +81,7 @@ The Performance Hall’s borders are stored in the same bins as the legs. Border
 
 -------
 
-###Full Stage Black (FSB)
+### Full Stage Black (FSB)
 
 The full stage black is usually used to cover the upstage wall or to cut the depth of stage in half. In the Performance Hall, it can be hung from U3, U4, U6 and D-Light.
 
@@ -101,7 +101,7 @@ The full stage black is usually used to cover the upstage wall or to cut the dep
 
 --------
 
-###Scrims (white and black)
+### Scrims (white and black)
 
 The Performance Hall has two scrims, a black scrim and a white scrim. They are stored in the same bin upstage but inside canvas bags to keep them from pilling on each other.  Unlike the other soft goods in the Performance Hall, scrims are used aesthetically, to both bounce and transmit light. They are often used in dance pieces, alongside a ground row of strip or cyc lights.  They are sometimes used as an alternate upstage projection surface.
 
@@ -111,6 +111,6 @@ Scrims are hung and folded in the same manner as the full stage black. When hang
 
 --------
 
-###Hampers
+### Hampers
 
 All of the Performance Hall’s soft goods are stored in hampers that live along the upstage wall backstage. Each hamper is labelled according to its contents. The hampers are only just small enough to pass through the upstage corridor and downstage doors to the stage. Be careful when moving them, as their hinges may catch on the architecture. For extra precaution, open panels to get the bins onstage. Determine whether you need to lay the bin on its side before loading or unloading goods. If you do, lay it down with its open lid on the floor. Be aware of the locks! Be extremely careful to not scratch the stage.

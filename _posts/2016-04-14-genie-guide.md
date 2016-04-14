@@ -6,7 +6,7 @@ permalink: /2016/04/12/genie-guide.html
 
 A genie is a kind of lift. The Logan Center has two Genies available for Performance Hall use, one with a maximum height of 25’ and one with 30’. The trim (height) of the ceiling in the Performance Hall is 30’, so always take the 30’ Genie if you are working in the hall. They are usually located in the back hallways past the vending machines. Ask for help if you have a hard time finding one. 
 
-###Basic safety tips
+### Basic safety tips
 * Never use the Genie alone when no one else is in the space.
 * Always have a buddy on the ground. If you are the buddy on the ground, never stand directly under the bucket for the reason following. 
 * If you are up in the bucket, make sure all your tools are tied to you.  Any loose parts could potentially fall onto your buddy from 30’ and cause serious damage to his/her head and face. 
@@ -23,7 +23,7 @@ A genie is a kind of lift. The Logan Center has two Genies available for Perform
 * If the legs are locked, the Genie can go both up and down.
 * If the legs are not locked, the Genie can go down but not up.
 
-###To use the genie
+### To use the genie
 * Unplug the Genie battery from the wall. Coil the extension cord and tuck it in the nook next to the battery. Reconnect the Genie itself to the battery pack. 
 * Open the stage wall panels to allow the genie onto stage without damaging the woodwork. 
 * Place the Genie where you need it onstage. You can estimate where you will end up by peeking up through the bucket up above.
@@ -36,7 +36,7 @@ A genie is a kind of lift. The Logan Center has two Genies available for Perform
 * To go up, from inside the bucket, push and hold the small black button while flipping the switch so the white line is going up.
 * To go down, push the same black button and flip the switch so the white line is going down.
 
-###To put the genie away
+### To put the genie away
 
 * Lower the bucket down all the way.
 * Remove the legs by loosening the feet completely and pulling the bolts to release the legs.
