@@ -3,13 +3,13 @@ layout: post
 title: Handheld Tascam Tutorial
 permalink: 2015/12/29/handheld_tascam_tutorial.html
 ---
-##Initial Set Up
+## Initial Set Up
 
 1. Press and hold the Home button to turn on the Tascam.
 2. Check the battery indicator and replace if the battery is low.
 3. Check to see if the SD card is actually in the device; if not, find one and insert it.
 
-##Empty the memory to ensure there's enough space for your recording:
+## Empty the memory to ensure there's enough space for your recording:
 
 1.	Press menu button to get to the menu
 2.	Use plus or minus buttons to scroll down to others, press enter
@@ -25,7 +25,7 @@ Your source will be either "Internal microphone" or "External in 1&2" (your XLR 
 
 Pressing menu again will bring you back to the home screen.
 
-##There are three methods of taking a recording in the Penthouse:
+## There are three methods of taking a recording in the Penthouse:
 
 <br>
 **Plan to use the Tascam's built-in mic as default because it is much easier and you can place it anywhere.**

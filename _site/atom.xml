@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-04-14T14:58:24-05:00</updated>
+ <updated>2016-04-20T18:49:15-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -294,10 +294,9 @@ Along the top of the good is a row of lengths of tie line. These tie lines are u
    <updated>2016-04-12T00:00:00-05:00</updated>
    <id>performancehall.github.io/2016/04/12/stagehand-guide</id>
    <content type="html">&lt;h3 id=&quot;the-basics&quot;&gt;The Basics&lt;/h3&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.&lt;/li&gt;
   &lt;li&gt;Remember to stay busy during your work call. If you have nothing to do, ask your other crew members and supervisor if they need help doing anything. 
 *If no one needs help, keep yourself busy by working on something else like tidying backstage or the storage closets, sweeping or mopping the stage, returning tools to their homes, or organizing gels in the catwalks. &lt;/li&gt;
   &lt;li&gt;If you’ve finished cleaning and your co-workers/supervisor still don’t need assistance, either ask for a break or spend the time getting more familiar with systems that you might not yet understand. &lt;/li&gt;
@@ -456,6 +455,7 @@ Spike the piano with L’s on the upstage and offstage sides of the legs.
 Spike music stands with T’s directly under the vertical of the stand. Have the long line of the T point the direction the stand faces. If you have more than one stage change, color code each setup. You can even write a note to yourself on the spike tape. Use sharpie or pen and keep it simple. If there is going to be a lot of movement/big set changes, it is a good idea to draw up a stage plot of each change and label the page with the appropriate color of spike tape. If marley is down, put a piece of clear tape over each spike to make sure it doesn’t get danced off. &lt;/p&gt;
 
 &lt;h3 id=&quot;know-your-stage-directions&quot;&gt;Know Your Stage Directions&lt;/h3&gt;
+
 &lt;p&gt;&lt;strong&gt;Stage Left and Stage Right&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;When speaking stage directions, you always refer to it from the artist’s perspective. If you are standing on stage, facing the audience, your left is stage left and right is stage right. If you are standing in the audience, or at FOH, and you are calling out stage movement, your left will become “stage right” and your right is “stage left”. Same rule applies to someone standing backstage left and looking onto stage from the wing; away from you should be referred to as “stage right”.&lt;/p&gt;
