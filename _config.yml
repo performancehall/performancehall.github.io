@@ -1,8 +1,9 @@
+gems: [jekyll-paginate]
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-
 
 # Setup
 title: Performance Hall Docs
@@ -86,6 +87,8 @@ tech:
       url: /2016/04/12/soft-goods-guide.html
     - title: Genie Use and Safety
       url: /2016/04/12/genie-guide.html
+    - title: Video Overflow Setup
+      url: 2016/03/08/overflow-video-streams.html
 
 duties:
     - title: General Duties

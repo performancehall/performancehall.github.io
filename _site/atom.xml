@@ -4,7 +4,7 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-04-20T18:49:15-05:00</updated>
+ <updated>2016-04-26T15:30:39-05:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack</name>
@@ -34,7 +34,7 @@ Giving time warnings to actors (“five minute calls” passed on from your stag
 
 &lt;p&gt;&lt;em&gt;You must wear all black. Be alert and listen to your stage manager.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;before-the-show&quot;&gt;Before the Show&lt;/h3&gt;
+&lt;p&gt;###Before the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Set up a Clearcom for yourself backstage right or wherever you’ve been positioned.&lt;/li&gt;
@@ -44,7 +44,7 @@ Giving time warnings to actors (“five minute calls” passed on from your stag
   &lt;li&gt;Make sure everything you will be moving to has been first spiked and that you understand which spike colors are associated with which change, which pieces are coming on and off and when.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;during-the-show&quot;&gt;During the Show&lt;/h3&gt;
+&lt;p&gt;###During the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Sit quietly backstage on headset, paying attention to the show. Do not talk over clearcom while others are being held in standby and waiting for go calls. &lt;/li&gt;
@@ -58,7 +58,7 @@ Giving time warnings to actors (“five minute calls” passed on from your stag
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;after-the-show&quot;&gt;After the Show&lt;/h3&gt;
+&lt;p&gt;###After the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Help others strike and clean.&lt;/li&gt;
@@ -339,47 +339,54 @@ Along the top of the good is a row of lengths of tie line. These tie lines are u
 
 &lt;p&gt;&lt;strong&gt;Can we get access to the greenroom?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    Yes.
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Yes.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can we hang a curtain here?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    I’ll have to ask my Stage Manager or Supervisor.
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    I’ll have to ask my Stage Manager or Supervisor.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can we get a 2nd wireless mic?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    I’ll ask the audio engineer for you.
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    I’ll ask the audio engineer for you.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can we get a spotlight here?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    I’ll ask the lighting engineer for you. 
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    I’ll ask the lighting engineer for you. 
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can we get a table in the lobby for check in?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    Yes. Then, go grab a table from 065 and bring it up to the lobby. 
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Yes. Then, go grab a table from 065 and bring it up to the lobby. 
     If you’re short on time, or can’t follow through, reach out 
     to Operations for support.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can I peek through the stage door while people are in the house?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    No. Guide them to look at the video monitor at the Stage Manager 
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    No. Guide them to look at the video monitor at the Stage Manager 
     Console instead (you have control over the camera, so you could 
     scan the audience to get a feel for how crowded the house is). 
     Otherwise, if they need a better view, tell them to sneak out 
     into the lower vestibule and enter at the lower level entrance.
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Can I get a stage picture through the stage door?&lt;/strong&gt; &lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;    Tell them to hold while you ask the person in charge of the event 
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Tell them to hold while you ask the person in charge of the event 
     to approve this request. Opening the stage door for any reason 
     other than an entrance will distract the audience, but in the 
     end it’s up to the person running the show. 
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;general-shift-etiquette&quot;&gt;General Shift Etiquette&lt;/h3&gt;
 
@@ -567,7 +574,7 @@ Downstage is further towards the audience, so towards the ‘front’ of the sta
    <id>performancehall.github.io/2016/04/12/stage-manager-duties</id>
    <content type="html">&lt;p&gt;Out of all the members of the crew on the show call, congratulations, you have the most duties. You are the liaison between the crew and the performers. All stage management duties follow a logic of making a show run smoothly. Communicate with your crew and the visiting production team and you will be fine.&lt;/p&gt;
 
-&lt;h3 id=&quot;before-the-show&quot;&gt;Before the Show&lt;/h3&gt;
+&lt;p&gt;###Before the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;When you arrive, go up to Erin’s office and get the stage management keys. Keep them on you for the rest of the night. Don’t forget to return them at the end of the night.  &lt;/li&gt;
@@ -596,7 +603,7 @@ Downstage is further towards the audience, so towards the ‘front’ of the sta
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;during-doors&quot;&gt;During Doors&lt;/h3&gt;
+&lt;p&gt;###During Doors&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Right after doors are open, put the DO NOT OPEN THIS DOOR sign on the back of the downstage left door. From this point on, YOU are the only person allowed to open this door. DO NOT let anyone (even Bill or Obama) run past you onto stage without clearing it with lighting and sound first. FOH relies on you heavily to start the show only after they are ready. Own this door, it’s yours. &lt;/li&gt;
@@ -610,7 +617,7 @@ Downstage is further towards the audience, so towards the ‘front’ of the sta
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;during-the-show&quot;&gt;During the Show&lt;/h3&gt;
+&lt;p&gt;###During the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Follow along with the program.  Cross out movements/acts as they finish to stay on track.&lt;/li&gt;
@@ -623,7 +630,7 @@ Downstage is further towards the audience, so towards the ‘front’ of the sta
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;after-the-show&quot;&gt;After the Show&lt;/h3&gt;
+&lt;p&gt;###After the Show&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Return your ClearCom &amp;amp; cable to its drawer.&lt;/li&gt;
@@ -932,7 +939,12 @@ Communicate with the stage manager.&lt;/li&gt;
    <link href="performancehall.github.io/2016/03/08/overflow-video-streams/"/>
    <updated>2016-03-08T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/03/08/overflow-video-streams</id>
-   <content type="html">&lt;h1 id=&quot;setting-up-mezzanine-and-lobby-overflow-video-streams&quot;&gt;Setting up Mezzanine and Lobby Overflow Video Streams&lt;/h1&gt;
+   <content type="html">&lt;p&gt;-
+  layout: post
+  title: Video Overflow Setup
+  permalink: 2016/03/08/overflow-video-streams.html
+-
+# Setting up Mezzanine and Lobby Overflow Video Streams&lt;/p&gt;
 
 &lt;h2 id=&quot;equipment&quot;&gt;Equipment&lt;/h2&gt;
 
@@ -947,7 +959,7 @@ you will need the following equipment.&lt;/p&gt;
   &lt;li&gt;XLR-&amp;gt;RCA Cable&lt;/li&gt;
   &lt;li&gt;1/4” -&amp;gt; XLR Cable&lt;/li&gt;
   &lt;li&gt;A Long Ethernet Cable (will need to be checked out from the cage)&lt;/li&gt;
-  &lt;li&gt;A DC Power Adapter &lt;/li&gt;
+  &lt;li&gt;A DC Power Adapter&lt;/li&gt;
   &lt;li&gt;The Large Portable TV from the 11th floor.&lt;/li&gt;
   &lt;li&gt;Decoder Remote&lt;/li&gt;
   &lt;li&gt;Camera (likely provided by videographer team)&lt;/li&gt;
@@ -955,23 +967,30 @@ you will need the following equipment.&lt;/p&gt;
 
 &lt;h2 id=&quot;foh-setup&quot;&gt;FOH Setup&lt;/h2&gt;
 
-&lt;p&gt;Set up an audio feed for the camera on the Venue with an AUX patched to an unused output (x). 
-Connect AUX-out(x) to  camera’s XLR-in and make sure the audio is routed to SDI-out on the camera. 
-Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk. 
+&lt;p&gt;Set up an audio feed for the camera on the Venue with an AUX patched to an unused output (x).
+Connect AUX-out(x) to  camera’s XLR-in and make sure the audio is routed to SDI-out on the camera.
+Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk.
 Set up another AUX on the Venue (should be a copy of the first) so that it is patched to another unused output (y).&lt;/p&gt;
 
 &lt;h2 id=&quot;amp-room-setup&quot;&gt;Amp Room Setup&lt;/h2&gt;
 
-&lt;p&gt;Patch V40 video output into Decimator SDI input, and connect power to the Decimator. 
-Connect the Decimator’s HDMI-out to the Encoder’s (labeled “Performance Hall”) HDMI-&amp;gt;DVI-in adapter. 
-The encoder is located in the open slot in the rightmost rack towards the top. 
-To run cabling you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection. 
-Take the XLR-out you patched from FOH (y) from ‘Venue Outputs’ with ¼”-&amp;gt;XLR cable, connect it to the XLR-&amp;gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder. Run SDI from the Decimator’s SDI-out to SM console.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Connect power to the Decimator.&lt;/li&gt;
+  &lt;li&gt;Patch V40 video output into Decimator SDI input.&lt;/li&gt;
+  &lt;li&gt;Connect the Decimator’s HDMI-out to the Encoder’s HDMI-&amp;gt;DVI-in adapter.
+    &lt;ul&gt;
+      &lt;li&gt;(The encoder you want is the one labeled ‘Performance Hall’)&lt;/li&gt;
+      &lt;li&gt;The encoder is located in the open slot in the rightmost rack towards the top.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;To run cabling you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection.&lt;/li&gt;
+  &lt;li&gt;Take the XLR-out you patched from FOH (y) from ‘Venue Outputs’ with ¼”-&amp;gt;XLR cable, connect it to the XLR-&amp;gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder. Run SDI from the Decimator’s SDI-out to SM console.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Decimator Settings: HDMI-out&amp;lt;-SDI-in, SDI-out(1)&amp;lt;-SDI-in (make loop)&lt;/p&gt;
 
 &lt;h2 id=&quot;stage-manager-console-setup&quot;&gt;Stage Manager Console Setup&lt;/h2&gt;
-&lt;p&gt;Set up a second Decimator with SDI-in taken from the Amp Room SDI run. 
+&lt;p&gt;Set up a second Decimator with SDI-in taken from the Amp Room SDI run.
 Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in. Enter Technician Mode at Crestron panel (5540) and route “SM Input” to all the TVs you want to use for overflow viewing.&lt;/p&gt;
 
 &lt;p&gt;Decimator Settings: HDMI-out&amp;lt;-SDI-in&lt;/p&gt;
@@ -981,13 +1000,12 @@ Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in.
 (When restoring these, take care with cable/port matches: Yellow Component cable -&amp;gt; Yellow Component output, Black/Silver Audio cable -&amp;gt; Red audio output)&lt;/p&gt;
 
 &lt;h2 id=&quot;mezzanine&quot;&gt;Mezzanine&lt;/h2&gt;
-&lt;p&gt;Connect the ethernet cable to left port under Erin’s desk (the right port is disconnected) and connect the other end to “Primary” on the Decoder box. 
-Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box. 
-Run Component-outs from the Decoder to Component-ins on back of TV. 
-Turn on TV and set to Component source. 
-Run HDMI-out from the Decoder to HDMI-in on back of TV. 
+&lt;p&gt;Connect the ethernet cable to left port under Erin’s desk (the right port is disconnected) and connect the other end to “Primary” on the Decoder box.
+Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box.
+Run Component-outs from the Decoder to Component-ins on back of TV.
+Turn on TV and set to Component source.
+Run HDMI-out from the Decoder to HDMI-in on back of TV.
 The following must be done quickly: using remote, select 1080i-out on Decoder; switch TV source to HDMI; hit accept/confirm on Decoder remote.&lt;/p&gt;
-
 </content>
  </entry>
  
@@ -1276,7 +1294,7 @@ The roll will be pretty thick, but it should fit nicely in the bin. Once that’
    <link href="performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet.html"/>
    <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/penthouse-lightboard-cheatsheet</id>
-   <content type="html">&lt;h3 id=&quot;startup&quot;&gt;Startup&lt;/h3&gt;
+   <content type="html">&lt;p&gt;###Startup&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -1290,7 +1308,7 @@ The roll will be pretty thick, but it should fit nicely in the bin. Once that’
   &lt;li&gt;Use the top bank of sliders (they are labeled on the board) to create different lighting looks in the room and shift between them&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;if-you-want-to-bring-up-specific-lights-refer-to-the-magic-sheet-image-further-down-this-page&quot;&gt;If you want to bring up specific lights, refer to the “magic sheet” image further down this page.&lt;/h3&gt;
+&lt;p&gt;###If you want to bring up specific lights, refer to the “magic sheet” image further down this page.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Type in the number corresponding to the lights you want to bring up on the number pad.&lt;/li&gt;
@@ -1298,7 +1316,7 @@ The roll will be pretty thick, but it should fit nicely in the bin. Once that’
   &lt;li&gt;Hit the [Undo] key several times to turn them off and release control of them.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;to-shut-the-board-down&quot;&gt;To shut the board down&lt;/h3&gt;
+&lt;p&gt;###To shut the board down&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Move the mouse to the top of the screen so the menu bar appears, click on the File menu and then Click Exit.&lt;/li&gt;
@@ -1306,7 +1324,7 @@ The roll will be pretty thick, but it should fit nicely in the bin. Once that’
   &lt;li&gt;The board will then (slowly) shut down.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;if-the-board-crashes&quot;&gt;If the Board Crashes&lt;/h3&gt;
+&lt;p&gt;###If the Board Crashes&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;You can hard power down the board by holding down the power button.&lt;/li&gt;
@@ -1349,11 +1367,11 @@ The roll will be pretty thick, but it should fit nicely in the bin. Once that’
     &lt;p&gt;In the drop down menu where it says “Configure IPv4” select “Manually”&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Give the computer an ip address of &lt;code&gt;192.168.0.199&lt;/code&gt; (or any other ip address within the
+    &lt;p&gt;Give the computer an ip address of &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.0.199&lt;/code&gt; (or any other ip address within the
 lighting network but not used by an entity on that network)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Give the computer a Subnet Mask of &lt;code&gt;255.255.255.0&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;Give the computer a Subnet Mask of &lt;code class=&quot;highlighter-rouge&quot;&gt;255.255.255.0&lt;/code&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Click Ok and then click Apply&lt;/p&gt;
@@ -1366,8 +1384,8 @@ interface)&lt;/p&gt;
     &lt;p&gt;Type in the ip address of the mode where you would enter a web address + /mini/&lt;/p&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;If the ip address is: &lt;code&gt;192.168.0.72&lt;/code&gt;&lt;/li&gt;
-      &lt;li&gt;Type in: &lt;code&gt;192.168.0.72/mini/&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;If the ip address is: &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.0.72&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Type in: &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.0.72/mini/&lt;/code&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1394,7 +1412,7 @@ be using universes one and two to give the hall a total of 1024 addressable chan
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Click Update to update the node with the changes you made. The password is &lt;code&gt;2606&lt;/code&gt;. Go back to the DMX A and DMX B pages to make sure the desired changes held.&lt;/p&gt;
+    &lt;p&gt;Click Update to update the node with the changes you made. The password is &lt;code class=&quot;highlighter-rouge&quot;&gt;2606&lt;/code&gt;. Go back to the DMX A and DMX B pages to make sure the desired changes held.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;After reconfiguring the node, for the changes to take effect, you frequently have to reboot the node by unplugging it from ethernet and then plugging it back in!&lt;/p&gt;
@@ -1420,20 +1438,20 @@ be using universes one and two to give the hall a total of 1024 addressable chan
    <link href="performancehall.github.io/2016/01/03/lighting-info.html"/>
    <updated>2016-01-03T00:00:00-06:00</updated>
    <id>performancehall.github.io/2016/01/03/lighting-info</id>
-   <content type="html">&lt;h3 id=&quot;control&quot;&gt;CONTROL&lt;/h3&gt;
+   <content type="html">&lt;p&gt;###CONTROL&lt;/p&gt;
 
 &lt;p&gt;House Board is Strand Light Palette Classic
 Wireless and wired Strand Shownet Ethernet lighting network N21 Ethernet to DMX nodes available
 Remote Focus Unit Available
 Houselights and Worklights controlled via Strand Vision Net, auxiliary console, and wall panels around the space, as well as through primary console (HTP)&lt;/p&gt;
 
-&lt;h3 id=&quot;power&quot;&gt;POWER&lt;/h3&gt;
+&lt;p&gt;###POWER&lt;/p&gt;
 
 &lt;p&gt;400 Amp Three Phase Company Switch available for additional power needs, any use of which must be approved in advance&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;dimmerscircuits&quot;&gt;DIMMERS/CIRCUITS&lt;/h3&gt;
+&lt;p&gt;###DIMMERS/CIRCUITS&lt;/p&gt;
 
 &lt;p&gt;Circuits are 1:1 with corresponding dimmers
 * 192 Strand C21 Dimmers (1-169 for stage lighting)
@@ -1477,7 +1495,7 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;lighting-positions&quot;&gt;LIGHTING POSITIONS&lt;/h3&gt;
+&lt;p&gt;###LIGHTING POSITIONS&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Front of House&lt;/strong&gt;&lt;/p&gt;
 
@@ -1533,19 +1551,19 @@ Houselights and Worklights controlled via Strand Vision Net, auxiliary console, 
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;followspots&quot;&gt;FOLLOWSPOTS&lt;/h3&gt;
+&lt;p&gt;###FOLLOWSPOTS&lt;/p&gt;
 
 &lt;p&gt;Two Lycian SuperArc 400 Followspots with manual color changers are available, usable from the FOH Followspot booth. The throw is approximately 90 ft to the front of the stage. Use of followspots must be approved in advance.&lt;/p&gt;
 
-&lt;h3 id=&quot;fog-and-haze-machines&quot;&gt;FOG AND HAZE MACHINES&lt;/h3&gt;
+&lt;p&gt;###FOG AND HAZE MACHINES&lt;/p&gt;
 
 &lt;p&gt;Usage of any fog/smoke/haze/atmospherics must be approved in advance&lt;/p&gt;
 
-&lt;h3 id=&quot;strobeslasers&quot;&gt;STROBES/LASERS&lt;/h3&gt;
+&lt;p&gt;###STROBES/LASERS&lt;/p&gt;
 
 &lt;p&gt;Usage of strobe lighting or lasers must be approved in advance&lt;/p&gt;
 
-&lt;h3 id=&quot;pyrotechnics-naked-flame&quot;&gt;PYROTECHNICS, NAKED FLAME&lt;/h3&gt;
+&lt;p&gt;###PYROTECHNICS, NAKED FLAME&lt;/p&gt;
 
 &lt;p&gt;No pyrotechnics or flames of any sort are allowed in the space&lt;/p&gt;
 </content>
@@ -1899,8 +1917,7 @@ Usually the musician will have his/her instrument plugged directly into the amp,
    <link href="performancehall.github.io/2015/12/29/mic-to-mains.html"/>
    <updated>2015-12-29T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/29/mic-to-mains</id>
-   <content type="html">&lt;h2 id=&quot;setting-up-a-mic&quot;&gt;Setting up a Mic&lt;/h2&gt;
-&lt;hr /&gt;
+   <content type="html">&lt;h2 id=&quot;setting-up-a-mic&quot;&gt;##Setting up a Mic&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -1942,8 +1959,7 @@ and three for a public performance. Batteries with less than two bars should be 
 “dead battery” bin.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;the-patchbay&quot;&gt;The Patchbay&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;h2 id=&quot;the-patchbay&quot;&gt;##The Patchbay&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -1954,8 +1970,7 @@ and three for a public performance. Batteries with less than two bars should be 
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;at-the-venue-sc48&quot;&gt;At the Venue SC48&lt;/h2&gt;
-&lt;hr /&gt;
+&lt;h2 id=&quot;at-the-venue-sc48&quot;&gt;##At the Venue SC48&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -2069,8 +2084,9 @@ in the top left corner of the onscreen interface and naming what instrument or t
 
 &lt;p&gt;Then, send the file to:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;erinbrenner@uchicago.edu
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;erinbrenner@uchicago.edu
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Go to the website WeTransfer.com&lt;/li&gt;
@@ -2287,8 +2303,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
    <link href="performancehall.github.io/2015/12/26/equipment-and-setup.html"/>
    <updated>2015-12-26T00:00:00-06:00</updated>
    <id>performancehall.github.io/2015/12/26/audio-equipment-and-setup</id>
-   <content type="html">&lt;h3 id=&quot;stands--safety&quot;&gt;Stands &amp;amp; Safety&lt;/h3&gt;
-&lt;hr /&gt;
+   <content type="html">&lt;h2 id=&quot;stands--safety&quot;&gt;###Stands &amp;amp; Safety&lt;/h2&gt;
 &lt;p&gt;The hall has two basic types of stands: boom stands and straight stands.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Straight stands:&lt;/strong&gt;
@@ -2303,8 +2318,7 @@ in the top left corner of the onscreen interface and naming what instrument or t
 &lt;p&gt;When disassembling, also remember to work with one joint at a time. It is very easy to get your fingers
 ￼￼￼pinched between the moving parts, so be very careful when adjusting and always tighten! The goal when disassembling, is to minimize the space it takes up, so shorten all lengths and align all arms and legs.&lt;/p&gt;
 
-&lt;h3 id=&quot;cables&quot;&gt;Cables&lt;/h3&gt;
-&lt;hr /&gt;
+&lt;h2 id=&quot;cables&quot;&gt;###Cables&lt;/h2&gt;
 
 &lt;p&gt;The Performance Hall uses XLR, TRS, Mini TRS, SpeakOn, Cross-wired SpeakOn, Ethernet and Longframe patchbay cables.&lt;/p&gt;
 
@@ -2328,8 +2342,7 @@ If the stands will be in the same place during the whole show, you should tape d
 Crosswired SpeakOn: ONLY used in the patchbay for connecting Venue outputs to the appropriate floorbox or AVP connections. These cords are about 2.5’ and stay in the amp room at all times;; they are marked CROSS on the neck of the cable.
 Long-frame/Military cords [Patchbay cords]: Green, red, and black cable used in the patchbay to connect mic inputs to the Venue or Recording Booth. Also used to split signal when necessary.&lt;/p&gt;
 
-&lt;h3 id=&quot;coiling-cables&quot;&gt;Coiling Cables&lt;/h3&gt;
-&lt;hr /&gt;
+&lt;h2 id=&quot;coiling-cables&quot;&gt;###Coiling Cables&lt;/h2&gt;
 &lt;p&gt;There are two methods for coiling an XLR cable and there is much debate as to which is better. In the hall, we use the “over/under” method. This same method can be used to coil almost all other audio cables.
 ￼￼￼￼￼￼
 ￼First, hold the female end of the cable in your left hand with the connector pointed toward you. Pull your right hand out along the cable until you reach about 18” and bring that length up into your left hand while guiding
@@ -2338,8 +2351,7 @@ After grabbing this first loop in your left hand, pull another 18” with your r
 Continue repeating these two steps “over and under) until you hit the end of your cable. Inspect the cable for a proper coil and then use the velcro tie attached to secure. It should look like a series of same sized loops, no figure 8’s. If yours has a figure 8, you must start over. If you have both large and small loops within one coil, start over. If one of your tails is way longer than the other, fix it by adjusting the position of the velcro.
 If you have a hard time getting good coils, use this video to help while practicing: http://www.lifehacker.com.au/2012/04/use-these-alternating-coil-methods-for-knot-free-cables/&lt;/p&gt;
 
-&lt;h3 id=&quot;speakers&quot;&gt;Speakers&lt;/h3&gt;
-&lt;hr /&gt;
+&lt;h2 id=&quot;speakers&quot;&gt;###Speakers&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Main speakers:&lt;/strong&gt; Also known as the “mains”. In the Performance Hall our mains are in a L-C-R (left, center, right) configuration. They are Electro-Voice, or “EV” brand speakers, model: Xi2123A/106, and are flown to heights controllable from the automated rigging system “Scene Control”. The projection system has its own surround sound system with a L-C-R EAW KF740 Line Array.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Monitors:&lt;/strong&gt; Also known as “wedges” or “floor wedges”. We have 3 different monitor speakers;; 3 of the smaller 12” EV’s (TX 1122 FM), 2 of the 15” EV’s (TX 1152 FM), and 2 of the 12” Community (M12’s). Monitors should be placed in front of a musician who needs to hear himself, or his fellow musicians, more clearly. While the EV’s need to be set further away from the artist because of how the speakers are pointed within the wedge, the Communities have a wider range and can be placed much closer.&lt;/p&gt;
@@ -2471,7 +2483,7 @@ is out of phase. 180 degrees out of phase is a special case which, for a continu
    <link href="performancehall.github.io/2015/10/03/projection-cheat-sheet.html"/>
    <updated>2015-10-03T00:00:00-05:00</updated>
    <id>performancehall.github.io/2015/10/03/projection-cheat-sheet</id>
-   <content type="html">&lt;h3 id=&quot;basic&quot;&gt;BASIC&lt;/h3&gt;
+   <content type="html">&lt;p&gt;###BASIC&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -2489,7 +2501,7 @@ is out of phase. 180 degrees out of phase is a special case which, for a continu
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Hs68lLj.png&quot; alt=&quot;Image One&quot; /&gt;&lt;/p&gt;
 
-&lt;h5 id=&quot;if-that-doesnt-get-you-an-image-now-we-start&quot;&gt;If that doesn’t get you an image now we start:&lt;/h5&gt;
+&lt;p&gt;#####If that doesn’t get you an image now we start:&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;troubleshooting&quot;&gt; &lt;em&gt;TROUBLESHOOTING&lt;/em&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -2507,9 +2519,9 @@ is out of phase. 180 degrees out of phase is a special case which, for a continu
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/xncCve2.png&quot; alt=&quot;Image Two&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;intermediate&quot;&gt;INTERMEDIATE&lt;/h3&gt;
+&lt;p&gt;###INTERMEDIATE&lt;/p&gt;
 
-&lt;h4 id=&quot;source--stage&quot;&gt;SOURCE = STAGE&lt;/h4&gt;
+&lt;p&gt;####SOURCE = STAGE&lt;/p&gt;
 
 &lt;p&gt;AFTER YOU HAVE ALREADY DONE THE &lt;strong&gt;BASIC&lt;/strong&gt; INSTRUCTIONS&lt;/p&gt;
 
@@ -2537,7 +2549,7 @@ section above.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;refocusing--sizing-the-image-basic-without-presets&quot;&gt;REFOCUSING / SIZING THE IMAGE (Basic/ Without Presets)&lt;/h4&gt;
+&lt;p&gt;####REFOCUSING / SIZING THE IMAGE (Basic/ Without Presets)&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Make sure the projector is on.&lt;/li&gt;
@@ -2558,7 +2570,7 @@ section above.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;refocusing--sizing-intermediate--with-presets&quot;&gt;REFOCUSING / SIZING (Intermediate / With Presets)&lt;/h4&gt;
+&lt;p&gt;####REFOCUSING / SIZING (Intermediate / With Presets)&lt;/p&gt;
 
 &lt;p&gt;You can do all the same things you can do from the web interface, and more, from the projection booth&lt;/p&gt;
 
@@ -2577,7 +2589,7 @@ section above.&lt;/p&gt;
 &lt;/ol&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The IP Address is:  &lt;code&gt;192.168.1.134&lt;/code&gt; Port is: &lt;code&gt;43728&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;The IP Address is:  &lt;code class=&quot;highlighter-rouge&quot;&gt;192.168.1.134&lt;/code&gt; Port is: &lt;code class=&quot;highlighter-rouge&quot;&gt;43728&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/hx6h4VI.png&quot; alt=&quot;Image Four&quot; /&gt;&lt;/p&gt;
@@ -2603,7 +2615,7 @@ section above.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;confidence-monitors&quot;&gt;CONFIDENCE MONITORS&lt;/h4&gt;
+&lt;p&gt;####CONFIDENCE MONITORS&lt;/p&gt;
 
 &lt;p&gt;Using the Confidence Monitors is sort of the opposite of running a source from the stage in terms of signal flow.&lt;/p&gt;
 
@@ -2634,7 +2646,7 @@ section above.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
+  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
   &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
   &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
@@ -2647,8 +2659,8 @@ section above.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
   &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
@@ -2687,12 +2699,12 @@ section above.&lt;/p&gt;
 &lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
@@ -2703,16 +2715,19 @@ section above.&lt;/p&gt;
 
 &lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;/span&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
+&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// Call the function
+&lt;/span&gt;
 &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
 
