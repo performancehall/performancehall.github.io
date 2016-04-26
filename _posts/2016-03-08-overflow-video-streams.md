@@ -1,8 +1,8 @@
--
-  layout: post
-  title: Video Overflow Setup
-  permalink: 2016/03/08/overflow-video-streams.html
--
+---
+layout: post
+title: Video Overflow Setup
+permalink: /2016/03/08/overflow-video-streams.html
+---
 # Setting up Mezzanine and Lobby Overflow Video Streams
 
 ## Equipment
