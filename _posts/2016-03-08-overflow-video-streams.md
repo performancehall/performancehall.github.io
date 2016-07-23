@@ -8,7 +8,7 @@ permalink: /2016/03/08/overflow-video-streams.html
 ## Equipment
 
 To set up a video feed for the Gidwitz Lobby Displays and the Mezzanine,
-you will need the following equipment. Also, Hello World!
+you will need the following equipment.
 
 * The Decimator
 * One of the Blue SDI Cables
