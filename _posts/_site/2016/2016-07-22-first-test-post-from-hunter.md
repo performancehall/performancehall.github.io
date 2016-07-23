@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Test Post from Hunter
-permalink: /2016/07/22/test-post-from-hunter.html
+permalink: /2016/07/22/first-test-post-from-hunter.html
 ---
 # Testing the Current Workflow for Writing New Content for the Website
 
