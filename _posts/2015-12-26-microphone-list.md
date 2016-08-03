@@ -114,7 +114,7 @@ permalink: /2015/12/26/microphone-list.html
 
 **PCC-160: Pressure Zone Microphone (Cardioid)**
 
-![pcc160](/assets/Microphones/pcc160pic.jpg)
+![pcc160](/assets/Microphones/pcc160pic.png)
 
 * Common uses: Floor or wall mic for tap dance, distance miking, etc
 * Phantom power required, will pick up room sounds, prone to feedback and low signal quality
