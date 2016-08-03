@@ -11,7 +11,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Live Vocals, Horns
 * Rugged, sound source should be very close to the grill
 
-![SM58SPEC](/assets/Microphones/sm58specsheet.pdf)
+![SM58SPEC](/assets/Microphones/sm58specsheet.jpg)
 
 **Shure Beta 58: Dynamic (Supercardioid)**
 
@@ -20,7 +20,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Live vocals, Voice-over
 * Sounds brighter than the SM58
 
-![Beta58SPEC](/assets/Microphones/beta58specsheet.pdf)
+![Beta58SPEC](/assets/Microphones/beta58specsheet.jpg)
 
 **Shure SM 57: Dynamic (Cardioid)**
 
@@ -29,7 +29,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Guitar & Bass amps, Brass, Percussion
 * Rugged, very similar to the SM58
 
-![SM57SPEC](/assets/Microphones/sm57pic.pdf)
+![SM57SPEC](/assets/Microphones/sm57specsheet.jpg)
 
 **Sennheiser MD 421: Dynamic (Cardioid)**
 
@@ -38,7 +38,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Toms, Bass amp, Guitar, Horns
 * Mic clip is unreliable and requires special attention
 
-![MD421SPEC](/assets/Microphones/md421specsheet.pdf)
+![MD421SPEC](/assets/Microphones/md421specsheet.jpg)
 
 **Sennheiser e609: Dynamic (Supercardioid)**
 
@@ -56,7 +56,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Acoustic Bass & Guitar, Cymbals, Percussion, Strings, Piano, Woodwinds
 * Delicate mic, requires phantom power
 
-![KSM137SPEC](/assets/Microphones/ksm137specsheet.pdf)
+![KSM137SPEC](/assets/Microphones/ksm137specsheet.jpg)
 
 **Shure SM 81: Small-Diaphragm Condenser (Cardioid)**
 
@@ -65,7 +65,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Drum overheads, Hi-Hats, Woodwinds
 * Delicate mic, requires phantom power
 
-![SM81SPEC](/assets/Microphones/sm81specsheet.pdf)
+![SM81SPEC](/assets/Microphones/sm81specsheet.jpg)
 ￼￼￼￼￼￼￼￼￼
 
 **Audio-Technica AT U853R: Small-Diaphragm Condenser (Cardioid)**
@@ -100,7 +100,7 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Upright Bass, Acoustic Guitar, Brass, Overheads, Grand Piano
 * Phantom power required
 
-![sm27spec](/assets/Microphones/sm27specsheet.pdf)
+![sm27spec](/assets/Microphones/sm27specsheet.jpg)
 
 **Shure SM 87A: Large-Diaphragm Condenser (Supercardioid)**
 
@@ -110,7 +110,7 @@ permalink: /2015/12/26/microphone-list.html
 * Slightly smoother EQ curve in high end than SM58
 * Phantom power required
 
-![sm87a](/assets/Microphones/sm87aspecsheet.pdf)
+![sm87a](/assets/Microphones/sm87aspecsheet.jpg)
 
 **PCC-160: Pressure Zone Microphone (Cardioid)**
 
@@ -119,7 +119,8 @@ permalink: /2015/12/26/microphone-list.html
 * Common uses: Floor or wall mic for tap dance, distance miking, etc
 * Phantom power required, will pick up room sounds, prone to feedback and low signal quality
 
-![pcc160spec](/assets/Microphones/pcc160specsheet.pdf)
+![pcc160spec](/assets/Microphones/pcc160specsheet.jpg)
+![pcc160spec](/assets/Microphones/pcc160specsheet2.jpg)
 
 **Shure ULX2-58: Dynamic Wireless (Cardioid)**
 
@@ -132,7 +133,8 @@ permalink: /2015/12/26/microphone-list.html
 * Basic wireless clip on mic
 * Phantom power required, attach to secure clothing on chest (think about where they will be facing while they speak)
 
-![wl185spec](/assets/Microphones/wl185specsheet.pdf)
+![wl185spec](/assets/Microphones/wl185specsheet.jpg)
+![wl185spec](/assets/Microphones/wl185specsheet2.jpg)
 
 **Shure ULX2-87A: Condenser Wireless (Cardioid)**
 
