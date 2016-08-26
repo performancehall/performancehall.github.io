@@ -24,7 +24,7 @@ version:             1.2.0
 
 audio:
     - title: A1 Checklist
-      url: /audio/a1_checklist.html
+      url: /audio/a1-checklist.html
     - title: Audio Glossary
       url: /_audio/audio_glossary.html
     - title: Archival Recording Instructions and Standards
