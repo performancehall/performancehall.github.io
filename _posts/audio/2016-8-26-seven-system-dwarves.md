@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seven Bad System Dwarves
-permalink: audio/seven_system_dwarves.html
+permalink: audio/seven-system-dwarves.html
 ---
 <br>
 <br>

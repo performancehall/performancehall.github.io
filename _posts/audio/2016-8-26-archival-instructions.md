@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Archival Recording Instructions and Standards
-permalink: /audio/archival_instructions.html
+permalink: /audio/archival-instructions.html
 ---
 
 **Setting up the Audio Console:**

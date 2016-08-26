@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up a Board Feed for a Videographer
-permalink: audio/board_feed_for_videographer.html
+permalink: /audio/board-feed-for-videographer.html
 ---
 
 If a group decides they would like a video recording of their event and has hired someone to do so, they may ask for an audio feed from the board. This videographer will probably be doing post production and wants direct raw mic feeds as opposed to using the distance mic on his camera.

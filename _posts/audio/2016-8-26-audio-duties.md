@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Board Operator Duties
-permalink: audio/audio_duties.html
+permalink: /audio/audio-duties.html
 ---
 
 ### Before the Show
@@ -34,7 +34,7 @@ permalink: audio/audio_duties.html
   * It is good practice to ring out the monitors before the artists arrive as well.
   * Once the band arrives, start sound checking each mic, focusing on one instrument at a time. If you are checking drums, have the drummer go through his whole kit, one drum/cymbal at a time, while you work with the EQ, comp, gate, etc for each one.  After you have them all dialed in, ask him/her to play the whole set so that you can further tweak (pan, groups, hi-pass, etc).
   * Make sure the musician is hearing the right amount of everything through their monitor; don’t move on to the next musician until each person is happy. If they specifically ask for “everything” it’s important that you don’t give them everything.  In this situation, only give them the most important aspects for clarity’s sake (themselves, vocals, kick drum, lead guitar, whatever that might be).  If you give them everything, they’ll need more of everything and it will become a huge mess.
-  * If you are mixing a digital instrument such as keyboard, dj rig or sampler, ask them to reproduce their loudest patch so that you can set your gain to that level.
+  * If you are mixing a digital instrument such as keyboard, dj rig or sampler, ask them to reproduce their loudest patch so that you can set your gain to that level.  
   * When you finish with the last musician and everyone seems happy with their rough mixes, ask the whole group to play a half song together while you walk the room to hear the mix from different listening perspectives - tweak issues accordingly.  When the group stops playing, they will have many requests, deal with each request, one at a time.  Once everyone seems happy, ask them to try a different half song and repeat the whole process until they are happy with the stage mix and you are happy with the house mix.
   * Make sure audio cables (only cables that will stay in place for the whole show) are taped down when in high traffic walk ways - brown gaff tape onstage, black offstage.
   * Determine if there will be any videographers in house and whether or not they need a board feed. Set that up for them ahead of time.  If the videographer shows up after doors are open, you will not be able to send them a feed down to the lower level.  They will have to record from the upper level next to FOH. Make sure their power cables do not run across the house walkways.
@@ -60,11 +60,11 @@ permalink: audio/audio_duties.html
 * Pull up all your tape from the floor.
 * Remove your hard patches in the amp room, but leave default patches (hanging house mics).
 * Turn off sequencer and sub amp in the amp room.
-* Help the rest of the crew with clean up of the stage as well as striking any marley, soft goods or other staging that might still be in progress.
+* Help the rest of the crew with clean up of the stage as well as striking any marley, soft goods or other staging that might still be in progress.  
 * Confirm that the hall/backstage is clean, everything has been restored for the next morning, all systems are shut down and all doors to the hall spaces are closed and locked.
 * Make sure the projector is off, the boards are both off and the hall is set to “night” before leaving.
 * If you made an archival recording:
   * In the hall, normalize the file, gain it, then normalize it again before exporting it. Save it to the PH recordings folder and send it to Erin via the website WeTransfer.com.
-  * If you’re using the Tascam, upload the files to the computer in the recording booth using the card reader in the USB port. Log into the Performance Hall user, store the files in a folder on the desktop called “Archival Recordings” and name the file by show/group and date.  Send the files to Erin via the website WeTransfer.com.
+  * If you’re using the Tascam, upload the files to the computer in the recording booth using the card reader in the USB port. Log into the Performance Hall user, store the files in a folder on the desktop called “Archival Recordings” and name the file by show/group and date.  Send the files to Erin via the website WeTransfer.com.  
 * If you have been holding the Stage Manager key set, return it to Erin’s desk.
 * If you ran into any technical troubleshooting, send Erin an email with the nature of the issue, when it happened, the troubleshooting steps you followed and the outcome. Send a full show report if you are shift leading.

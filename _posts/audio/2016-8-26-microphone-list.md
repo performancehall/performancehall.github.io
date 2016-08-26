@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microphone List
-permalink: /audio/microphone_list.html
+permalink: /audio/microphone-list.html
 ---
 
 **Shure SM 58: Dynamic (Cardioid)**

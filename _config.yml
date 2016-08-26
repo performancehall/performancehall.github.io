@@ -26,25 +26,25 @@ audio:
     - title: A1 Checklist
       url: /audio/a1-checklist.html
     - title: Audio Glossary
-      url: /_audio/audio_glossary.html
+      url: /audio/audio-glossary.html
     - title: Archival Recording Instructions and Standards
-      url: /audio/archival_instructions.html
+      url: /audio/archival-instructions.html
     - title: Audio Equipment and Set Up
-      url: /audio/equipment_and_setup.html
+      url: /audio/equipment-and-setup.html
     - title: Getting Sound From a Mic to the Mains
-      url: /audio/mic_to_mains.html
+      url: /audio/mic-to-mains.html
     - title: Handheld Tascam Tutorial
-      url: /audio/handheld_tascam_tutorial.html
+      url: /audio/handheld-tascam-tutorial.html
     - title: Microphone List
-      url: /audio/microphone_list.html
+      url: /audio/microphone-list.html
     - title: Setting Up a Board Feed For a Videographer
-      url: /audio/board_feed_for_videographer.html
+      url: /audio/board-feed-for-videographer.html
     - title: Setting Up a DI-Box
-      url: /audio/setting_up_a_di_box.html
+      url: /audio/setting-up-a-di-box.html
     - title: Setting Up Monitors
-      url: /audio/setting_up_monitors.html
+      url: /audio/setting-up-monitors.html
     - title: Seven System Dwarves
-      url: /audio/seven_system_dwarves.html
+      url: /audio/seven-system-dwarves.html
 
 lighting_hall:
     - title: Followspot Guide

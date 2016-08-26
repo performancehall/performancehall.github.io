@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Sound From a Mic to the mains
-permalink: audio/mic_to_mains.html
+permalink: /audio/mic-to-mains.html
 ---
 
 

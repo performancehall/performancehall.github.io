@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handheld Tascam Tutorial
-permalink: audio/handheld_tascam_tutorial.html
+permalink: audio/handheld-tascam-tutorial.html
 ---
 ## Initial Set Up
 
