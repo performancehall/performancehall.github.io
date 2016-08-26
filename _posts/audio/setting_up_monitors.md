@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up monitors
-permalink: 2015/12/30/setting-up-monitors.html
+permalink: audio/setting_up_monitors.html
 ---
 
 The basic idea here is that you’re sending a certain mix of sounds back to the musicians so they can hear themselves better or other instruments that might be too quiet or far away for them to hear otherwise. This mix is, more often than not, different from the house mix that the audience hears. You are sending audio from a channel to an auxiliary output on the Venue (a separate output from the mains), which goes to the patchbay, then to a floorbox or AVP, then to a monitor.

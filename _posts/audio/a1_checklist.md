@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A1 Checklist
-permalink: 2016/01/03/a1-checklist.html
+permalink: audio/a1_checklist.html
 ---
 Phase Of Show | Task
 :---------------:|:-----:

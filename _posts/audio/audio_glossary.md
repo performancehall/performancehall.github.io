@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Glossary
-permalink: /2015/12/26/audio-glossary.html
+permalink: /audio/audio_glossary.html
 ---
 
 **A/D Converter:** Analog to digital converter, a device that transforms incoming analog signals into digital signals.

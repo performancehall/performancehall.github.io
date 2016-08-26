@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Equipment and Set-Up
-permalink: /2015/12/26/equipment-and-setup.html
+permalink: /audio/equipment_and_setup.html
 ---
 
 ###Stands & Safety

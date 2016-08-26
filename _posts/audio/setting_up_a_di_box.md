@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up a DI-Box
-permalink: /2015/12/29/setting-up-a-di-box.html
+permalink: /audio/setting_up_a_di_box.html
 ---
 
 A DI-Box (Direct Input Box) allows you to connect high-impedance sources to a mixer without adverse effects.
