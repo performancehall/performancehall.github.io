@@ -26,11 +26,7 @@ audio:
     - title: A1 Checklist
       url: /audio_a1_checklist.html
     - title: Audio Glossary
-<<<<<<< HEAD
       url: /_audio/audio_glossary.html
-=======
-      url: /audio/audio_glossary.html
->>>>>>> 019e223988e43ec12212f3470a1ef5bd3683b904
     - title: Archival Recording Instructions and Standards
       url: /audio/archival_instructions.html
     - title: Audio Equipment and Set Up
