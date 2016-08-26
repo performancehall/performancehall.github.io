@@ -8,45 +8,45 @@ permalink:           pretty
 # Setup
 title: Performance Hall Docs
 tagline: 'The Home of Logan Center Tech Knowledge'
-description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here email: </br> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
+description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here email: </br> <a href="mailto:hunterkorgel@uchicago.edu">hunterkorgel@uchicago.edu</a> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
 url:                 performancehall.github.io
 baseurl:             ''
 paginate:            1
 
 # About/contact
 author:
-  name:              Kyle McCornack
+  name:              Kyle McCornack, Hunter Korgel
   url:
-  email:             kpmccornack@gmail.com
+  email:             kpmccornack@gmail.com, hunterkorgel@uchicago.edu
 
 # Custom vars
-version:             1.1.0
+version:             1.2.0
 
 audio:
     - title: A1 Checklist
-      url: /2016/01/03/a1-checklist.html
+      url: /audio_a1_checklist.html
     - title: Audio Glossary
-      url: /2015/12/26/audio-glossary.html
+      url: /_audio/audio_glossary.html
     - title: Archival Recording Instructions and Standards
-      url: /2015/12/29/archival_instructions.html
+      url: /audio/archival_instructions.html
     - title: Audio Equipment and Set Up
-      url: /2015/12/26/equipment-and-setup.html
+      url: /audio/equipment_and_setup.html
     - title: Getting Sound From a Mic to the Mains
-      url: /2015/12/29/mic-to-mains.html
+      url: /audio/mic_to_mains.html
     - title: Handheld Tascam Tutorial
-      url: /2015/12/29/handheld_tascam_tutorial.html
+      url: /audio/handheld_tascam_tutorial.html
     - title: Microphone List
-      url: /2015/12/26/microphone-list.html
+      url: /audio/microphone_list.html
     - title: Setting Up a Board Feed For a Videographer
-      url: /2016/01/02/board-feed-for-videographer.html
+      url: /audio/board_feed_for_videographer.html
     - title: Setting Up a DI-Box
-      url: /2015/12/29/setting-up-a-di-box.html
+      url: /audio/setting_up_a_di_box.html
     - title: Setting Up Monitors
-      url: /2015/12/30/setting-up-monitors.html
+      url: /audio/setting_up_monitors.html
     - title: Seven System Dwarves
-      url: /2015/12/29/seven-system-dwarves.html
+      url: /audio/seven_system_dwarves.html
 
-hall_lighting:
+lighting_hall:
     - title: Followspot Guide
       url: /2016/01/03/followspot-guide.html
     - title: General Information
@@ -62,7 +62,7 @@ hall_lighting:
     - title: Node Configuration Instructions
       url: /2016/01/03/node-configuration.html
 
-penthouse_lighting:
+lighting_penthouse:
     - title: Penthouse Channel Hookup
       url: /assets/penthouse_channel_hookup.pdf
     - title: Penthouse Lightboard Cheat Sheet
