@@ -68,6 +68,44 @@ lighting_penthouse:
     - title: Penthouse Lightboard Cheat Sheet
       url: /2016/01/03/penthouse-lightboard-cheatsheet.html
 
+video:
+    - title: Projection Cheat Sheet
+      url: /video/projection-cheat-sheet.html
+    - title: Overflow Video Streams
+      url: /video/overflow-video-streams.html
+    - title: Video Rack Tutorial
+      url: /video/video-rack-guide.html
+
+stage:
+    - title: Grand Curtain Guide
+      url: /stage/grand-curtain-guide.html
+    - title: Marley Guide
+      url: /stage/marley-guide
+    - title: Stage Manager Duties
+      url: /stage/stage-manager-duties.html
+    - title: Stage Terminology
+      url: /stage/stage-terminology.html
+    - title: Stagehand Guide
+      url: /stage/stagehand-guide.html
+    - title: Genie Guide
+      url: /stage/genie-guide.html
+    - title: Soft Goods Guide
+      url: /stage/soft-goods-guide.html
+    - title: Stagehand Duties
+      url: /stage/stagehand-duties.html
+
+recording:
+    - title: Handheld Tascam tutorial
+      url: /recording/handheld-tascam-tutorial.html
+
+employees:
+    - title: General Duties
+      url: /employees/general-duties.html
+    - title: Stage Terminology
+      url: /employees/stage-terminology.html
+
+spaces:
+
 tech:
     - title: Projection Cheat Sheet
       url: /2015/10/03/projection-cheat-sheet.html

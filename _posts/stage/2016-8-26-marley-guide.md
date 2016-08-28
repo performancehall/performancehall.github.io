@@ -1,28 +1,28 @@
 ---
 layout: post
 title: A Guide to Laying and Striking Marley
-permalink: /2016/04/12/marley-guide.html
+permalink: /stage/marley-guide.html
 ---
 
 Marley is a type of dance floor. It allows dancers to move easily across the deck and offers more give, resulting in higher and more efficient jumps. Marley comes in heavy vinyl strips. These strips are about four feet wide and span the length of the stage. To both lay out and strike marley, you need at least two people. Ideally, you have a crew of four: two to tape down a strip while the other two prep the next strips.
 
-The Performance Hall’s marley is stored on pieces of white PVC pipe backstage right. When the flooring is down, the empty rolls can live backstage left, preferably upstage and out of the way. To lay the marley you’ll start offstage right. When rolling it back up you’ll start offstage left. The bottom of the marley will be on the outside of the roll; make sure the correct side is face up. 
- 
+The Performance Hall’s marley is stored on pieces of white PVC pipe backstage right. When the flooring is down, the empty rolls can live backstage left, preferably upstage and out of the way. To lay the marley you’ll start offstage right. When rolling it back up you’ll start offstage left. The bottom of the marley will be on the outside of the roll; make sure the correct side is face up.
+
 Before marley is laid out, the stage should be swept thoroughly. The Performance Hall’s marley is cut into seven panels (1 = upstage, 7 = downstage apron). Each is labeled. If for some reason you can’t find the label, relabel it using gaff tape and a sharpie.
 
 To lay a marley floor you will need: marley tape, scissors/a blade, at least one buddy, knee pads (optional). While Marley tape is black like gaff tape, it is smooth and shiny in texture. Do not use gaff tape on the marley; it will leave behind a residue. When you need to cut marley tape, use scissors or a blade. Don’t try to tear the marley tape, it’s not worth the effort.
 
-For both laying and striking the marley, the wings stage left and right should be open. The marley will lie underneath them. Be careful when sliding the marley under each panel; go too far and you’ll hit a hinge and need to readjust. Try not to cover any of the panel locking drop holes so you can still lock them into place if needed. Be aware that the Performance Hall’s stage is trapezoidal. The upstage wall is shorter than the downstage edge and the marley is cut to match this. 
+For both laying and striking the marley, the wings stage left and right should be open. The marley will lie underneath them. Be careful when sliding the marley under each panel; go too far and you’ll hit a hinge and need to readjust. Try not to cover any of the panel locking drop holes so you can still lock them into place if needed. Be aware that the Performance Hall’s stage is trapezoidal. The upstage wall is shorter than the downstage edge and the marley is cut to match this.
 
 ## Laying Marley
 
 ### Beginning the process:
 
-* With another person, move the roll #6 of marley to the stage right, downstage corner. The rolls are very heavy, so be careful and work in a team when possible. 
+* With another person, move the roll #6 of marley to the stage right, downstage corner. The rolls are very heavy, so be careful and work in a team when possible.
 
 * The best way to move the marley is to slowly walk the roll over on its end.
 
-* Tip the marley onto the floor so the longer edge is downstage. 
+* Tip the marley onto the floor so the longer edge is downstage.
 
 * Remove the pieces of tape holding the roll together. If any tape goo is left on the marley, clean it before laying it down.
 
@@ -36,9 +36,9 @@ For both laying and striking the marley, the wings stage left and right should b
 
 * If there are bubbles, tape one side down and have one person kneel on that edge to hold it in place. Have a second person on the other edge pulling toward themselves and a third person stomp across toward the second person. Once the third person has crossed the stage, the second person will tape their edge down before the third person steps off the marley.  
 
-### Taping lengthwise: 
+### Taping lengthwise:
 
-* Start offstage right and work your way stage left as a team (or vice versa). 
+* Start offstage right and work your way stage left as a team (or vice versa).
 
 * Tech A will hold the tape down while the Tech B creates a long stretch of slack.
 
@@ -56,11 +56,11 @@ If for some reason you have irregularity, fix the issue before moving on. Irregu
 
 * If there is a bubble in the marley itself, stomp it out in the direction you’re taping.
 
-* If your roll runs out of tape, cut that edge straight, tape it down and grab a new roll. Line up the new piece of tape carefully to ensure clean overlap. 
+* If your roll runs out of tape, cut that edge straight, tape it down and grab a new roll. Line up the new piece of tape carefully to ensure clean overlap.
 
-Congratulations! You just laid your own dance floor! 
+Congratulations! You just laid your own dance floor!
 
-Only one more thing to do before you take a break: dry sweep and mop the marley flooring. Use a bit of the Roscoe Marley Floor Cleaner in your bucket of water but nothing else. If an outside stage manager wants to use something else, ask your supervisor first. 
+Only one more thing to do before you take a break: dry sweep and mop the marley flooring. Use a bit of the Roscoe Marley Floor Cleaner in your bucket of water but nothing else. If an outside stage manager wants to use something else, ask your supervisor first.
 
 ### Notes
 
@@ -79,11 +79,11 @@ Striking marley is far easier than laying it. If there are soft goods hanging th
 
 * Collect your PVC pipes. Always roll panels stage left to stage right.
 
-* Starting downstage left (Strip #7), tape the edge of the marley to your PVC pipe at three points; top, center and bottom (Strips #7 and #6 have unique edges that will only need one or two strips of tape to anchor them to the PVC pipe). 
+* Starting downstage left (Strip #7), tape the edge of the marley to your PVC pipe at three points; top, center and bottom (Strips #7 and #6 have unique edges that will only need one or two strips of tape to anchor them to the PVC pipe).
 
 * Make sure you are taping the marley to the pipe in a way that will allow you to roll the marley in a straight line the entire length of the floor.  One side should always be flush with the pipe edge but not overextending over the end of the pipe edge.  
 
-* If you find that you have lost sight of the pipe on your straight edge, unroll and start over. 
+* If you find that you have lost sight of the pipe on your straight edge, unroll and start over.
 
 * Once you get to the end, make sure you still have the one exposed PVC pipe edge you’ve been working hard to maintain throughout the length of the roll.  This is the side the marley will stand on when stored upright.  
 
@@ -94,4 +94,3 @@ Striking marley is far easier than laying it. If there are soft goods hanging th
 * Stand the rolled up marley in its home backstage right.
 
 * DO NOT store upright unsupported by the PVC pipe with the weight on the edge of the flooring itself. This will cause the ends to bend and crease in ways that will damage the marley long term.
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stagehand Duties
-permalink: /2016/04/12/stagehand-duties.html
+permalink: /stage/stagehand-duties.html
 ---
 
 As a stagehand, you are most likely on call because there is at least one set change. Set changes in the Performance Hall tend to include at least one of the following:
@@ -28,7 +28,7 @@ Giving time warnings to actors (“five minute calls” passed on from your stag
 
 ###During the Show
 
-* Sit quietly backstage on headset, paying attention to the show. Do not talk over clearcom while others are being held in standby and waiting for go calls. 
+* Sit quietly backstage on headset, paying attention to the show. Do not talk over clearcom while others are being held in standby and waiting for go calls.
 * Don’t pay attention to your phone!
 * As your scene change approaches, confirm with your stage manager who is handling which task.
 * During your scene changes:
@@ -39,8 +39,8 @@ Giving time warnings to actors (“five minute calls” passed on from your stag
 
 * Help others strike and clean.
 * Remember to remove all spikes from stage and backstage.
-* Make sure all the tools in the storage spaces are organized properly before locking up. 
-* Take a quick check of batteries, tape and other consumables to make sure we're not almost out. If we are low on any of these commonly used supplies, send an email to Erin to order more. 
-* Make sure all the backstage areas are clean and clear and that nothing is left sitting out that shouldn’t be there. 
-* Confirm that doors are locked and all systems are off. 
-* Get confirmation from your shift leader that everything is complete and ask permission to clock off. 
+* Make sure all the tools in the storage spaces are organized properly before locking up.
+* Take a quick check of batteries, tape and other consumables to make sure we're not almost out. If we are low on any of these commonly used supplies, send an email to Erin to order more.
+* Make sure all the backstage areas are clean and clear and that nothing is left sitting out that shouldn’t be there.
+* Confirm that doors are locked and all systems are off.
+* Get confirmation from your shift leader that everything is complete and ask permission to clock off.

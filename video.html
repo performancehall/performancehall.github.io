@@ -1,0 +1,15 @@
+---
+layout: page
+title: Video
+---
+
+
+<div>
+    <ul>
+        {% for post in site.video %}
+        <li>
+            <a href="{{ post.url }}"> {{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

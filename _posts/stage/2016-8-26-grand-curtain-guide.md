@@ -2,7 +2,7 @@
 layout: post
 title: Grand Tutorial
 author: By Kyle McCornack |
-permalink: /_posts/2016-01-21-grand-tutorial.html
+permalink: /stage/grand-curtain-guide.html
 ---
 
 # What the Grand Is #
@@ -114,7 +114,7 @@ The first thing you need to do is remove the end stops from the onstage ends of 
 You're doing this in order to place the curtain carriers on the track.
 
 Once the end stops are off, place twenty-seven (27) single carriers on each track.
-These need to be placed so that the fold guides are pointing downstage. 
+These need to be placed so that the fold guides are pointing downstage.
 
 Once the single carriers are all placed, count them again to make sure you have 27 on each side,
 then place one master carrier on each track, these should be oriented so that the metal posts on the downstage

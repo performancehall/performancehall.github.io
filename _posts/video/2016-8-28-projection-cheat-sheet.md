@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Projection Cheat Sheet
-permalink: /2015/10/03/projection-cheat-sheet.html
+permalink: /2016/8/28/projection-cheat-sheet.html
 ---
 
-### BASIC
+###BASIC
 
 * SOURCE = MacMini or FOH HDMI
 
@@ -16,7 +16,7 @@ permalink: /2015/10/03/projection-cheat-sheet.html
 
 ![Image One](http://i.imgur.com/Hs68lLj.png)
 
-##### If that doesn’t get you an image now we start:
+#####If that doesn’t get you an image now we start:
 
 <a name="troubleshooting"> *TROUBLESHOOTING* </a>
 
@@ -31,9 +31,9 @@ permalink: /2015/10/03/projection-cheat-sheet.html
 ![Image Two](http://i.imgur.com/xncCve2.png)
 
 
-### INTERMEDIATE
+###INTERMEDIATE
 
-#### SOURCE = STAGE
+####SOURCE = STAGE
 
  AFTER YOU HAVE ALREADY DONE THE **BASIC** INSTRUCTIONS
 
@@ -46,6 +46,7 @@ permalink: /2015/10/03/projection-cheat-sheet.html
  6. On the KUMO Routing Interface (Chrome), select Projector on the Bottom Row and STAGE on the Top Row.
 
 That *should* get you an image. If it doesn't, refer to the [Troubleshooting](#troubleshooting) section above.
+section above.
 
 Then, if none of that works:
 
@@ -56,7 +57,7 @@ Then, if none of that works:
 
 ***
 
-#### REFOCUSING / SIZING THE IMAGE (Basic/ Without Presets)
+####REFOCUSING / SIZING THE IMAGE (Basic/ Without Presets)
 
  1. Make sure the projector is on.
  2. Open the projector interface on chrome
@@ -71,7 +72,7 @@ Then, if none of that works:
 
 ***
 
-#### REFOCUSING / SIZING (Intermediate / With Presets)
+####REFOCUSING / SIZING (Intermediate / With Presets)
 
 You can do all the same things you can do from the web interface, and more, from the projection booth
 
@@ -105,7 +106,7 @@ You can do all the same things you can do from the web interface, and more, from
 
 ****
 
-#### CONFIDENCE MONITORS
+####CONFIDENCE MONITORS
 
 Using the Confidence Monitors is sort of the opposite of running a source from the stage in terms of signal flow.
 
