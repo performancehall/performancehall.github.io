@@ -25,6 +25,8 @@ version:             1.2.0
 audio:
     - title: A1 Checklist
       url: /audio/a1-checklist.html
+    - title: Audio Duties
+      url: /audio/audio-duties.html
     - title: Audio Glossary
       url: /audio/audio-glossary.html
     - title: Archival Recording Instructions and Standards
@@ -47,26 +49,30 @@ audio:
       url: /audio/seven-system-dwarves.html
 
 lighting_hall:
+    - title: Lighting Duties
+      url: /lighting/lighting-duties.html
     - title: Followspot Guide
-      url: /2016/01/03/followspot-guide.html
+      url: /lighting/followspot-guide.html
     - title: General Information
-      url: /2016/01/03/lighting-info.html
+      url: /lighting/lighting-info.html
     - title: Performance Hall Magic Sheet
-      url: /2016/01/03/ph-magic-sheet-summer-2015.html
+      url: /lighting/ph-magic-sheet-summer-2015.html
     - title: Performance Hall Channel Hookup
-      url: /assets/lighting_channel_hookup.pdf
+      url: /assets/lighting/lighting_channel_hookup.pdf
     - title: Performance Hall Rep Plot
-      url: /assets/ph_rep_plot.pdf
+      url: /assets/lighting/ph_rep_plot.pdf
     - title: Performance Hall Instrument Schedule
-      url: /assets/lighting_instrument_schedule.pdf
+      url: /assets/lighting/lighting_instrument_schedule.pdf
     - title: Node Configuration Instructions
-      url: /2016/01/03/node-configuration.html
+      url: /lighting/node-configuration.html
+    - title: Genie Guide
+      url: /lighting/genie-guide.html
 
 lighting_penthouse:
     - title: Penthouse Channel Hookup
-      url: /assets/penthouse_channel_hookup.pdf
+      url: /assets/lighting/penthouse_channel_hookup.pdf
     - title: Penthouse Lightboard Cheat Sheet
-      url: /2016/01/03/penthouse-lightboard-cheatsheet.html
+      url: /lighting/penthouse-lightboard-cheatsheet.html
 
 video:
     - title: Projection Cheat Sheet
@@ -104,46 +110,16 @@ employees:
     - title: Stage Terminology
       url: /employees/stage-terminology.html
 
-spaces:
-
-tech:
-    - title: Projection Cheat Sheet
-      url: /2015/10/03/projection-cheat-sheet.html
+spaces_tech:
     - title: Tech Brochure
-      url: /assets/tech_brochure.pdf
+      url: /assets/spaces/tech_brochure.pdf
     - title: Event Rider Sheet
-      url: /assets/event_rider_sheet.pdf
-    - title: Grand Curtain Installation Tutorial
-      url: /_posts/2016-01-21-grand-tutorial.html
-    - title: A Guide to Laying and Striking Marley
-      url: /2016/04/12/marley-guide.html
-    - title: Stagehand Guide
-      url: /2016/04/12/stagehand-guide.html
-    - title: Stage Terminology
-      url: /2016/04/12/stage-terminology.html
-    - title: Soft Goods Guide
-      url: /2016/04/12/soft-goods-guide.html
-    - title: Genie Use and Safety
-      url: /2016/04/12/genie-guide.html
-    - title: Video Overflow Setup
-      url: /2016/03/08/overflow-video-streams.html
+      url: /assets/spaces/event_rider_sheet.pdf
 
-duties:
-    - title: General Duties
-      url: /2016/04/12/general-duties.html
-    - title: Stage Manager Duties
-      url: /2016/04/12/stage-manager-duties.html
-    - title: Audio Board Operator Duties
-      url: /2016/04/12/audio-duties.html
-    - title: Lighting Board Operator Duties
-      url: /2016/04/12/lighting-duties.html
-    - title: Stagehand Duties
-      url: /2016/04/12/stagehand-duties.html
-
-drawings:
+spaces_drawings:
     - title: Performance Hall East Perspective
-      url: /assets/ph_east_perspective.pdf
+      url: /assets/spaces/ph_east_perspective.pdf
     - title: Performance Hall Rigging East Perspective
-      url: /assets/ph_rigging_east.pdf
+      url: /assets/spaces/ph_rigging_east.pdf
     - title: Performance Hall Lighting West Perspective
-      url: /assets/ph_lighting_west.jpg
+      url: /assets/spaces/ph_lighting_west.jpg

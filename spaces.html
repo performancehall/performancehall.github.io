@@ -3,13 +3,30 @@ layout: page
 title: Spaces
 ---
 
+<div>
+  <h2>Drawings</h2>
+</div>
 
 <div>
     <ul>
-        {% for post in site.spaces %}
+        {% for post in site.spaces_drawings %}
         <li>
             <a href="{{ post.url }}"> {{ post.title }}</a>
         </li>
         {% endfor %}
     </ul>
+</div>
+
+<div>
+  <h2>Sheets</h2>
+</div>
+
+<div>
+  <ul>
+    {% for post in site.spaces_tech %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>

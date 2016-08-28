@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Penthouse Lightboard Cheatsheet
-permalink: 2016/01/03/penthouse-lightboard-cheatsheet.html
+permalink: /lighting/penthouse-lightboard-cheatsheet.html
 ---
 
 ###Startup

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Node Configuration Instructions
-permalink: 2016/01/03/node-configuration.html
+permalink: /lighting/node-configuration.html
 ---
 
 1. Plug the node into the lighting network and write down the ip address taped to the side of the node

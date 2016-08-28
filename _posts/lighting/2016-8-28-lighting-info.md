@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lighting General Information
-permalink: 2016/01/03/lighting-info.html
+permalink: /lighting/lighting-info.html
 ---
 
 ###CONTROL
