@@ -8,7 +8,7 @@ permalink:           pretty
 # Setup
 title: Performance Hall Docs
 tagline: 'The Home of Logan Center Tech Knowledge'
-description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here email: </br> <a href="mailto:hunterkorgel@uchicago.edu">hunterkorgel@uchicago.edu</a> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
+description: 'The hub of all information regarding the various domains of the Performance Hall staff. </br> If there are other things you would like to see here, send an email with the subject line '[WEBSITE]' to us at: </br> <a href="mailto:hunterkorgel@uchicago.edu">hunterkorgel@uchicago.edu</a> <a href="mailto:kpmccornack@gmail.com">kpmccornack@gmail.com</a>'
 url:                 performancehall.github.io
 baseurl:             ''
 paginate:            1
