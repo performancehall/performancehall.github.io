@@ -25,8 +25,6 @@ version:             1.2.0
 audio:
     - title: A1 Checklist
       url: /audio/a1-checklist.html
-    - title: Audio Duties
-      url: /audio/audio-duties.html
     - title: Audio Glossary
       url: /audio/audio-glossary.html
     - title: Archival Recording Instructions and Standards
@@ -109,6 +107,8 @@ employees:
       url: /employees/general-duties.html
     - title: Stage Terminology
       url: /employees/stage-terminology.html
+    - title: Tech Manual
+      url: /employees/tech-manual.html
 
 spaces_tech:
     - title: Tech Brochure

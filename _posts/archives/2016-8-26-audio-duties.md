@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Audio Board Operator Duties
-permalink: /audio/audio-duties.html
 ---
 
 ### Before the Show

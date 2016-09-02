@@ -3,6 +3,9 @@ layout: page
 title: Audio
 ---
 
+<div>
+  <h2>Live Sound</h2>
+</div>
 
 <div>
     <ul>
@@ -12,4 +15,18 @@ title: Audio
         </li>
         {% endfor %}
     </ul>
+</div>
+
+<div>
+  <h2>Recording</h2>
+</div>
+
+<div>
+  <ul>
+    {% for post in site.recording %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
 </div>
