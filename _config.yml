@@ -3,6 +3,7 @@ gems: [jekyll-paginate]
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
+
 permalink:           pretty
 
 # Setup
@@ -27,7 +28,7 @@ audio:
       url: /audio/a1-checklist.html
     - title: Audio Duties
       url: /audio/audio-duties.html
-    - title: Audio Glossary
+    - title: Audio Glossary     
       url: /audio/audio-glossary.html
     - title: Archival Recording Instructions and Standards
       url: /audio/archival-instructions.html
@@ -47,6 +48,7 @@ audio:
       url: /audio/setting-up-monitors.html
     - title: Seven System Dwarves
       url: /audio/seven-system-dwarves.html
+
 
 lighting_hall:
     - title: Lighting Duties

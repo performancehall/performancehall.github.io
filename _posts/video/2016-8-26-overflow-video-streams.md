@@ -16,6 +16,8 @@ you will need the following equipment.
 * (3) HDMI Cable
 * (1) XLR->RCA Cable
 * (1) 1/4"->XLR Cable
+* (1) Haivision Encoder (stays in the Amp rack)
+* (1) Haivision Decoder (borrowed from another space)
 * (1) Long (25ft or more) Ethernet Cable (will need to be checked out from the cage)
 * (n) Large Portable TV (located on the 11th floor, will need to be checked out from the cage)
 * (n) Hai-vision Decoder Remote
@@ -35,10 +37,10 @@ Set up another AUX on the Venue (should be a copy of the first) so that it is pa
 
 * Connect power to the Decimator.
 * Patch V40 video output into Decimator SDI input using an SDI patch cable (these can be found on the wall and have a tube connection on one end and an SDI connection on the other).
-* Connect the Decimator’s HDMI-out to the Encoder’s HDMI->DVI-in adapter using a short HDMI cable.
+* Connect the Decimator’s HDMI-out to the Haivision Encoder’s HDMI->DVI-in adapter using a short HDMI cable.
   * The encoder is located in the open slot in the rightmost rack towards the top, labeled 'Performance Hall'. You can place the Decimator in this slot next to the encoders.
   * To run the cable you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection.
-* Take output(y) you patched at the Venue from 'Venue Outputs' (center column in the amp room; APB-07; red and white labels) with ¼”->XLR cable, connect it to the XLR->RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder.
+* Take output (y) you patched at the Venue from 'Venue Outputs' (center column in the amp room; APB-07; red and white labels) with ¼”->XLR cable, connect it to the XLR->RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder.
   * Again, feed the cable through the opening and go around to the back of the rack with a flashlight to make the connection.
 * Run SDI from the Decimator’s SDI-out to SM console.
 
