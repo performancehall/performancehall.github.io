@@ -95,7 +95,7 @@ employees:
     - title: Tech Manual
       url: /employees/tech-manual.html
     - title: Emergency Plan
-      url: /assets/emergency-plan.pdf
+      url: /assets/employees/emergency-plan.pdf
 
 spaces_hall:
     - title: Performance Hall Tech Brochure
