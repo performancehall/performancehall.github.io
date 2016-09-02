@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to Be a Great Stagehand
-permalink: /stage/stagehand-guide.html
 ---
 
 ### The Basics

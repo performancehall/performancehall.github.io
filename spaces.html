@@ -4,26 +4,40 @@ title: Spaces
 ---
 
 <div>
-  <h2>Drawings</h2>
-</div>
-
-<div>
-    <ul>
-        {% for post in site.spaces_drawings %}
-        <li>
-            <a href="{{ post.url }}"> {{ post.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-
-<div>
-  <h2>Sheets</h2>
+  <h2>Performance Hall</h2>
 </div>
 
 <div>
   <ul>
-    {% for post in site.spaces_tech %}
+    {% for post in site.spaces_hall %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div>
+  <h2>Penthouse</h2>
+</div>
+
+<div>
+  <ul>
+    {% for post in site.spaces_penthouse %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div>
+  <h2>201 - Film Screening Room</h2>
+</div>
+
+<div>
+  <ul>
+    {% for post in site.spaces_201 %}
     <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
     </li>

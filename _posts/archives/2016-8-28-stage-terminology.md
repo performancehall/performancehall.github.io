@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stage Terminology
-permalink: /stage/stage-terminology.html
 ---
 
 * Apron: The portion of the stage that is downstage of the proscenium arch. (Since we don’t have a built in proscenium in the hall, we consider the apron to be everything downstage of the ‘plaster line’.)

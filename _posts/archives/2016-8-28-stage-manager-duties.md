@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stage Manager Duties
-permalink: /stage/stage-manager-duties.html
 ---
 
 Out of all the members of the crew on the show call, congratulations, you have the most duties. You are the liaison between the crew and the performers. All stage management duties follow a logic of making a show run smoothly. Communicate with your crew and the visiting production team and you will be fine.

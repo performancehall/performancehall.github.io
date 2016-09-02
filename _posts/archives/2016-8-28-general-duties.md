@@ -1,7 +1,6 @@
 ---
 layout: post
 title: General Duties
-permalink: /employees/general-duties.html
 ---
 
 Always check the **Google Calendar** to see what company you’ll be working with for your shift. If you’re lucky, the visiting artists have been responsive, thought ahead, and had the foresight to fully plan out their performance details.  If so, a basic rundown of what needs to be done will be in the calendar notes section. Make a mental note of these tasks and be prepared to accomplish all. Ask questions ahead of time if you have any, such as “Do we need to check out any gear from the cage?” or “What time is the talent arriving?”

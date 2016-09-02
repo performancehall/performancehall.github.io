@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lighting Board Operator Duties
-permalink: /lighting/lighting-duties.html
 ---
 
 ### Before the Show

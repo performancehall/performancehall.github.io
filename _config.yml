@@ -24,11 +24,6 @@ author:
 version:             1.2.0
 
 audio:
-    - title: A1 Checklist
-      url: /audio/a1-checklist.html
-    - title: Audio Glossary
-    - title: Audio Duties
-      url: /audio/audio-duties.html
     - title: Audio Glossary
       url: /audio/audio-glossary.html
     - title: Archival Recording Instructions and Standards
@@ -50,10 +45,7 @@ audio:
     - title: Seven System Dwarves
       url: /audio/seven-system-dwarves.html
 
-
 lighting_hall:
-    - title: Lighting Duties
-      url: /lighting/lighting-duties.html
     - title: Followspot Guide
       url: /lighting/followspot-guide.html
     - title: General Information
@@ -68,14 +60,10 @@ lighting_hall:
       url: /assets/lighting/lighting_instrument_schedule.pdf
     - title: Node Configuration Instructions
       url: /lighting/node-configuration.html
-    - title: Genie Guide
-      url: /lighting/genie-guide.html
 
 lighting_penthouse:
     - title: Penthouse Channel Hookup
       url: /assets/lighting/penthouse_channel_hookup.pdf
-    - title: Penthouse Lightboard Cheat Sheet
-      url: /lighting/penthouse-lightboard-cheatsheet.html
 
 video:
     - title: Projection Cheat Sheet
@@ -90,41 +78,30 @@ stage:
       url: /stage/grand-curtain-guide.html
     - title: Marley Guide
       url: /stage/marley-guide
-    - title: Stage Manager Duties
-      url: /stage/stage-manager-duties.html
-    - title: Stage Terminology
-      url: /stage/stage-terminology.html
-    - title: Stagehand Guide
-      url: /stage/stagehand-guide.html
     - title: Genie Guide
       url: /stage/genie-guide.html
     - title: Soft Goods Guide
       url: /stage/soft-goods-guide.html
-    - title: Stagehand Duties
-      url: /stage/stagehand-duties.html
 
 recording:
     - title: Handheld Tascam tutorial
       url: /recording/handheld-tascam-tutorial.html
 
+checklists:
+    - title: A1 Checklist
+      url: /checklists/a1-checklist.html
+
 employees:
-    - title: General Duties
-      url: /employees/general-duties.html
-    - title: Stage Terminology
-      url: /employees/stage-terminology.html
     - title: Tech Manual
       url: /employees/tech-manual.html
+    - title: Emergency Plan
+      url: /assets/emergency-plan.pdf
 
-spaces_tech:
-    - title: Tech Brochure
-      url: /assets/spaces/tech_brochure.pdf
-    - title: Event Rider Sheet
-      url: /assets/spaces/event_rider_sheet.pdf
+spaces_hall:
+    - title: Performance Hall Tech Brochure
 
-spaces_drawings:
-    - title: Performance Hall East Perspective
-      url: /assets/spaces/ph_east_perspective.pdf
-    - title: Performance Hall Rigging East Perspective
-      url: /assets/spaces/ph_rigging_east.pdf
-    - title: Performance Hall Lighting West Perspective
-      url: /assets/spaces/ph_lighting_west.jpg
+spaces_penthouse:
+    - title: Penthouse Tech Brochure
+
+spaces_201:
+    - title: Film Screening Room Tech Brochure

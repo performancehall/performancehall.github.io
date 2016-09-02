@@ -16,3 +16,17 @@ title: Employee Information
         {% endfor %}
     </ul>
 </div>
+
+<div>
+  <h2>Checklists</h2>
+</div>
+
+<div>
+  <ul>
+    {% for post in site.checklists %}
+    <li>
+      <a href="{{ post.url }}"> {{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

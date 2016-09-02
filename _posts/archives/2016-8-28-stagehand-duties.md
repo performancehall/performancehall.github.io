@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Stagehand Duties
-permalink: /stage/stagehand-duties.html
 ---
 
 As a stagehand, you are most likely on call because there is at least one set change. Set changes in the Performance Hall tend to include at least one of the following:
