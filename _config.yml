@@ -51,15 +51,19 @@ lighting_hall:
     - title: General Information
       url: /lighting/lighting-info.html
     - title: Performance Hall Magic Sheet
-      url: /lighting/ph-magic-sheet-summer-2015.html
+      url: /assets/lighting/hall-magic-sheet.pdf
     - title: Performance Hall Channel Hookup
-      url: /assets/lighting/lighting_channel_hookup.pdf
+      url: /assets/lighting/hall-channel-hookup.pdf
     - title: Performance Hall Rep Plot
-      url: /assets/lighting/ph_rep_plot.pdf
+      url: /assets/lighting/hall-rep-plot.pdf
     - title: Performance Hall Instrument Schedule
-      url: /assets/lighting/lighting_instrument_schedule.pdf
+      url: /assets/lighting/hall-instrument-schedule.pdf
     - title: Node Configuration Instructions
       url: /lighting/node-configuration.html
+    - title: Lighting Cheatsheet
+      url: /assets/lighting/hall-lighting-cheatsheet.pdf
+    - title: Lighting Basics
+      url: /lighting/lighting-basics.html
 
 lighting_penthouse:
     - title: Penthouse Channel Hookup
@@ -99,9 +103,46 @@ employees:
 
 spaces_hall:
     - title: Performance Hall Tech Brochure
+      url: /assets/spaces/hall/hall-tech-brochure.pdf
+    - title: Blank Stage Plot
+      url: /assets/spaces/hall/stage-plot-blank.jpg
+    - title: Hall Seating Chart
+      url: /assets/spaces/hall/hall-seating-chart.pdf
+    - title: Rigging East Perspective
+      url: /assets/spaces/hall/hall-rigging-east-perspective.pdf
+    - title: Projection East Perspective
+      url: /assets/spaces/hall/hall-projection-east-perspective.pdf
+    - title: Lighting West Perspective
+      url: /assets/spaces/hall/hall-lighting-west-perspective.jpg
+    - title: Lighting Measurements
+      url: /assets/spaces/hall/hall-lighting-measurements.png
+    - title: Audio South Perspective
+      url: /assets/spaces/hall/hall-audio-south-perspective.pdf
+    - title: Banners East Perspective
+      url: /assets/spaces/hall/hall-banners-east-perspective.pdf
+    - title: General East Perspective
+      url: /assets/spaces/hall/hall-general-east-perspective.pdf
+    - title: Load In Map
+      url: /assets/spaces/hall/hall-load-in-map.pdf
+    - title: Ground Plan
+      url: /assets/spaces/hall/hall-ground-plan.jpg
 
 spaces_penthouse:
     - title: Penthouse Tech Brochure
+      url: /assets/spaces/penthouse/penthouse-tech-brochure.pdf
+    - title: Orchestra Layout
+      url: /assets/spaces/penthouse/penthouse-orchestra.tif
+    - title: Reception Layout
+      url: /assets/spaces/penthouse/penthouse-reception.tif
+    - title: Workshop Layout
+      url: /assets/spaces/penthouse/penthouse-workshop.tif
+    - title: Penthouse Measurements
+      url: /assets/spaces/penthouse/penthouse-measurements.tif
+    - title: Penthouse Lighting Instrument Plot
+      url: /assets/spaces/penthouse/penthouse-lighting-plot.pdf
 
 spaces_201:
     - title: Film Screening Room Tech Brochure
+      url: /assets/spaces/201/201-tech-brochure.pdf
+    - title: Screening Room Floor Plan
+      url: /assets/spaces/201/201-floor-plan.pdf
