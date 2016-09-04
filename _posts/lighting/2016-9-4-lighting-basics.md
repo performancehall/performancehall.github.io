@@ -4,7 +4,7 @@ title: Lighting Basics
 permalink: /lighting/lighting-basics.html
 ---
 
-## Lighting Basics
+# Lighting Basics
 
 To work a lighting call, you should have a basic set of tools: a crescent-wrench, a flashlight, and a pair of gloves. The Performance Hall has extras of all of these, but it is worth investing in your own to guarantee that there are enough tools for everyone and that yours fit you well.
 
@@ -40,7 +40,7 @@ There are four permanent hanging positions in the Performance Hall: Catwalk 1, C
 <u>Live:</u> If you are in ‘live’ mode on the light board, anything you program will appear immediately on stage and in the house.  
 <u>Blind:</u> A screen on the light board that allows you to program without modifying the live light levels in the house and on stage; a good way to make many needed changes without going dark on the performers.
 
-##Kinds of Lights
+## Kinds of Lights
 <u>ERS (Ellipsoidal Reflector Spot):</u> Also called Lekos or Profiles, these are the most flexible type of conventional (incandescent) light. The Performance Hall has two brands of ERS units: those made by E.T.C. (called a Source 4) and by Strand (called a Leko Lite). In general, the units are pretty much the same, though they differ in lamps (and how to change one), placement of barrel knobs (and extra bits), amount of heat given off (beware, Leko Lites get much hotter than Source 4s and will burn through gels with less output to the unit) and weight, but otherwise the units are pretty much the same.
 
 * <u>Barrel:</u> Also known as Lens Tubes, barrels sit on the front of the units. They contain lenses, sitting at various distances from one another in order to create a specific beam size. Barrels come in a variety of “degrees”: 10°, 19°, 26°, 36°, and 50°.
@@ -148,7 +148,7 @@ Very Narrow Spot (VNSP): Clear glass. Creates a 15° beam shape.
 * Change lamps by unscrewing the old and screwing in a new one.
 * To store a music stand light, coil the cable and place it over the lamp. Then, fold the clip up over the cable. By keeping the cable inside the body of the light, it will not become tangled with other lights in the bin.
 
-##Mounting
+## Mounting
 Units can be mounted on four kinds of hardware. As with all hardware you encounter, keep all the bits and pieces together.
 
 * <u>C-clamp:</u> These are what you will find most units in the Performance Hall mounted on. Like their names, they are shaped like C’s. When hanging a unit on a C-clamp, hang it so the open side faces you. Then, tighten the bolt with a wrench.
@@ -156,7 +156,7 @@ Units can be mounted on four kinds of hardware. As with all hardware you encount
 * <u>Floor plate:</u> These are used for placing units on the floors. They are square pieces of wood with a hole in the center, with a bolt, a nut, and washers. Always keep the hardware with the floor plate so the next stagehand does not need to go searching for it.
 * <u>Booms:</u> 50 lb boom bases are located in the Southwest corner of backstage. Find the marked 10’, 1 ½” diameter boom pipes in the storage room across from the green room. Screw pipes tightly into bases, and then hang units either yoked out or on a side arm on either the up or downstage side of the pipe. Then, point them onstage. Be consistent.
 
-##Accessories
+## Accessories
 Most common accessories sit in the outer frame of a unit. Always tie the safety length of tie line connected to the accessory to the yoke of the unit.  
 <u>Top Hats:</u>  Top hats are used to counter light spill. Named because they look like top hats, they can be used in source 4 or PAR units. We have Top Hats for S4 Pars.  
 <u>Half Hats or Tipton Hats:</u> Like top hats, only cut in half lengthwise, so they only block half of the light beam.  
@@ -164,14 +164,14 @@ Most common accessories sit in the outer frame of a unit. Always tie the safety 
 <u>Gobos:</u> A gobo, also known as a template, is used to make a pattern on the stage. Gobos come in either metal (most commonly sizes A or B) or glass. The Performance Hall only has template holders for metal, size B. Gobos are only used in ERS units, but we only have holders for them for the Strand Leko Lites. Gobos are installed at the gate of the unit, where the lens and the reflector meet perfectly, where a perfectly in focus pattern is possible. Before placing a gobo in a unit, put it in a template holder. These can be found by the gels in Catwalk 4. To install a gobo on a Strand Lekolite, unscrew the gate cover, slide it open, and slide the template holder in. Close the gate as much as you can, and tighten the screws. To install a gobo on an ETC Source 4, slide the holder in just forward of the top shutter. Be careful, though, gobos get extremely hot very quickly, so be careful when removing them after the light has been on for some time.  
 <u>Irises:</u> An iris in a lights acts just like an iris in an eye. Used to make beams even smaller, irises sit in the accessory slot forward of the gobo slot. To access this slot on an ETC Source 4, you will need to use a screwdriver to slide down the accessory slot cover.
 
-##Troubleshooting Equipment
+## Troubleshooting Equipment
 <u>Sniffer:</u> These check for current in a wire or outlet  
 <u>GAM Check:</u> It is a standardized troubleshooting device for stage pin connections. It has two settings, CABLE and [lamp], which represents a lamp. When the switch is flipped to the lamp setting, plug a unit into the female end of the GAM check. The GAM check will beep if the lamp is good. If it does not beep, change the lamp in the unit. To check if a unit is receiving power, flip to the CABLE setting and plug the male end of the GAM check into the female dimmer you are using. Turn the dimmer on at the board. If the dimmer is working, you will get three green LEDS on the GAM check. If you get another combination of lights, refer to the key on the GAM check itself.
 
-##Types of Cable
+## Types of Cable
 The cable in the Performance Hall is labeled with electrical tape according to length. All lighting power cable is rated for at least 20 Amps and is SOOW (Extra hard usage, oil resistant, water resistant).
 
-              Beige = 5’ 	Red = 10’          	Green = 25’	      Blue = 50’	      White =100’
+	Beige = 5’	Red = 10'	Green = 25’	Blue = 50’	White =100’
 
 With any piece of cable, there is a male and female end. They mean just what you would think: the male end is the one with pins sticking out, the female the end with holes. The male end will never be the live end (only female ends will be live so you can’t get electrocuted). Remember that, sadly, there is no homosexuality in electricity. The male always goes toward your power source (male is the input end, female the output). Be consistent when running cable by running it on one side of the pipe. Cable should be regularly tied off to pipe (using tie line) to prevent any slack from dangling. Excess cable should be neatly coiled and then tie lined to the pipe.
 
@@ -188,7 +188,7 @@ With any piece of cable, there is a male and female end. They mean just what you
 		* Staggered: The stage pin lengths vary with 1 being the shortest and 6 being the longest.
 	* When circuiting a pipe with a break-out, the six circuit numbers align one-to-one with the circuits you plugged the mult into. For example, if you plug the break-out into circuits 119-124, the stage pin labelled 1 will be dimmer 119, 2 will be 120, and so on.
 
-##Things to remember when hanging and focusing lights
+## Things to remember when hanging and focusing lights
 * Lights should (if possible) be spaced with at least 1’6” between each clamp so as to allow space for it to rotate and point differently during focus. The distance between your elbow and fingertips is approximately 1’6”, and so you can use your arm to measure as well.
 * Lock everything down with your wrench. Only tighten bolts a quarter or half turn past finger tight, otherwise you begin to bend the bolt, weakening it, and making it more likely to break and fall.
 * Make sure the safety cable is looped over the pipe and attached back to itself.
@@ -208,7 +208,7 @@ With any piece of cable, there is a male and female end. They mean just what you
 * Hang units in their appropriate storage space in the catwalks, tightening the bolt with only your fingers.
 
 
-##Light Board Operation
+## Light Board Operation
 Like most modern light boards, the *Strand Light Palette Classic* is composed of two main sections—the <u>Playback</u> and <u>Programming</u> sections. The <u>Programming</u> section allows you to set up and program different lighting looks and adjust settings on the board, while the <u>Playback</u> section allows you to recall those different looks in different manners. On the *Strand Light Palette Classic*, the <u>Playback</u> section is mostly on your left, consisting of the twelve sliders (called submasters/looks) and associated buttons and the two groups of two sliders above  “Go” buttons (labeled AB and CD). The number and key pads, retractable keyboard and mouse on the right make up the <u>Programming</u> section. Outlined below are some basic operations of the board.
 
 **On/Off**  
