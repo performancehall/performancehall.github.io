@@ -94,6 +94,10 @@ recording:
 checklists:
     - title: A1 Checklist
       url: /checklists/a1-checklist.html
+    - title: LX Checklist
+      url: /checklists/lighting-checklist.html
+    - title: SM Checklist
+      url: /checklists/stage-manager-checklist.html
 
 employees:
     - title: Tech Manual
