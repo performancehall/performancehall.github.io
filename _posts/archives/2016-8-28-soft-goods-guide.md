@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Guide to Soft Goods
-permalink: /stage/soft-goods-guide.html
 ---
 
 What most people refer to as “curtains” are actually called “soft goods” within the technical theater community. As opposed to “hard goods,” soft goods have the capability to fold. These goods include items such as legs, borders, scrims, full stage blacks, and grand curtains (also referred to as main curtain). The Performance Hall at the University of Chicago has all of these. This section guides you through identifying, hanging, folding, and handling these various soft goods.

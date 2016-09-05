@@ -4,7 +4,7 @@ title: Tech Manual
 permalink: /employees/tech-manual.html
 ---
 
-#Production Assistant Tech Manual
+# Production Assistant Tech Manual
 
 ## 1. How to Be a Great Stagehand: Tips and Tricks
 Always arrive 10 minutes early for your call. If your call starts at 9am, that means you start working at 9am. Give yourself enough time to clock on, tool up, and get ready for work.

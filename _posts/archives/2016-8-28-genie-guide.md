@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Genie Use and Safety
-permalink: /stage/genie-guide.html
 ---
 
 A genie is a kind of lift. The Logan Center has two Genies available for Performance Hall use, one with a maximum height of 25’ and one with 30’. The trim (height) of the ceiling in the Performance Hall is 30’, so always take the 30’ Genie if you are working in the hall. They are usually located in the back hallways past the vending machines. Ask for help if you have a hard time finding one.

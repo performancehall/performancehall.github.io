@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Guide to Laying and Striking Marley
-permalink: /stage/marley-guide.html
 ---
 
 Marley is a type of dance floor. It allows dancers to move easily across the deck and offers more give, resulting in higher and more efficient jumps. Marley comes in heavy vinyl strips. These strips are about four feet wide and span the length of the stage. To both lay out and strike marley, you need at least two people. Ideally, you have a crew of four: two to tape down a strip while the other two prep the next strips.
