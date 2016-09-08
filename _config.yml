@@ -26,24 +26,26 @@ version:             1.2.0
 audio:
     - title: Audio Glossary
       url: /audio/audio-glossary.html
-    - title: Archival Recording Instructions and Standards
-      url: /audio/archival-instructions.html
     - title: Audio Equipment and Set Up
       url: /audio/equipment-and-setup.html
     - title: Getting Sound From a Mic to the Mains
       url: /audio/mic-to-mains.html
-    - title: Handheld Tascam Tutorial
-      url: /audio/handheld-tascam-tutorial.html
     - title: Microphone List
       url: /audio/microphone-list.html
-    - title: Setting Up a Board Feed For a Videographer
-      url: /audio/board-feed-for-videographer.html
     - title: Setting Up a DI-Box
       url: /audio/setting-up-a-di-box.html
     - title: Setting Up Monitors
       url: /audio/setting-up-monitors.html
     - title: Seven System Dwarves
       url: /audio/seven-system-dwarves.html
+
+recording:
+    - title: Handheld Tascam tutorial
+      url: /recording/handheld-tascam-tutorial.html
+    - title: Archival Recording Instructions and Standards
+      url: /audio/archival-instructions.html
+    - title: Setting Up a Board Feed For a Videographer
+      url: /audio/board-feed-for-videographer.html
 
 lighting_hall:
     - title: Followspot Guide
@@ -66,8 +68,8 @@ lighting_hall:
       url: /lighting/lighting-basics.html
 
 lighting_penthouse:
-    - title: Penthouse Channel Hookup
-      url: /assets/lighting/penthouse_channel_hookup.pdf
+    - title: Penthouse Magic Sheet
+      url: /assets/lighting/penthouse-magic-sheet.pdf
 
 video:
     - title: Projection Cheat Sheet
@@ -87,9 +89,6 @@ stage:
     - title: Soft Goods Guide
       url: /stage/soft-goods-guide.html
 
-recording:
-    - title: Handheld Tascam tutorial
-      url: /recording/handheld-tascam-tutorial.html
 
 checklists:
     - title: A1 Checklist
@@ -109,7 +108,7 @@ spaces_hall:
     - title: Performance Hall Tech Brochure
       url: /assets/spaces/hall/hall-tech-brochure.pdf
     - title: Blank Stage Plot
-      url: /assets/spaces/hall/stage-plot-blank.jpg
+      url: /assets/spaces/hall/hall-stage-plot-blank.jpg
     - title: Hall Seating Chart
       url: /assets/spaces/hall/hall-seating-chart.pdf
     - title: Rigging East Perspective
@@ -135,13 +134,13 @@ spaces_penthouse:
     - title: Penthouse Tech Brochure
       url: /assets/spaces/penthouse/penthouse-tech-brochure.pdf
     - title: Orchestra Layout
-      url: /assets/spaces/penthouse/penthouse-orchestra.tif
+      url: /assets/spaces/penthouse/penthouse-orchestra.pdf
     - title: Reception Layout
-      url: /assets/spaces/penthouse/penthouse-reception.tif
+      url: /assets/spaces/penthouse/penthouse-reception.pdf
     - title: Workshop Layout
-      url: /assets/spaces/penthouse/penthouse-workshop.tif
+      url: /assets/spaces/penthouse/penthouse-workshop.pdf
     - title: Penthouse Measurements
-      url: /assets/spaces/penthouse/penthouse-measurements.tif
+      url: /assets/spaces/penthouse/penthouse-measurements.pdf
     - title: Penthouse Lighting Instrument Plot
       url: /assets/spaces/penthouse/penthouse-lighting-plot.pdf
 
