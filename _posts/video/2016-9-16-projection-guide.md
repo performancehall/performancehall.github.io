@@ -31,7 +31,7 @@ When you turn on the Projection System, you also turn on the cinema audio system
 
 The Video Rack is designed to be a black box, with users only having to understand what goes into it and what comes out of it. Normal use of the Video Rack does not require any changes to the individual components housed within, and users should aim to avoid diving into the rack by themselves. Keep in mind that the harder it is to get to a particular component, the less likely it is that you should be trying to get to it.  
 
-![Video Rack Flowchart](http://performancehall.github.io/assets/video/projection-guide/video-rack-flowchart.pdf)
+![Video Rack Flowchart](/assets/video/projection-guide/video-rack-flowchart.pdf)
 
 
 
