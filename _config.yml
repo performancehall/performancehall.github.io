@@ -28,6 +28,8 @@ audio:
       url: /audio/audio-glossary.html
     - title: Audio Equipment and Set Up
       url: /audio/equipment-and-setup.html
+    - title: Mobile Rig User Guide
+      url: /audio/mobile-rig-guide.html
     - title: Getting Sound From a Mic to the Mains
       url: /audio/mic-to-mains.html
     - title: Microphone List
@@ -36,6 +38,8 @@ audio:
       url: /audio/setting-up-a-di-box.html
     - title: Setting Up Monitors
       url: /audio/setting-up-monitors.html
+    - title: Wireless Microphone Guide
+      url: /audio/wireless-microphone-guide.html
     - title: Seven System Dwarves
       url: /audio/seven-system-dwarves.html
 
@@ -70,6 +74,8 @@ lighting_hall:
 lighting_penthouse:
     - title: Penthouse Magic Sheet
       url: /assets/lighting/penthouse-magic-sheet.pdf
+    - title: Penthouse Rep Plot
+      url: /assets/lighting/penthouse-rep-plot.pdf
 
 video:
     - title: Projection Cheat Sheet
@@ -78,6 +84,10 @@ video:
       url: /video/overflow-video-streams.html
     - title: Video Rack Tutorial
       url: /video/video-rack-guide.html
+    - title: Confidence Monitor Guide
+      url: /video/confidence-monitor-guide.html
+    - title: Projection Guide
+      url: /video/projection-guide.html
 
 stage:
     - title: Grand Curtain Guide
@@ -127,7 +137,7 @@ spaces_hall:
       url: /assets/spaces/hall/hall-general-east-perspective.pdf
     - title: Load In Map
       url: /assets/spaces/hall/hall-load-in-map.pdf
-    - title: Ground Plan
+    - title: Performance Hall Stage Dimensions
       url: /assets/spaces/hall/hall-ground-plan.jpg
 
 spaces_penthouse:
@@ -141,8 +151,8 @@ spaces_penthouse:
       url: /assets/spaces/penthouse/penthouse-workshop.pdf
     - title: Penthouse Measurements
       url: /assets/spaces/penthouse/penthouse-measurements.pdf
-    - title: Penthouse Lighting Instrument Plot
-      url: /assets/spaces/penthouse/penthouse-lighting-plot.pdf
+    - title: Penthouse User Guide
+      url: /spaces/penthouse-user-guide.html
 
 spaces_201:
     - title: Film Screening Room Tech Brochure
