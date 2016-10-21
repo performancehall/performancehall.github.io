@@ -322,86 +322,39 @@
         <div class="post">
   <h1 class="post-title">Node Configuration Instructions</h1>
   <span class="post-date"> 28 Aug 2016</span>
-  <ol>
-  <li>
-    <p>Plug the node into the lighting network and write down the ip address taped to the side of the node</p>
-  </li>
-  <li>
-    <p>Find a Mac (If you’re using a PC, you’re on your own…)</p>
-  </li>
-  <li>
-    <p>Open System Preferences</p>
-  </li>
-  <li>
-    <p>Go to the Network Preferences page</p>
-  </li>
-  <li>
-    <p>Move the “Auditorium” Wi-Fi network</p>
-  </li>
-  <li>
-    <p>Click on Advanced towards the bottom right corner of the window</p>
-  </li>
-  <li>
-    <p>Go to the TCP/IP page</p>
-  </li>
-  <li>
-    <p>In the drop down menu where it says “Configure IPv4” select “Manually”</p>
-  </li>
-  <li>
-    <p>Give the computer an ip address of <code class="highlighter-rouge">192.168.0.199</code> (or any other ip address within the
-lighting network but not used by an entity on that network)</p>
-  </li>
-  <li>
-    <p>Give the computer a Subnet Mask of <code class="highlighter-rouge">255.255.255.0</code></p>
-  </li>
-  <li>
-    <p>Click Ok and then click Apply</p>
-  </li>
-  <li>
-    <p>Open Firefox (other browsers are less successful at interacting with the strand
-interface)</p>
-  </li>
-  <li>
-    <p>Type in the ip address of the mode where you would enter a web address + /mini/</p>
+  <p>Plug the node into the lighting network and write down the ip address taped to the side of the node</p>
 
-    <ul>
-      <li>If the ip address is: <code class="highlighter-rouge">192.168.0.72</code></li>
-      <li>Type in: <code class="highlighter-rouge">192.168.0.72/mini/</code></li>
-    </ul>
-  </li>
-  <li>
-    <p>There are only a few things that you should be changing in this screen, depending
-upon what you are configuring the node to do:</p>
+<p>On a Mac:<br />
+Open System Preferences<br />
+Go to the Network Preferences page<br />
+Move the “Auditorium” Wi-Fi network<br />
+Click on Advanced<br />
+Go to the TCP/IP page<br />
+In the drop down menu where it says “Configure IPv4” select “Manually”<br />
+Give the computer an ip address of 192.169.0.199 (or any other ip address within the lighting network but not used by an entity on that network)<br />
+Give the computer a Subnet Mask of 255.255.255.0<br />
+Click OK and then click Apply<br />
+Open Firefox<br />
+Type in the ip address of the mode where you would enter a web address + /mini/<br />
+For example, if the ip address is: 192.168.0.72, you would type in 192.168.0.72/mini/</p>
 
-    <ul>
-      <li>
-        <p>You can change whether the ports (DMX A and DMX B) output or input DMX by
-going to their respective pages within this screen by clicking on them and then
-selecting DMX in from the drop-down menu</p>
-      </li>
-      <li>
-        <p>You can change what DMX universe (set of 512 DMX channels—usually we’ll just
-be using universes one and two to give the hall a total of 1024 addressable channels of lighting control) each port corresponds to by changing the “Netslot” field value of each port along the bottom of the window.</p>
+<p>There are only a few things that you should be changing in this screen, depending upon what you are configuring the node to do:</p>
 
-        <ul>
-          <li>To put a DMX port (A or B) in Universe 1, enter “1” for the “Netslot” For Universe 2, you would enter 513 for the “Netslot”</li>
-        </ul>
-      </li>
-      <li>
-        <p>If you reconfigure the node, make sure to change the label for each DMX port to reflect what it is doing, (i.e. if you configure a port to be DMX in second universe, change the label to DMX IN U2)</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>Click Update to update the node with the changes you made. The password is <code class="highlighter-rouge">2606</code>. Go back to the DMX A and DMX B pages to make sure the desired changes held.</p>
-  </li>
-  <li>
-    <p>After reconfiguring the node, for the changes to take effect, you frequently have to reboot the node by unplugging it from ethernet and then plugging it back in!</p>
-  </li>
-  <li>
-    <p>You’re done! To make your computer connect to the regular internet again, go back to the Configure IPv4 drop down menu in system preferences and change it back to “Using DHCP” and apply the changes.</p>
-  </li>
-</ol>
+<p>You can change whether the ports (DMX A and DMX B) output or input DMX by going to their respective pages within this screen by clicking on them and then selecting DMX in from the drop-down menu</p>
+
+<p>You can change what DMX universe (set of 512 DMX channels–usually we’ll just be using universes one and two to give the hall a total of 1024 addressable channels of lighting control) each port corresponds to by changing the “Netslot” field value of each port along the bottom of the window.</p>
+
+<p>To put a DMX port (A or B) in Universe 1, enter “1” for the “Netslot”. For Universe 2, you would enter 513 for the “Netslot”</p>
+
+<p>If you reconfigure the node, make sure to change the label for each DMX port to reflect what it is doing (i.e. if you configure a port to be DMX in second universe, change the label to DMX IN U2).</p>
+
+<p>Click Update to upadate the node with the changes you made. The password is 2606. Go back to the DMX A and DMX B pages to make sure the desired changes held.</p>
+
+<p>After reconfiguring the node, reboot the node by unplugging it from ethernet and plugging it back in.</p>
+
+<p>You’re done! To make your computer connect to the regular internet again, go back to the Configure IPv4 drop down menu in system preferences and change it back to “Using DHCP” and apply the changes.</p>
+
+<p>Be sure to reconfigure the node to default (for output nodes, outputting universes 1 and 2 from their respective DMX ports) when striking the show.</p>
 
 </div>
 

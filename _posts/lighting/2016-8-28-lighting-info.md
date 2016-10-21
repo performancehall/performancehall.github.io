@@ -6,9 +6,9 @@ permalink: /lighting/lighting-info.html
 
 ###CONTROL
 
-House Board is Strand Light Palette Classic
-Wireless and wired Strand Shownet Ethernet lighting network N21 Ethernet to DMX nodes available
-Remote Focus Unit Available
+House Board is Strand Light Palette Classic  
+Strand Shownet Ethernet lighting network  
+N21 Ethernet to DMX nodes available Remote Focus Unit Available  
 Houselights and Worklights controlled via Strand Vision Net, auxiliary console, and wall panels around the space, as well as through primary console (HTP)
 
 ###POWER
@@ -29,7 +29,8 @@ Circuits are 1:1 with corresponding dimmers
 * 53-88: Stage Level (36)
 * 89-148: on Electrics (60)
 * 149-157: Permanently wired to Fixed Pars in Ceiling
-* 158-160: Extra Circuits on Electric 2 (numbered OL 210-212), 161-169: Extra FOH circuits in Catwalks (9) (numbered OL 213-221)
+* 158-160: Extra Circuits on Electric 2 (numbered OL 210-212)  
+* 161-169: Extra FOH circuits in Catwalks (9) (numbered OL 213-221)
 
 **Non-Dim Relays - Twistlock (L5-20) 210-217: FOH in Catwalks (8)**
 
@@ -70,25 +71,23 @@ Circuits are 1:1 with corresponding dimmers
     * Length: 47’, Length of ceiling opening: 44’
     * Design does not permit lights to be pointed far upstage from this position
 
-* Catwalk 3
-
-    * No lighting circuits
-    * Design does not permit lights to be pointed at the stage from this position
-
-* Catwalk 4
-
-    * No lighting circuits
-    * Design does not permit lights to be pointed at the stage from this position
 
 **Flown Lighting Positions**
 
 Electric 1 (U5)
 
-* Lighting network, dimmed lighting circuits, non-dim power available 30’ Trim, Length 41’8”, Throw distance approximately 36’ to DSC
+* Lighting network, dimmed lighting circuits, non-dim power available  
+30’ Trim, Length 41’8”, Throw distance approximately 36’ to DSC
 
-Electric 2 (U7)
+Electric 2 (U6)
 
-* Lighting network, dimmed lighting circuits, non-dim power available 30’ Trim, Length 41’0”, Throw distance approximately 41’ to DSC
+* Dimmed lighting circuits run individually for cyc lights  
+30' Trim, Length 41'0", Throw distance approximately 40'10" to DSC
+
+Electric 3 (U7)
+
+* Lighting network, dimmed lighting circuits, non-dim power available  
+30’ Trim, Length 41’0”, Throw distance approximately 41’ to DSC
 
 ----
 
