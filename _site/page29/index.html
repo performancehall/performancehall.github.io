@@ -235,7 +235,47 @@
     
       
         
-          <a class="sidebar-nav-item" href="/spaces/">Spaces</a>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
     
@@ -298,108 +338,131 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//audio/mic-to-mains.html">
-        Getting Sound From a Mic to the mains
+      <a href="//video/video-rack-guide.html">
+        Video Rack Guide
       </a>
     </h1>
 
     <span class="post-date">26 Aug 2016</span>
 
-    <h2 id="setting-up-a-mic">##Setting up a Mic</h2>
+    <h2 id="intro">Intro</h2>
 
-<ol>
+<p>The video rack is a bit of a beast of a rig. Don’t be frightened by it.
+There are a lot of wires and components on the inside of it, but most of the actual signal flow is relatively simple. In this tutorial we’ll break down the sections of it that you need to know, and explain how the signals flow into, out of and within the rack.</p>
+
+<h2 id="major-sections">Major Sections</h2>
+
+<p>Mac Pro
+Multiview
+Converters
+IO Panel
+USB Hub</p>
+
+<h2 id="io-panel">IO Panel</h2>
+
+<p>This is where all the signals come into and out of the rack. As such, if you need to troubleshoot anything, this is the place to start. In an ideal world, you shouldn’t change anything further down the signal chain than the IO Panel. If changing things here doesn’t resolve your issues, think long and hard before you go changing any connections beyond this point.</p>
+
+<h4 id="io-panel-connections">IO Panel Connections</h4>
+
+<ul>
   <li>
-    <p>Find out who or what you are miking and how versatile they need to be during the show. Choose a
-stand and mic accordingly.</p>
+    <p>SWITCHED:</p>
+
+    <p>This is the switched power that feeds the Furman relay. It is switched via the switch on the front of the Furman, and feeds power to a number of the video converters.</p>
   </li>
   <li>
-    <p>Find out where the mic needs to be placed on stage. Setup the stand, attach the clip, and slip the
-mic into the clip. Make sure everything within the stand is tight.</p>
-  </li>
-  <li>If the mic is wired and you are using a boom stand,
+    <p>UNSWITCHED:</p>
+
     <ul>
-      <li>Take your XLR cable and first plug the male end into the floorbox or AVP.</li>
-      <li>Carry the coil to the stand (when possible, follow along with other cables going in that same
-direction) and drop the coil under the center of the stand.
-￼￼￼￼￼* Run the female end up the stand, wrapping it around once.</li>
-      <li>As you hit the boom, make sure the cord runs over the tightening pin.</li>
-      <li>Wrap the cord once more around the boom in the same direction.</li>
-      <li>Plug the female end into the mic, making sure the cord has enough slack at the end so that
-the mic can be easily adjusted, but not so much that the cord is hanging all over.</li>
+      <li>This power connection feeds :</li>
     </ul>
   </li>
   <li>
-    <p>Always leave the cable slack at the base of the mic stand, never at the input or somewhere in
-between.</p>
-  </li>
-  <li>
-    <p>Try to run the cables in right angles when possible and along with other cables nearby. However,
-avoid running microphone cables alongside AC power cables or SpeakOn unless absolutely
-necessary;; this will generate noise in the signal.</p>
-  </li>
-  <li>
-    <p>Any loose cables onstage or backstage should be taped down after soundcheck is complete, and
-prior to doors opening. Remember to not tape down any mics that will need to move around during
-the show.</p>
-  </li>
-  <li>If the mic is wireless, check to make sure the battery has at least two bars for a rehearsal setting
-and three for a public performance. Batteries with less than two bars should be recycled in the
-“dead battery” bin.</li>
-</ol>
+    <p>Creston:</p>
 
-<h2 id="the-patchbay">##The Patchbay</h2>
-
-<ol>
-  <li>
-    <p>This is where you will be connecting the signal directly to the SC48. Check the number on the floorbox or AVP input you plug into;; it should be in the format of the letter M then a sequence of ascending numbers, example: M12. Take a long-frame cable and run it from that input to whichever channel you intend to use on the mixing board. Use different colored cables to show different groups of mics (wired vs wireless or vocals vs instruments or input to split to SC48 vs booth).</p>
-  </li>
-  <li>
-    <p>While patching, make sure the sound system is on by checking that the sequencer key is turned to “on” and that all its associated amps have turned on. While you’re doing this, check the subwoofer amp and turn on manually if needed.</p>
-  </li>
-</ol>
-
-<h2 id="at-the-venue-sc48">##At the Venue SC48</h2>
-
-<ol>
-  <li>
-    <p>Turn on the Venue if it hasn’t been turned on yet. Once it is on, make sure all channels have been
-muted or have their faders turned down. Then turn the master fader (at the far right) up to “unity”.</p>
-  </li>
-  <li>
-    <p>Select each channel you have patched mics to and label them by double clicking on the “Channel #”
-in the top left corner of the onscreen interface and naming what instrument or type of mic it is (“SL Vox” for stage left vocals, or “W1” for wireless mic #1). This makes it easier to keep track of your mics and keeps you from forgetting which channels are which.</p>
-  </li>
-  <li>If you are using a condenser mic, remember to mute the channel before turning on phantom power because the 48 volts will cause the mike to pop momentarily. If the mic is not muted, the entire house may hear an very loud and unpleasant sound. To engage phantom power:
     <ul>
-      <li>Select the channel that needs the phantom.</li>
-      <li>Again, make sure the channel is MUTED and the fader is down.</li>
-      <li>Press the 48V button near the top of the Venue.</li>
-      <li>Unmute, gain and then fader up.</li>
+      <li>This is the Crestron Fiber optic connection</li>
+    </ul>
+  </li>
+  <li>FW32</li>
+  <li>NETWORK</li>
+  <li>
+    <p>NETWORK</p>
+  </li>
+  <li>
+    <p>USB</p>
+  </li>
+  <li>
+    <p>PROJECTOR:</p>
+
+    <ul>
+      <li>This is the DVI feed out to the Projector. The cable travels along the trough under FOH and comes up in Projection Boot and plugs into one of the DVI ports on the bottom of front panel of the left most rack by the projectors.</li>
+    </ul>
+  </li>
+  <li>STAGE IN SDI
+    <ul>
+      <li>This is fed from V37 and is used to route a signal from somewhere on stage up to the KUMO</li>
+    </ul>
+  </li>
+  <li>STAGE OUT SDI
+    <ul>
+      <li>This feeds V38 and is used to route a signal from one of the KUMO inputs to a display feed somewhere other than FOH, usually for confidence monitors or projectors on stage.</li>
+    </ul>
+  </li>
+  <li>AMX MON
+    <ul>
+      <li>(INACTIVE?)</li>
     </ul>
   </li>
   <li>
-    <p>Find someone assigned as or willing to temporarily be your audio assistant to test the mics. Have them first go to each mic and test that each one is working by gently tapping the grill of the mic. You are checking to see that you are getting signal to the channel;; if you see nothing, turn up the gain until you do. Remember to keep the channel muted and fader down while line checking.</p>
+    <p>BLANK SDI</p>
   </li>
-  <li>
-    <p>Once you have completed the line check, you know all your patches are correct, and you have extra time and want to do things right, you can now do your pre-soundcheck soundcheck! Ask your assistant to go back to each mic and spend more time with each one. They should speak through vocal mic and play approved instruments, one at a time, to help you set gains and test monitors.</p>
-  </li>
-  <li>
-    <p>During line check, confirm that each channel is going to the appropriate main speaker (LR or C). To do this, decide whether the sound from each independent channel should be coming out of the left and right speakers, the center speaker, or all three. * As a rule, vocalists should be routed to the center speaker only, instruments to the left and right and pre-recorded music again to just left and right (although left, center, and right is also an option if you need more level). On the board, select the channel, then choose the L/R or Center assigns from the master mains routing section.</p>
-  </li>
-  <li>
-    <p>Adjust the panning, limiter, comps, gate and effects (FX) as you see fit. These should all be adjusted pre-show;; turning any of these on mid-show would have to be done very gradually and strategically. When done improperly, you could lose sound completely and totally throw off a performance.</p>
-  </li>
-  <li>Double check that the speakers are at the the right height for the show.
+  <li>FOH IN
     <ul>
-      <li>For a lecture or panel, the center speaker can be the only one down.</li>
-      <li>Instrumental performances can have the left and right speakers down.</li>
-      <li>For use with the projection screen, left and right should be set below the break in the screen.</li>
-      <li>For a film screening from the booth, fly the line array below the break in the screen.</li>
+      <li>This is where the FOH HDMI cable patches into the video rack. From here it connects to the FOH HDMI AJA Converter and from there into the Decimator Multiview and on to the KUMO.</li>
     </ul>
   </li>
-</ol>
+  <li>MULTIVIEW
+    <ul>
+      <li>This is the HDMI feed that comes from the Multiview and goes to the Right hand Display on the FOH desk.</li>
+    </ul>
+  </li>
+  <li>DISPLAY (?)</li>
+  <li>CRESTRON
+    <ul>
+      <li>This is the HDMI port that feeds the HDMI input on the Crestron panel on the ABP under the FOH Desk.</li>
+    </ul>
+  </li>
+</ul>
 
-<p>At this point the basic loop of mic to patchbay to Venue to speakers is complete. There are a bunch of technical processes in there, but basic mic amplification is taking place, which can be enough for some musical performances and most lecture settings.</p>
+<p>MIDI IN
+MIDI OUT
+* AES3 IN
+* AES3 OUT
+* KUMO L
+* KUMO R</p>
+
+<h3 id="making-sense-of-it-all">Making Sense of it All</h3>
+
+<p>The biggest thing that will help you to understand how the video rack works is to have an understanding of the underlying signal flow. If you can understand how the signals move around and are altered in an abstract fashion, making sense of the cable mess becomes, if not easier, then a little more straightforward.</p>
+
+<p>The video signals that run into, out of and around the video rack come in two ‘flavors’, SDI (specifically <strong>__</strong>__) and HDMI. Any time you need to make a change between the two formats, you need a converter. The converters in the rack take the form of the small grey AJA boxes. These AJA boxes accomplish the same function as the larger, bright red Decimator boxes that you may have seen around before.</p>
+
+<p>Now, why exactly are we converting between SDI and HDMI in the first place? Why can’t we just use one format? The answer to those questions has to do with the nature of the Hardware we use for various purposes in the hall. HDMI can be thought of as more of a consumer level format. You use it to connect your laptop or computer to a monitor or TV or a small projector. SDI on the other hand, is a format used in higher profile professional hardware, such as the NEC Projector (the one in the projection booth), video switching hardware like the AJA KUMO, and for transporting video signals over distances longer than a couple feet without signal degradation.</p>
+
+<p>Since we often deal with multiple video signals that we like to be able to switch between for displaying various media during shows, we use specialized hardware to be able to switch between all of our signals. For us, this hardware is the AJA KUMO 1604, which has 16 SDI inputs and 4 SDI outputs. The KUMO can route any of the 16 inputs to any of the 4 outputs and can switch back and forth relatively seamlessly, with control being accessed via a network connection than you can call up in a browser (See the ‘KUMO’ bookmark in Chrome on the FOH Mac Pro).</p>
+
+<p>So if we have an HDMI signal on a laptop at FOH that we want to be able to route to a display on stage, one way to do this would be to just hook the HDMI up to a Decimator, take the SDI output, patch it to the ABP and do the opposite on stage. However if we want to be able to switch the signal that the display receives, we would want to hook the HDMI upto an HDMI to SDI converter (like the Decimator or the AJA boxes), and run the SDI into the AJA, so that we can switch the display’s feed back and forth between this HDMI and the other signal.</p>
+
+<h4 id="multiview">Multiview</h4>
+
+<p>So we’ve covered why we need to convert signals and how the KUMO accomplishes the signal switching we like to be able to do, but one thing we’ve yet to discuss is the Multiview and how that fits into the signal chain.</p>
+
+<p>When we’re switching back and forth between the various video feeds we have to deal with during a show, it’s convenient if not necessary to be able to see what each signal is to ensure that we’re not going to go live on a blank screen or some other unsuitable feed. The Multiview allows us to quickly inspect a lot of different signals quickly to make sure everything is how it should be. However in order to do this, it needs all the signals we worry about to flow through it. This makes our lives a little more difficult in terms of troubleshooting things, and certainly makes the video rack a lot messier, but provides necessary functionality that outweighs these costs.</p>
+
+<p>So to revisit our previous example, we have an HDMI signal we want to be able to get from a laptop at FOH down to a display or projector on the stage. We patch into the FOH HDMI cable that sits at the desk. That cable goes into the IO Panel on the back of the video rack. From there an HDMI cable runs inside the rack to an AJA HDMI to SDI converter. The SDI cable that comes out of that carrying our signal goes into an input on the multiview and comes out unchanged on a loop output from the multiview. From the multiview the new SDI cable patches to an input on the back of the AJA KUMO.</p>
+
+<p>An important part of this is that the signal the Multiview is getting and showing us from the FOH HDMI is the same as the signal it then sends to the input on the KUMO. The multiview lets us look at a number of the signals we’re getting on the ‘Preview Monitor’, so that we can know what we’re getting before we switch our signals with the KUMO.</p>
 
   </div>
   

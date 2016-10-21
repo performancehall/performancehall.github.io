@@ -235,7 +235,47 @@
     
       
         
-          <a class="sidebar-nav-item" href="/spaces/">Spaces</a>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
     
@@ -298,93 +338,65 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//lighting/node-configuration.html">
-        Node Configuration Instructions
+      <a href="//stage/genie-guide.html">
+        Genie Guide
       </a>
     </h1>
 
-    <span class="post-date">28 Aug 2016</span>
+    <span class="post-date">04 Sep 2016</span>
 
-    <ol>
-  <li>
-    <p>Plug the node into the lighting network and write down the ip address taped to the side of the node</p>
-  </li>
-  <li>
-    <p>Find a Mac (If you’re using a PC, you’re on your own…)</p>
-  </li>
-  <li>
-    <p>Open System Preferences</p>
-  </li>
-  <li>
-    <p>Go to the Network Preferences page</p>
-  </li>
-  <li>
-    <p>Move the “Auditorium” Wi-Fi network</p>
-  </li>
-  <li>
-    <p>Click on Advanced towards the bottom right corner of the window</p>
-  </li>
-  <li>
-    <p>Go to the TCP/IP page</p>
-  </li>
-  <li>
-    <p>In the drop down menu where it says “Configure IPv4” select “Manually”</p>
-  </li>
-  <li>
-    <p>Give the computer an ip address of <code class="highlighter-rouge">192.168.0.199</code> (or any other ip address within the
-lighting network but not used by an entity on that network)</p>
-  </li>
-  <li>
-    <p>Give the computer a Subnet Mask of <code class="highlighter-rouge">255.255.255.0</code></p>
-  </li>
-  <li>
-    <p>Click Ok and then click Apply</p>
-  </li>
-  <li>
-    <p>Open Firefox (other browsers are less successful at interacting with the strand
-interface)</p>
-  </li>
-  <li>
-    <p>Type in the ip address of the mode where you would enter a web address + /mini/</p>
+    <h1 id="genie-use--safety">Genie Use &amp; Safety</h1>
+<p>A genie is a kind of lift. The Logan Center has two Genies available for Performance Hall use, one with a maximum height of 25’ and one with 30’. The trim (height) of the ceiling in the Performance Hall is 30’, so always take the 30’ Genie if you are working in the hall. They are usually located in the back hallways past the vending machines. Ask for help if you have a hard time finding one.</p>
 
-    <ul>
-      <li>If the ip address is: <code class="highlighter-rouge">192.168.0.72</code></li>
-      <li>Type in: <code class="highlighter-rouge">192.168.0.72/mini/</code></li>
-    </ul>
-  </li>
-  <li>
-    <p>There are only a few things that you should be changing in this screen, depending
-upon what you are configuring the node to do:</p>
+<p><strong>Basic safety tips</strong></p>
 
-    <ul>
-      <li>
-        <p>You can change whether the ports (DMX A and DMX B) output or input DMX by
-going to their respective pages within this screen by clicking on them and then
-selecting DMX in from the drop-down menu</p>
-      </li>
-      <li>
-        <p>You can change what DMX universe (set of 512 DMX channels—usually we’ll just
-be using universes one and two to give the hall a total of 1024 addressable channels of lighting control) each port corresponds to by changing the “Netslot” field value of each port along the bottom of the window.</p>
+<ul>
+  <li>Never use the Genie alone when no one else is in the space.</li>
+  <li>Always have a buddy on the ground. If you are the buddy on the ground, never stand directly under the bucket for the reason following.</li>
+  <li>If you are up in the bucket, make sure all your tools are tied to you.  Any loose parts could potentially fall onto your buddy from 30’ and cause serious damage to his/her head and face.</li>
+  <li>Because of liability issues, never attempt to push someone while the bucket is up in the air.</li>
+  <li>Be aware of your surroundings while flying up in the Genie. Do not go up any further if you are about to hit the architecture of the hall or the ceiling.</li>
+  <li>Never use the Genie on an unlevel surface.</li>
+  <li>Do not overextend yourself while in the Genie. Instead, come down, move the Genie, and go back up so you can reach whatever you need.</li>
+  <li>The Genie runs on a battery. When not in use, it should be turned off (switched to the center position). For overnight storage, unplug the battery from the machine and plug the battery directly in to the wall. If it dies while in use, get an extension cord and plug it in to a floor pocket.</li>
+  <li>Be ultra aware of any cabling on the ground while moving the Genie.</li>
+  <li>Do not overload the bucket with equipment. If you need to shuttle things from above to the ground, bring a rope up with you. Tie it off to the genie and be extremely careful when lowering or raising goods and those standing nearby.</li>
+  <li>If you have lights in the bucket with you, attach the safety clip to the railing before flying up or down.</li>
+  <li>Never have more than one person in the Genie.</li>
+  <li>If you go up and feel uncomfortable, come back down. The Genie is stable if used correctly, even if it does not always feel that way when it is fully extended. You are safe in the Genie. Try to conquer your fear, as the more nervous you are, the more your legs will shake, and the more the Genie will quake. If you still feel too uncomfortable, switch places with your ground buddy.</li>
+  <li>If the legs are locked, the Genie can go both up and down.</li>
+  <li>If the legs are not locked, the Genie can go down but not up.</li>
+</ul>
 
-        <ul>
-          <li>To put a DMX port (A or B) in Universe 1, enter “1” for the “Netslot” For Universe 2, you would enter 513 for the “Netslot”</li>
-        </ul>
-      </li>
-      <li>
-        <p>If you reconfigure the node, make sure to change the label for each DMX port to reflect what it is doing, (i.e. if you configure a port to be DMX in second universe, change the label to DMX IN U2)</p>
-      </li>
-    </ul>
-  </li>
-  <li>
-    <p>Click Update to update the node with the changes you made. The password is <code class="highlighter-rouge">2606</code>. Go back to the DMX A and DMX B pages to make sure the desired changes held.</p>
-  </li>
-  <li>
-    <p>After reconfiguring the node, for the changes to take effect, you frequently have to reboot the node by unplugging it from ethernet and then plugging it back in!</p>
-  </li>
-  <li>
-    <p>You’re done! To make your computer connect to the regular internet again, go back to the Configure IPv4 drop down menu in system preferences and change it back to “Using DHCP” and apply the changes.</p>
-  </li>
-</ol>
+<p><strong>To use the genie</strong></p>
+
+<ul>
+  <li>Unplug the Genie battery from the wall. Coil the extension cord and tuck it in the nook next to the battery. Reconnect the Genie itself to the battery pack.</li>
+  <li>Open the stage wall panels to allow the genie onto stage without damaging the woodwork.</li>
+  <li>Place the Genie where you need it onstage. You can estimate where you will end up by peeking up through the bucket up above.</li>
+  <li>Turn the key to the right, so you have platform selected rather than ground control.</li>
+  <li>Put the legs into each of their holes and allow the pin to click into place. Tighten the feet just enough for their corresponding lights to turn green on the panel.  I suggest exactly 5-6 rotations after the foot stops spinning (doing each leg exactly the same for uniformity) and then check the sensor to see if any didn’t get activated.</li>
+  <li>Check the bubble level (located on the base of the Genie). If the bubble is not inside the circle, loosen one side and tighten the other. Adjust until you are level.</li>
+  <li>Climb into the bucket.</li>
+  <li>Make sure the emergency stops (both big red buttons) are pulled out.</li>
+  <li>If everything is good and for some reason the Genie won’t allow you to move, check both of these emergency stop buttons. One may have gotten pressed accidentally by someone bumping into it.</li>
+  <li>To go up, from inside the bucket, push and hold the small black button while flipping the switch so the white line is going up.</li>
+  <li>To go down, push the same black button and flip the switch so the white line is going down.</li>
+</ul>
+
+<p><strong>To put the genie away</strong></p>
+
+<ul>
+  <li>Lower the bucket down all the way.</li>
+  <li>Remove the legs by loosening the feet completely and pulling the bolts to release the legs.</li>
+  <li>Store the legs in the slots on the side. Remember to alternate the direction of the feet.</li>
+  <li>Turn the key to the “off” position in the center.</li>
+  <li>Store the Genie back in it’s home.</li>
+  <li>Disconnect the lift from its battery pack.</li>
+  <li>Plug the battery pack into the wall to charge.</li>
+</ul>
+
+<p>In the event of an emergency while using the Genie, such as your bucket suddenly moving without you pressing anything, press in the large red emergency “stop” button and it will stop.  If someone is stuck in the bucket while up in the air, don’t panic, don’t jump, call for help.</p>
 
   </div>
   

@@ -235,7 +235,47 @@
     
       
         
-          <a class="sidebar-nav-item" href="/spaces/">Spaces</a>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
     
@@ -298,89 +338,85 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//video/overflow-video-streams.html">
-        Video Overflow Setup
+      <a href="//2016/08/28/stage-terminology/">
+        Stage Terminology
       </a>
     </h1>
 
-    <span class="post-date">26 Aug 2016</span>
+    <span class="post-date">28 Aug 2016</span>
 
-    <h1 id="setting-up-mezzanine-and-lobby-overflow-video-streams">Setting up Mezzanine and Lobby Overflow Video Streams</h1>
-
-<h2 id="equipment">Equipment</h2>
-
-<p>To set up a video feed for the Gidwitz Lobby Displays and the Mezzanine,
-you will need the following equipment.</p>
-
-<ul>
-  <li>(2) Decimator</li>
-  <li>(3) SDI Cable</li>
-  <li>(2) XLR Cable</li>
-  <li>(3) HDMI Cable</li>
-  <li>(1) XLR-&gt;RCA Cable</li>
-  <li>(1) 1/4”-&gt;XLR Cable</li>
-  <li>(1) Haivision Encoder (stays in the Amp rack)</li>
-  <li>(1) Haivision Decoder (borrowed from another space)</li>
-  <li>(1) Long (25ft or more) Ethernet Cable (will need to be checked out from the cage)</li>
-  <li>(n) Large Portable TV (located on the 11th floor, will need to be checked out from the cage)</li>
-  <li>(n) Hai-vision Decoder Remote</li>
-</ul>
-
-<h2 id="foh-setup">FOH Setup</h2>
-
-<p>If there is an external videographer, skip this section. If there is no videographer, we will need to use equipment from the cage.
-Check out a video camera and a tripod and set them up next to the FOH desk. We recommend the Sony PMW-EX1R HD Video Camera.</p>
-
-<p>Set up an audio feed for the videographer’s camera on the Venue with an AUX patched to an unused output(x).
-This aux should include all live mics and digital audio channels.
-Connect AUX-out(x) to the camera’s XLR-in and make sure the audio is routed to SDI-out on the camera.
-Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk.
-Set up another AUX on the Venue (should be a copy of the first) so that it is patched to another unused output (y).</p>
-
-<h2 id="amp-room-setup">Amp Room Setup</h2>
-
-<ul>
-  <li>Connect power to the Decimator.</li>
-  <li>Patch V40 video output into Decimator SDI input using an SDI patch cable (these can be found on the wall and have a tube connection on one end and an SDI connection on the other).</li>
-  <li>Connect the Decimator’s HDMI-out to the Haivision Encoder’s HDMI-&gt;DVI-in adapter using a short HDMI cable.
     <ul>
-      <li>The encoder is located in the open slot in the rightmost rack towards the top, labeled ‘Performance Hall’. You can place the Decimator in this slot next to the encoders.</li>
-      <li>To run the cable you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection.</li>
-    </ul>
+  <li>
+    <p>Apron: The portion of the stage that is downstage of the proscenium arch. (Since we don’t have a built in proscenium in the hall, we consider the apron to be everything downstage of the ‘plaster line’.)</p>
   </li>
-  <li>Take output (y) you patched at the Venue from ‘Venue Outputs’ (center column in the amp room; APB-07; red and white labels) with ¼”-&gt;XLR cable, connect it to the XLR-&gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder.
-    <ul>
-      <li>Again, feed the cable through the opening and go around to the back of the rack with a flashlight to make the connection.</li>
-    </ul>
+  <li>
+    <p>Batten: Part of a fly system. A horizontal pipe, supported by lift lines, electrical hoists (ours are drum winch) &amp; motors (variable speed), which is easily raised and lowered; even while holding a substantial amount of weight.</p>
   </li>
-  <li>Run SDI from the Decimator’s SDI-out to SM console.</li>
-</ul>
-
-<p>Decimator Settings: HDMI-out&lt;-SDI-in, SDI-out(1)&lt;-SDI-in (make loop)</p>
-
-<h2 id="stage-manager-console-setup">Stage Manager Console Setup</h2>
-<p>Set up a second Decimator with SDI-in taken from the Amp Room SDI run (on the floor, a shelf, or table is fine as long as the cables aren’t a trip hazard).
-Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in using the second HDMI cable. Enter Technician Mode at Crestron panel (5540) and route “SM Input” to Lower Lobby, Auditorium, Theater East, and Theater West for overflow viewing.</p>
-
-<p>Decimator Settings: HDMI-out&lt;-SDI-in</p>
-
-<h2 id="theater-eastwest">Theater East/West</h2>
-<p>Carefully remove the Decoder box from below the TV in either Theater West or Theater East. Make sure the disconnected cables are stable and accessible for reconnection during strike.
-(When restoring these, take care with cable/port matches: Yellow Component cable -&gt; Yellow Component output, Black/Silver Audio cable -&gt; Red audio output)</p>
-
-<h2 id="mezzanine">Mezzanine</h2>
-<ul>
-  <li>Connect the ethernet cable to left port (the right port is disconnected) of ethernet #243 (located in the office to the right when you walk in) and connect the other end to “Primary” on the Decoder box.</li>
-  <li>Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box.</li>
-  <li>Run Component-outs from the Decoder to Component-ins on back of TV.</li>
-  <li>Turn on TV and set to Component source.</li>
-  <li>Run HDMI-out from the Decoder to HDMI-in on back of TV using the third HDMI cable.</li>
-  <li>The following must be done quickly using the decoder remote:
-    <ul>
-      <li>select 1080i-out on Decoder</li>
-      <li>switch TV source to HDMI</li>
-      <li>hit accept/confirm on Decoder remote</li>
-    </ul>
+  <li>
+    <p>Blackout: Removing all light from the stage, often for a set change.</p>
+  </li>
+  <li>
+    <p>Boom: A boom is a vertical pipe standing anywhere onstage where lighting units are hung on stage, usually in the wings. They are usually screwed into 50lb boom bases.</p>
+  </li>
+  <li>
+    <p>Catwalks: A catwalk is a section of the house hidden in the ceiling from which many of the technical functions of a theatre, such as lighting and sound, may be manipulated.</p>
+  </li>
+  <li>
+    <p>Center Line: A special type of line drawn on a Ground Plan, located at the plane which bisects the stage left and stage right sides of the theater.</p>
+  </li>
+  <li>
+    <p>Crossover: The upstage place behind any stage curtains or scenery, which allows performers to get from one side of the stage to the other without being seen by the audience.</p>
+  </li>
+  <li>
+    <p>Cue: Any moment in the course of a performance where there is a change in the physical state. In the case of sound, a cue might start music playing, and then a subsequent cue might lower the volume as an actor starts to speak, and yet another might fade the music to silence when the scene comes to an end. Cues are most often associated with lighting and sound (any given show quite often has hundreds of light and sound cues), but cues are also established when scenery needs to change, line sets need to fly, effects need to be triggered, etc.</p>
+  </li>
+  <li>
+    <p>Dimmer room: The room which contains the dimmer racks which power the lighting rig in the theater.</p>
+  </li>
+  <li>
+    <p>Electric: An electric is a horizontal pipe hanging upstage of the proscenium (usually part of the fly system), often with lighting circuits connected to it, where lighting units are hung in a theater.</p>
+  </li>
+  <li>
+    <p>Fly System: A series of pulleys, ropes, wires, and/or other apparatus which collectively allows the hanging and vertical movement of curtains, lighting instruments, scenery, and even people. (Our fly system is motorized electrical drum winch hoists and controlled through the automated rigging system.)</p>
+  </li>
+  <li>
+    <p>Grand Curtain (or Main Curtain): The curtain that closes just upstage of the proscenium arch. Generally speaking, opening the grand curtain signifies the start of the show or act and closing it signifies the end of the act or show.</p>
+  </li>
+  <li>
+    <p>House: The place where the audience sits to watch the performance. Also the place where lighting instruments hang when they’re hanging over the audience. Front-of-House can refer to the lobby or other non-performance space where audience members congregate before and after the show and during intermission. (Just to confuse things, Audio Engineers also refer to front-of-house, or FOH, as their house mix position in order to differentiate themselves from the the monitor engineer on stage.)</p>
+  </li>
+  <li>
+    <p>Masking: As a noun, anything which hides something from the audience. As a verb, the act of hiding things from the audience.</p>
+  </li>
+  <li>
+    <p>Plaster Line: An imaginary reference line on stage that indicates where the proscenium arch is. (Our plaster line runs stage left to right from about the point where the stage starts to curve on the downstage lip.)</p>
+  </li>
+  <li>
+    <p>Proscenium Arch: The viewing portal or frame through which the audience sees the performance. (Our Proscenium Arch is theoretical except for when the grand curtain and border are hanging on U1 and U2.)</p>
+  </li>
+  <li>
+    <p>Shell: A hard, often movable surface, designed to reflect sound into the audience for musical performances.</p>
+  </li>
+  <li>
+    <p>Sight lines: Imaginary lines indicating the view from the extreme-most seats. If someone or something is said to be in sight lines, it means that they are visible to all audience members regardless of seating choice. If someone or something is described as out of sightlines, it means that no audience members are able to see them. A good rule of thumb for sightlines is “if you can see them, they can see you.”</p>
+  </li>
+  <li>
+    <p>Soft Goods: Curtains that are used onstage. This can include the “Blacks,” “Cyc,” “Grand Curtain,” and “Scrims,” among other things.</p>
+  </li>
+  <li>
+    <p>Spike: Marking the stage floor with an indicator showing the location of a set piece or where a performer should stand. Spike marks are usually made on the upstage corners of a prop with small pieces of spike tape to show the direction it should be facing and also color coded by set transition.</p>
+  </li>
+  <li>
+    <p>Stage/Deck: The primary playing space surrounded by the apron, wings, and fly space.</p>
+  </li>
+  <li>
+    <p>Strike: Strike can be referred to as temporarily taking something away (e.g. “During the scene change, you strike the phone.”).  It can also be used at the end of a run to specify that everything should be disassembled, put away and cleaned in order to have a fresh canvas for the next group coming in.</p>
+  </li>
+  <li>
+    <p>Trim: The height that a batten or any other object hangs at.</p>
+  </li>
+  <li>
+    <p>Wings: Areas that are part of a stage deck but offstage (out of sight of the audience). The wings are typically masked with legs. The wing space is used for performers preparing to enter, storage of sets for scenery changes and as a stagehand work area. Wings also contain technical equipment, such as the fly system.</p>
   </li>
 </ul>
 

@@ -235,7 +235,47 @@
     
       
         
-          <a class="sidebar-nav-item" href="/spaces/">Spaces</a>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
     
@@ -298,64 +338,89 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//audio/board-feed-for-videographer.html">
-        Setting Up a Board Feed for a Videographer
+      <a href="//video/overflow-video-streams.html">
+        Video Overflow Setup
       </a>
     </h1>
 
     <span class="post-date">26 Aug 2016</span>
 
-    <p>If a group decides they would like a video recording of their event and has hired someone to do so, they may ask for an audio feed from the board. This videographer will probably be doing post production and wants direct raw mic feeds as opposed to using the distance mic on his camera.</p>
+    <h1 id="setting-up-mezzanine-and-lobby-overflow-video-streams">Setting up Mezzanine and Lobby Overflow Video Streams</h1>
 
-<p>The method for setting up a feed mirroring the board output would be similar to sending audio to a monitor, except that rather than sending the audio to the patchbay, you will be sending it directly to the video camera.</p>
+<h2 id="equipment">Equipment</h2>
+
+<p>To set up a video feed for the Gidwitz Lobby Displays and the Mezzanine,
+you will need the following equipment.</p>
 
 <ul>
-  <li>
-    <p>First, run an XLR cord from one of the auxiliary outputs on the back of the board to the videographer. You may have to unplug one of the eight auxiliary outputs; remember to plug them back in after the event.</p>
-  </li>
-  <li>
-    <p>Make sure the cord stays behind the chairs in the house and is taped down whenever it has to cross an aisle or walkway; if crossing an aisle, tape the XLR at the bottom of the steps where no one is likely to trip on it.</p>
-  </li>
-  <li>
-    <p>If running a feed to the lower level, use very long cables and daisy chain two or more together;</p>
+  <li>(2) Decimator</li>
+  <li>(3) SDI Cable</li>
+  <li>(2) XLR Cable</li>
+  <li>(3) HDMI Cable</li>
+  <li>(1) XLR-&gt;RCA Cable</li>
+  <li>(1) 1/4”-&gt;XLR Cable</li>
+  <li>(1) Haivision Encoder (stays in the Amp rack)</li>
+  <li>(1) Haivision Decoder (borrowed from another space)</li>
+  <li>(1) Long (25ft or more) Ethernet Cable (will need to be checked out from the cage)</li>
+  <li>(n) Large Portable TV (located on the 11th floor, will need to be checked out from the cage)</li>
+  <li>(n) Hai-vision Decoder Remote</li>
+</ul>
 
+<h2 id="foh-setup">FOH Setup</h2>
+
+<p>If there is an external videographer, skip this section. If there is no videographer, we will need to use equipment from the cage.
+Check out a video camera and a tripod and set them up next to the FOH desk. We recommend the Sony PMW-EX1R HD Video Camera.</p>
+
+<p>Set up an audio feed for the videographer’s camera on the Venue with an AUX patched to an unused output(x).
+This aux should include all live mics and digital audio channels.
+Connect AUX-out(x) to the camera’s XLR-in and make sure the audio is routed to SDI-out on the camera.
+Using the SDI cable, patch the camera into V40 at the FOH AVP under the desk.
+Set up another AUX on the Venue (should be a copy of the first) so that it is patched to another unused output (y).</p>
+
+<h2 id="amp-room-setup">Amp Room Setup</h2>
+
+<ul>
+  <li>Connect power to the Decimator.</li>
+  <li>Patch V40 video output into Decimator SDI input using an SDI patch cable (these can be found on the wall and have a tube connection on one end and an SDI connection on the other).</li>
+  <li>Connect the Decimator’s HDMI-out to the Haivision Encoder’s HDMI-&gt;DVI-in adapter using a short HDMI cable.
     <ul>
-      <li>Run them from the mixer ➝ straight out to the wall ➝ down the wall to the lower level ➝ back in to where the video is positioned.</li>
+      <li>The encoder is located in the open slot in the rightmost rack towards the top, labeled ‘Performance Hall’. You can place the Decimator in this slot next to the encoders.</li>
+      <li>To run the cable you will have to feed it through the opening and go around to the back of the rack with a flashlight to make the connection.</li>
     </ul>
   </li>
-  <li>
-    <p>Never run cable across a walkway and make sure they don’t either.</p>
+  <li>Take output (y) you patched at the Venue from ‘Venue Outputs’ (center column in the amp room; APB-07; red and white labels) with ¼”-&gt;XLR cable, connect it to the XLR-&gt;RCA cable, and plug the RCA-outs into the RCA-ins at the back of the  encoder.
+    <ul>
+      <li>Again, feed the cable through the opening and go around to the back of the rack with a flashlight to make the connection.</li>
+    </ul>
   </li>
+  <li>Run SDI from the Decimator’s SDI-out to SM console.</li>
 </ul>
 
-<p>Once the connection has been made, you will want to send the videographer a test signal.</p>
+<p>Decimator Settings: HDMI-out&lt;-SDI-in, SDI-out(1)&lt;-SDI-in (make loop)</p>
 
+<h2 id="stage-manager-console-setup">Stage Manager Console Setup</h2>
+<p>Set up a second Decimator with SDI-in taken from the Amp Room SDI run (on the floor, a shelf, or table is fine as long as the cables aren’t a trip hazard).
+Connect power to the Decimator, and send HDMI-out to Crestron panel’s HDMI-in using the second HDMI cable. Enter Technician Mode at Crestron panel (5540) and route “SM Input” to Lower Lobby, Auditorium, Theater East, and Theater West for overflow viewing.</p>
+
+<p>Decimator Settings: HDMI-out&lt;-SDI-in</p>
+
+<h2 id="theater-eastwest">Theater East/West</h2>
+<p>Carefully remove the Decoder box from below the TV in either Theater West or Theater East. Make sure the disconnected cables are stable and accessible for reconnection during strike.
+(When restoring these, take care with cable/port matches: Yellow Component cable -&gt; Yellow Component output, Black/Silver Audio cable -&gt; Red audio output)</p>
+
+<h2 id="mezzanine">Mezzanine</h2>
 <ul>
-  <li>
-    <p>Select the aux you will be using (i.e. Aux #8), then use the mouse to click on System, then find the test signals sending a 100 Hz, 1000 Hz, 10000 Hz, White Noise, or Pink Noise.</p>
-  </li>
-  <li>
-    <p>Increase the level of sound until the videographer confirms he/she is receiving signal.</p>
-  </li>
-</ul>
-
-<p>Once you have confirmed that the camera is receiving signal, ask the videographer what kind of mix he/she would like.</p>
-
-<ul>
-  <li>
-    <p>Say the videographer wants the house mix; you would need to send all of the audio at the same level as it is coming out of the mains, so you would select all of the channels that will potentially be going live during the event and send them at unity, postfade, to Aux #8, and then raise Aux #8 to unity as well, or to whatever level the videographer decides is best.</p>
-  </li>
-  <li>
-    <p>Do not adjust the aux level during the show, as it will make everything suddenly sound louder or softer mid-recording.</p>
-  </li>
-  <li>
-    <p>If the videographer asks for only vocal mics or instrument mics, select the correct channels and send them to the correct aux.</p>
-  </li>
-  <li>
-    <p>In some cases the videographer may choose to do his/her own post-production sound editing, and may want a specific prefade mix. In this case, ask what they are looking for, and adjust accordingly.</p>
-  </li>
-  <li>
-    <p>Remember that sending a channel prefade means the aux will receive signal when the channel fades out, but not when the channel is muted.</p>
+  <li>Connect the ethernet cable to left port (the right port is disconnected) of ethernet #243 (located in the office to the right when you walk in) and connect the other end to “Primary” on the Decoder box.</li>
+  <li>Plug in power for the TV, and plug the DC-Adapter into an outlet and connect it to the Decoder box.</li>
+  <li>Run Component-outs from the Decoder to Component-ins on back of TV.</li>
+  <li>Turn on TV and set to Component source.</li>
+  <li>Run HDMI-out from the Decoder to HDMI-in on back of TV using the third HDMI cable.</li>
+  <li>The following must be done quickly using the decoder remote:
+    <ul>
+      <li>select 1080i-out on Decoder</li>
+      <li>switch TV source to HDMI</li>
+      <li>hit accept/confirm on Decoder remote</li>
+    </ul>
   </li>
 </ul>
 

@@ -49,7 +49,7 @@ Figure 13. A Countryman Headset
 Welcome to the RF wireless microphone guide. This guide is for either (a) new employees who are looking to learn how a wireless microphone works as well as how to set one up, or (b) any employee trying to troubleshoot a wireless microphone, transmitter, receiver, or all of the above. This guide will explain the basics behind Shure’s ULX series of RF (radio frequency) microphones, how to adjust and find frequencies on both the transmitter and receiver, how to lock and unlock frequency, volume, and power settings on the receiver and transmitter, the different types of wireless microphones we own in the hall, and how to set up and properly use those microphones in a variety of settings. In total we own 10 wireless ULXP4 receivers, each with its own handheld SM58 (or in two cases SM58A) and lavalier microphone. We also own two Countryman Headsets, which can be interchanged with the lavalier microphones as needed.
 
 
-
+![Figure 1](/assets/audio/RF Guide Pics/1 trans and receivers.png)
 Figure 1. The Shure SM58 and lavalier microphones (left and top (transmitters)) and a receiver (bottom)
 
 
@@ -62,23 +62,23 @@ Performance Hall Stock
 As I mentioned in the introduction, we own ten total receivers. Four of these ten are installed in the amp room of the performance hall (labeled W1 - 4 for Wireless 1, Wireless 2, etc…).
 
 
-
+![Figure 2](/assets/audio/RF Guide Pics/2 w1thru4receivers.png)
 Figure 2. Image of the first four (1-4) wireless receivers installed in the patchbay
 
 
 Another four are installed in a mobile rack unit that also lives in the back of the amp room (labeled W5 - 8).
 
+![Figure 3](/assets/audio/RF Guide Pics/3 Mobile unit receivers.png)
 Figure 3. Image of the next four (5-8) mobile receivers
 
 The other two are installed in the mobile rig. Each receiver has its own handheld SM58 and a lavalier microphone and transmitter. This means that if you are working in the hall, you can have a total of eight wireless microphones working simultaneously. These eight can be any combination of lavs and handheld wireless microphones, as long as at the end of the day no more than eight channels are in use at any one time. Therefore if someone managing a show asks how many wireless microphones they could potentially use at once on stage (this is a very common question), you should explain to them that there are eight wireless channels, so any combination of handhelds and lavs can be used as long as the total remains eight or under. If you are using eight lavs, then you cannot be using any handhelds and vice versa.
-
 
 
 Shure Wireless SM87A Microphone
 In addition to the eight wireless handheld SM58 microphones that come with each receiver, we also have a wireless SM87A microphone that should always be set to the same group and channel as wireless unit 4. (I thought this was usually set to W1? Most likely it changes a lot but W1 matches the lack of tape on the mic)
 
 
-
+![Figure 4](/assets/audio/RF Guide Pics/4 w87a.png)
 Figure 4. Image of the SM87 wireless microphone
 
 The SM87 is a higher quality vocal dynamic mic with a different polar pattern from the more common SM58. It is better suited for professional vocalists who have extensive experience with microphones. As with any other wireless system, you cannot use both this microphone and wireless microphone 4 or lav 4 at the same time. Remember that the number of receivers is what determines the total possible number of wireless microphones that can be used simultaneously. A receiver can only ever have one corresponding transmitter at a time, even though we own multiple transmitters for each receiver. If you would like to learn more about the features of the SM87A, or of any of the microphones we own, please refer to our microphone user guide which can be found here: (insert link)
@@ -87,7 +87,7 @@ Antennas and the mobile receiver unit
 In the performance hall, we have two Shure active directional antennas installed in the catwalks directly above the front edge of the stage, positioned to optimize incoming signal from transmitters onstage. There is one directly above the downstage left corner, and one directly above the downstage right corner. These two antennas pick up signal from any of the eight wireless channels (transmitters) whose corresponding receivers live in the amp room. They are supposed to both point toward the center of the stage. If one or both get knocked out of place, this may cause interference or other issues with your microphones. Therefore if you are having trouble with microphones cutting out during sound check, either go onstage and try to check by looking up at the antennas to see whether or not they are aligned as necessary, or go up to the catwalks and check that way.
 
 
-
+![Figure 5](/assets/audio/RF Guide Pics/5 Antennas.png)
 Figure 5. In house perspective of the locations of the two catwalk antennas
 
 If the problems you are having are only with wireless microphones 5 through 8, (the ones whose receivers live in the mobile rack unit in the amp room (Figure 3)), then go into the amp room and find the mobile unit behind the patchbay next to the north facing door of the amp room. Two splits from the antennas in the catwalks come down and connect into the front of this mobile unit, providing the signal for these four channels. These look simply like two thick black cables that connect to the front top two corners of the unit via BNC connector. Check to make sure that both of these are plugged in. Note that you can also plug these in in the back of the unit, and so sometimes you will find them plugged in this way. Also note that due to the particular placement of these antennas in the catwalks combined with the fact that they are active directional as opposed to active omni-directional, you may experience cut outs and interference at front of house, so if you are testing a mic at the sound board and find that it is cutting out, don’t worry; it is probably just the fact that you are standing at front of house. Have someone take the mic and check it in other parts of the house and or on the stage to confirm whether or not this is the case.
@@ -95,7 +95,7 @@ If the problems you are having are only with wireless microphones 5 through 8, (
 
 
 
-
+![Figure 6](/assets/audio/RF Guide Pics/6 Antenna Types.png)
 Figure 6. Active directional vs. active omni-directional antennas
 
 This mobile unit also gets used in other spaces when more wireless microphones are needed with the mobile rig. When this happens the user has to disconnect these two thick black wires and replace them with the omnidirectional antennas that can be found inside the pullout drawer of the mobile unit itself. In addition to this, the outputs from the four receivers in this unit must also be disconnected from their respective XLR connections that connect them to the patchbay, so that the entire unit can be moved as necessary. These connections are usually just left on the floor behind the mobile unit. Many times people return the unit after using it somewhere else but forget to plug the hall antennas back in as well as these outputs of the receivers to the XLRs that go into the patchbay. If this happens then you will most certainly have problems if you try to use wireless channels 5 through 8 in the hall. If the antennas are disconnected, you should be easily able to discern the two thick black cables unplugged and hanging down from the ceiling in the space between the north door and the patchbay. If the outputs of the receivers are also not plugged in then you should just as easily be able to find the four disconnected XLRs laying on the floor behind the patchbay. They are labeled so that you know which output to plug into which patchbay XLR.
@@ -103,6 +103,7 @@ This mobile unit also gets used in other spaces when more wireless microphones a
 Transmitter: Frequency adjustment and lock
 As I mentioned briefly in the first part of this section, the transmitters and receivers both have screens containing information about battery power, frequency selection, and lock settings, among other things. What we need to worry about is the battery power and sometimes the frequency. The battery power is straightforward and requires no explanation. Before doors for a show are about to open, all wireless microphones being used should have fresh batteries. That means that the battery power indicator should be showing full power.
 
+![Figure 7](/assets/audio/RF Guide Pics/7 trans screen.png)
 Figure 7. Labeled image of a transmitter screen
 
 The frequency that the transmitter and receiver are operating at is denoted by what is called the group and channel on the digital screens on both the transmitter and the receiver. A transmitter is matched to a receiver by its group and channel. The group picks out a wide range of operational frequencies, and the channel picks out a more specific band of around 200 kHz, known as the operating range, within which the particular transmitter and receiver will communicate with each other. Contrary to popular belief, the group and channel do not pick out a particular frequency, but rather this band of frequencies. Auditory information is conveyed via frequency modulation, or FM, something you may know from radio, or TV. This means that the information is transferred by way of a wave of varying frequency, as opposed to a wave of varying amplitude, from which comes amplitude modulation, or AM. The term RF, or radio frequency, comes from the fact that this broadband of frequencies is more generally always contained within the much larger band of radio frequency light. Technology has not yet advanced enough to allow us to create cheap transmitters and receivers that can communicate via light of higher frequencies such as microwave or ultraviolet, therefore virtually all of today’s wireless technology--cell phones, wifi, radio, TV, etc...--communicate information between devices by way of frequency modulated radio wavelength light. (inb4 gravitational wave transmitters thx LIGO)
@@ -119,7 +120,7 @@ Both transmitters and receivers have their own internal gain parameters which we
 
 
 
-
+![Figure 8](/assets/audio/RF Guide Pics/8 internal gain.png)
 Figure 8. Internal gain parameters for both the handheld and lav pack
 
 This arrow indicates the internal gain of the microphone. Maximum gain is at about one o’clock. We try to leave ours set at between 11 and 12 o’clock. If you need to change the internal gain for any reason, go into the Performance Hall stock and find the shelving unit labeled ‘Special Screwdrivers.’ There should be a very small, thin screwdriver with an asterisk shaped end that looks like it would fit into the internal gain hole in the microphone. Grab this screwdriver and use it to twist the arrow until it is pointing where you want it to. For consistency’s sake, please try to leave all handheld transmitters at the same internal gain, between 11 and 12 o’clock.
@@ -130,6 +131,7 @@ Receiver: Frequency adjustment (are you worried about including this in a genera
 There is only one time when it should become necessary to change the group and channel of a receiver (otherwise you should only be changing that of the transmitter to match the receiver), and that is when it has been generally agreed that a particular frequency band is experiencing interference and or is picking up signal other than that coming from its corresponding transmitter due to increased traffic on that frequency band. If this is the case, then the first step is to find a new frequency band (group and channel) that is relatively unused in your area. The last part of this section details how to do this. This part is dedicated to explaining how to change the group and channel of a receiver once you have found a robust frequency band.
 
 
+![Figure 9](/assets/audio/RF Guide Pics/9 receiver.png)
 Figure 9. Labeled image of the receiver display (lock icons not visible)
 
 The receivers, like the transmitters, have a frequency lock. This lock should be active on every receiver in the Performance Hall stock. If it is you should see a little lock icon in the position indicated in Figure 9 (the receiver in the image is unlocked). To unlock the frequency controls on a receiver, hold the ‘set’ button, and turn the jog wheel a quarter turn left, a quarter turn right, and a quarter turn left, then release the set button. If you did it right you should see the frequency lock icon disappear on the receiver’s screen (as imaged above in Figure 9) and you should be free to change the group and channel as necessary. To change the group, hit the mode button twice, or until the ‘Group’ icon is highlighted, then use the jog wheel to get to the group you want. Hit the ‘Set’ button to set the group as such. Hit the ‘Mode’ button one more time to highlight ‘Channel’ and use the jog wheel again to reach the necessary channel. Hit the set button again to set the channel.
@@ -155,7 +157,7 @@ Patching wireless microphones in the Performance Hall amp room
 Probably one of the most common everyday tasks that must be completed in a regular shift in the Performance Hall is patching one or multiple wireless microphones in the patch bay in order to send the signal that comes from the microphone and receiver up to the Venue (soundboard) at Front of House (FOH). Patching refers to the general idea of taking signal from one source and manually sending it to another source via a cable or wire. Below is an image of part of the patch bay in the amp room:
 
 
-
+![Figure 10](/assets/audio/RF Guide Pics/10 Patchbay.png)
 Figure 10. Image of part of the patch bay in the Performance Hall amp room
 
 Each row of quarter inch inputs is color coded to tell you whether signal is supposed to come FROM or go TO those inputs. For example, the green row labeled ‘Venue Inputs’ are inputs that signal is supposed to be sent TO, while any red rows represent inputs where signal is supposed to come FROM.
@@ -166,6 +168,7 @@ Setting up and using a handheld wireless microphone
 Once you have successfully patched your wireless microphone and confirmed on the Venue that you are getting signal to the right input channel, you should do a sound check with whoever it is will be using the microphone on stage. This can be more difficult then it may sound, so do not be surprised when you end up having to work with someone who talks into the wrong end of the microphone and yells at you because it doesn’t seem to be working. If it seems that your speaker is someone who is not an experienced microphone user, then there are a few things you should warn and or teach them about during soundcheck. The first is simply how to hold and properly use a microphone. The easiest way to do this is to go down on stage with the microphone and show them how to do it yourself. If you yourself are unsure about how to properly hold it, simply refer to the image below.
 
 
+![Figure 11](/assets/audio/RF Guide Pics/11 How to hold.png)
 Figure 11. The proper way to use a handheld microphone
 
 The main points are pointing it directly at your mouth, and holding it about two inches away in that position. Before you return to your board you should also warn them about the sleeve that you will be placing on the microphone before the show. This consists of explaining to them that the microphone will be on and ready to go when they need it to be, and not to worry when they realize they can’t access any of the buttons on the microphone due to the sleeve. Try to explain to them as best you can that you have total control over the microphone when you are at the board, and that they need not worry about anything related to tech.
@@ -178,8 +181,7 @@ As I mentioned earlier, every wireless receiver has both a handheld and a lavali
 When placing the lav you should assume the worst about the person you are outfitting. That is to say, you should assume that they are going to forget everything you just told them about how sensitive the mic is to movement, and that they are probably going to walk around, move and or jerk their head, and even make sudden movements with their body. Bearing these things in mind, clip the microphone onto clothing preferably no more than a few inches from their neck, in a place that seems most stable when it comes to movement. In other words, try not to clip the lav to any loose clothing. In fact, if you are testing a mic on a performer whose event is not within the next few hours you ought to tell them that any loose clothing around the neck or chest, like scarves or loose jackets, should be avoided as much as possible. Even the smallest touch will be heard as a loud boom in the hall during the performance. Refer to the figure below for an example of proper lav mic placement:
 
 
-
-
+![Figure 12](/assets/audio/RF Guide Pics/12 Lav place.png)
 Figure 12. Example of proper lavalier microphone placement
 
 This image is a fairly good representation of proper lav placement, however there is one major problem with it. It looks as though the seam of the shirt that the lav is clipped onto is going to rub against the side and top of the microphone. This is definitely something you should try and avoid. The microphone should always be pointing toward the mouth of the speaker, however it should not be obstructed by clothing like this, especially if that clothing looks as if it may touch or bump into the microphone. If the microphone in the image above was clipped slightly lower on the shirt, this problem might be solved.
@@ -192,7 +194,7 @@ Setting up and using a Countryman headset
 A countryman headset is a high quality and discreet microphone that is placed by way of a thin headset next to the mouth of the user. It is usually of nude color, and is designed for events which require a very clean and professional appearance while maintaining high fidelity audio signal.
 
 
-
+![Figure 13](/assets/audio/RF Guide Pics/13 Countryman.png)
 Figure 13. A Countryman Headset
 
 We own two of these Countryman in our stock. They are used by replacing a lav microphone with the headset. It plugs into a lav pack in the same way that a typical lav does. The headset ear fittings rest over the ears of the user. The headset in the image is rightside up. It can be adjusted for the size of the head by gently pushing or pulling either of the extended ear fittings. The microphone should be placed preferably about an inch away from the corner of the mouth of the user. It should NOT be touching the check but rather a few centimeters away and can be adjusted to fulfill these requirements. The same guide lines that apply to lavs also apply to these, in terms of keeping the mic away from anything that could bump or rub into it (ie: the face of the user).

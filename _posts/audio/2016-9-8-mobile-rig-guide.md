@@ -24,20 +24,22 @@ Welcome to the Mobile Rig User Guide. This guide is for employees of any level o
 
 * The mobile rig and everything in it is powered by a single switch on the front top right of the rack. It is labeled ’RACK POWER.’ Before flipping this switch, make sure all of the covers (front, back and top) have been removed and put away, and find the Powercon to Edison cable that should be nicely coiled in the back of the rig. Note that the front and back covers of the rig double as tables, with a single pull out leg inside the cover. Pull this leg out fully and fit the metal hooks on one end of the cover into the fittings on the right side of the mobile rig to form the table.
 
+![Figure 1](/assets/audio/Mobile Rig Guide Pics/1 Edison to powercon.png)
 Figure 1: An Edison to Powercon Cable
 
 Plug the Powercon end of this cable into the input labeled POWER at the back of the rig at the very bottom in the in-out (I/O) panel (Figure 2) by plugging it in and twisting it a quarter turn clockwise to lock it in place. Take the Edison end of the cable to the nearest outlet and plug it in. Now flip the power switch on the front of the rig. You should now have power!
 
-
+![Figure 2](/assets/audio/Mobile Rig Guide Pics/2 IOPanel.jpg)
 Figure 2: The I/O Panel of the Mobile Rig. Located on the bottom of the back of the rig.
 
 ### 2. Setting up and cabling speakers (EVs)
 
 * If you are in the cafe, then you will need to set up your own mains. The term mains often refers to the two speakers–Left and Right–that point toward the audience and act as the main source of signal amplification. For this purpose we have our two EV TX1122 loudspeakers and a JBL EON 618s subwoofer.
 
-
+![Figure 3](/assets/audio/Mobile Rig Guide Pics/3 EVs.png)
 Figure 3: The EV TX1122 loudspeaker used for our mains with the mobile rig
 
+![Figure 4](/assets/audio/Mobile Rig Guide Pics/4 sub.png)
 Figure 4: Our JBL EON 618s Subwoofer
 
 If the event you are working is simply a lecture or speech, then you do not need to bring the sub, since in theory it ought only to amplify auditory information below the 100 ish Hz range. If your event contains live music with a drummer, dj, or general audio playback, then bringing and setting up the JBL sub would be much preferred. There is an output in the I/O panel of the rig labeled ’SUB’ for this purpose. Part 4 of this section details how to set it up. Assuming the event you are working is a simple lecture or speech however you will need to bring the two EV mains and their speaker stands with you to the Cafe. These two speakers can also be referred to as the PA or public address system. Make sure to set your PA up IN FRONT of the ”stage” if possible. In other words, try to set up the speakers so that the performer and more importantly his or her microphone are behind the imaginary line you could draw between the fronts of the two speakers. This is for the purpose of preventing feedback.
@@ -46,12 +48,12 @@ Once you decide on placement for your mains, take your speaker stands and loosen
 
 If you are a real stickler for speaker placement and want to make sure that you have done the best job possible when positioning your speakers, you can look up what is commonly called the beam width, or simply horizontal and vertical coverage of the speakers you are using. The beam width refers to the maximum angle which sound can cover coming out of the speaker. The horizontal coverage of our TX1122s is 90 degrees, while the vertical coverage is 50 degrees. When you place your speaker, stand in front of it and hold your arms out trying to make a rough estimate of the horizontal coverage of the speaker, this will give you a very rough idea of the area of coverage based on how you have placed the speaker. Typically you will not need to worry about the vertical coverage. If you did not touch the top knob on the speaker stands and simply left them as short as they can be then you will be good to go there. One last thing to remember when placing speakers is that in general you do not want any two main speaker paths to be crossing within the space you are working. That is to say that if you drew a line coming out of the front of each speaker and they intersected as some point in the house, then you want to reposition the speakers such that these imaginary lines are not overlapping. Refer to Figure 5 below for a visualization of this idea.
 
-
+![Figure 5](/assets/audio/Mobile Rig Guide Pics/5 speak place.png)
 Figure 5: Visualization of proper speaker placement (top) and a top down view of the beam width or horizontal coverage of a speaker (bottom).
 
 Once you have properly placed your speakers, find the two 50’ Speakon cables that live in the back of the rig along with the power cable and other various cables. The ends of these cables are blue and gray and look just like the end of the Powercon cable.
 
-
+![Figure 6](/assets/audio/Mobile Rig Guide Pics/6 speakon.png)
 Figure 6: Speakon cable, also known as NL2 cable. (Note that this cable should not be confused with that which can be found in the amp room. They are NOT the same and the amp room cables should not leave there)
 
 Plug these into the Speakon outputs labeled LEFT and RIGHT or PASSIVE OUTS in the I/O panel (Figure 2) right by the power input. The Speakon cables plug in the same way that the Powercon does. Take the other ends of each of the cables and plug each one into its respective speaker. It does not matter which of the two inputs on the back of the speaker you plug into. You are now ready to send signal to the speakers.
@@ -72,21 +74,22 @@ If you need a second wireless microphone, repeat the process with W2. If you nee
 
 * **The Audio Snake:** To make the cabling process from microphones and or monitors on stage to your mixer easier we have provided an audio snake that lives in the back of the mobile rig. An audio snake is simply a thick cable that is made up of many individual XLR and or quarter inch cables.
 
-
+![Figure 7](/assets/audio/Mobile Rig Guide Pics/7 snake.png)
 Figure 7: Image of an audio snake
 
 * **Monitors:** There are a lot of shows both in the penthouse and the cafe which involve live musicians. If this is the case then you most likely will need to set up monitors, which are loudspeakers that point toward the performers so that they can hear themselves and other members in the band. The two JBL PRX612M loudspeakers which live in instrument storage serve this purpose for the mobile rig.
 
-
+![Figure 8](/assets/audio/Mobile Rig Guide Pics/8 JBLs.png)
 Figure 8: The JBL PRX612M which we use as a monitor with the mobile rig
 
 There are two ways to set one of these up. If you look at the AUX send outputs on the back of the MixWizard (Figure 11) you should notice that there are two cables plugged into AUX 1 and 2 labeled MONS 1 and 2 respectively. These cables go to the DBX 215 units correspondingly labeled MONS 1 and 2 on the front of the rig. These are called graphic equalizers and are simply extra EQs for monitor processing. For details on how to set up a monitor through one of these two units, refer to section 13 of this guide.
 
 The classic and straightforward way to set one of these up which bypasses the GEQs and uses instead any of AUX three through six requires one XLR male to quarter inch TRS cable and one Edison to IEC power cable. Usually the latter of these two cables lives with the speakers in instrument storage, squished beneath the handle on the side of the speaker. If not, you will have to grab one from the shelving unit backstage. The male XLR to quarter inch TRS cable can be found in Janice. These cables are fairly short, so grab some extra XLR and an extension cord considering how much additional length will be needed.
 
-
+![Figure 9](/assets/audio/Mobile Rig Guide Pics/9 XLR to quarter.png)
 Figure 9: Male XLR to quarter inch TRS cable
 
+![Figure 10](/assets/audio/Mobile Rig Guide Pics/10 edison to IEC.png)
 Figure 10: Edison to IEC cable
 
 
@@ -110,13 +113,13 @@ Plug the quarter inch TRS end of your cable into AUX 3 on the back of the mixing
 
 The mixing console in the mobile rig is an Allen and Heath MixWizard3 16:2. It has 16 mic/line inputs with inserts and direct outs, 2 stereo returns (ST1 and ST2), Left/Right/Center outputs with inserts, an extra AB out which we use for recording, and 6 Auxiliary outputs, typically used for monitors.
 
-
+![Figure 11](/assets/audio/Mobile Rig Guide Pics/11 Mixwizard back.png)
 Figure 11: A labeled image of the back of the MixWizard Console
 
 **Channel Strip:**  
 Each input channel strip has from top to bottom: a 48 volts phantom power button, a -20 dB pad button, a gain knob, an 80 Hz high pass filter button, a four node semi-parametric EQ, AUX send knobs for AUX sends 1 through 4, a pre/post fader button, AUX send knobs for AUX sends 5 and 6, a pan knob, a mute button, a pre-fade listen button (PFL), and finally the channel fader. The EQ is equipped with high and low shelves at 80 Hz and 12k Hz respectively and high mid and low mid bells (1.8 Q) which together can be swept along the full frequency range (30 Hz to 15k Hz). All of these parameters are basic audio engineering tools which you should have learned about in Audio 1.
 
-
+![Figure 12](/assets/audio/Mobile Rig Guide Pics/12 channel strips.png)
 Figure 12: Labeled images of two input strips (left) and the master strip (right), on the MixWizard3
 
 **Master Channel Strip:**  
@@ -162,6 +165,7 @@ We can now move on to the hardware beneath the mixing console. Collectively each
 
 ### 1. Furman PL-PRO C
 
+![Figure 13](/assets/audio/Mobile Rig Guide Pics/13 Furman.png)
 Figure 13: Furman PL-PRO C
 
 This piece of hardware is simply a power conditioner which controls power sent to all hardware in the mobile rig. The switch on the far right labeled RACK POWER turns the entire rig on and off. The Pl-Pro also has two pullout lights. If you are working in a dark space and need to access any of the rack hardware, pull out these lights and press the knob to their left labeled ’Lamp Dimmer On/Off’ to turn them on. Adjust the dimness of the lights by twisting this knob. The PL-Pro has a voltmeter in the center, a USB power supply and Edison inputs on both the front and back for power to external devices such as laptops or phones.
@@ -169,6 +173,7 @@ This piece of hardware is simply a power conditioner which controls power sent t
 
 ### 2. DBX 266xs Compressor/Gate
 
+![Figure 14](/assets/audio/Mobile Rig Guide Pics/14 DBX compressor.png)
 Figure 14: DBX 266xs Compressor/Gate
 
 The DBX 266xs is a dual channel compressor/gate, which works as an inserted effect. Each channel is labeled as COMP 1, 2, 3 or 4, respectively. If you want to place a compressor/gate on a channel, go to the back of the MixWixard console. There should be a number of unplugged quarter inch cables resting in that area. Four of these should have corresponding COMP 1, 2, 3, or 4 labels on the connector piece. Pick the one you want and plug it into the ’insert’ input of the input channel of your choice. The ’insert’ inputs can be found just above the mic/line inputs on the back of the MixWizard.
@@ -181,6 +186,7 @@ http://dbxpro.com/en-US/products/266xs#documentation
 
 ### 3. Lexicon MX200 Effects Processor
 
+![Figure 15](/assets/audio/Mobile Rig Guide Pics/15 Lexicon.png)
 Figure 15: Lexicon MX200 Effects Processor
 
 In addition to the built in effects from the MixWizard, the Lexicon offers two more channels of high quality effects. In the same way that the DBX compressors were routed via insert into an input channel, the Lexicon also works as an inserted signal processor, however the return signal takes a slightly different path on its way to the master outs. Instead of coming back along the insert cable, the output is sent to ST1, or Stereo Return 1 on the back of the MixWizard, in the same way that the built in effects are sent through this return on their way to your master mix. Going from left to right the Lexicon has an input gain knob, a mix 1 knob and a mix 2 knob. It then has four columns of listed effects with accompanying lights that indicate which effects are selected. Next to these lists are two sets of controls to select and modify the desired effect(s). These consist of the effect select buttons, a pre delay or time/speed knob, a decay or feedback/depth knob, a variation knob, and tempo and bypass buttons.
@@ -191,6 +197,7 @@ http://lexiconpro.com/en-US/products/mx200#documentation
 
 ### 4. Tascam SS-CDR200 CD Player/SD Recorder
 
+![Figure 16](/assets/audio/Mobile Rig Guide Pics/16 Tascam.png)
 Figure 16: Tascam SS-CDR200 CD Player/SD Recorder
 
 
@@ -199,6 +206,7 @@ This part of the rack serves two main purposes: audio playback from a CD or SD c
 
 ### 5. DBX DriveRack PA+ Loudspeaker Management System
 
+![Figure 17](/assets/audio/Mobile Rig Guide Pics/17 driverack.png)
 Figure 17: DBX DriveRack PA+
 
 The DBX DriveRack PA+ is a very powerful piece of rack-mounted hardware. As the name suggests it manages your PA through the use of automatic system tuning EQs, feedback eliminators, and speaker leveling circuitry. If you look at the back of the DriveRack, you will see Right Left/Mono inputs that are patched from the L/R outs of the MixWizard and six line-level outputs labeled in pairs; a left and right output for High, Mid, and Low. In our rig you will also notice that all of these outputs except for the Low right output are being used. The Left/Mono output of the DriveRack goes directly to the ’SUB OUT’ in the I/O panel (see Figure 2). The Mid outputs go into the QS GX7 as I will explain shortly, and the High outputs go to the ’MAIN OUTS’, also in the I/O panel. You can effectively ignore the ’HIGH’ ’MID’ ’LOW’ labels on these outputs, as we are not using them as crossover outs for distinct speaker drivers like the names suggest. The DriveRack has crossovers and tunings already set up for each of these pairs and combinations of outputs.
@@ -207,12 +215,13 @@ Fortunately, most all of the uses of the DriveRack have already been set up and 
 
 To use the automatic feedback filters hit the button labeled ’FEEDBACK’ in the upper righthand corner of the button matrix to the right of the jog wheel. This will take you to a screen that looks something like this:
 
+![Figure 18](/assets/audio/Mobile Rig Guide Pics/18 Filters use.png)
 Figure 18: Example of the DBX DriveRack digital screen showing Feedback filters in use.
 
 
 The six ’F’s on the lower left of the screen represent your six automatic feedback filters. If they are highlighted in white as in the picture above, this means that they are active and have already been placed at a particular frequency. To clear the filters and prepare them to detect new frequencies, push the jog wheel to the right of the screen directly down, this will switch your digital arrow indicator between the ’ON’ and ’Clear’ parameters. Once you are on the ’Clear’ parameter slowly spin the jog wheel clockwise to toggle from ’Live Filters’ to ’All Filters.’ Once you have ’All Filters’ selected push the jog wheel down again to move your indicator down and then slowly spin the wheel clockwise another notch. This should clear all of your filters and put them back in a sort of standby position, ready to detect and cut any feedback frequencies they detect. If you did this correctly the digital screen should now look like this:
 
-
+![Figure 19](/assets/audio/Mobile Rig Guide Pics/19 filters no use.png)
 Figure 19: Example of the DBX DriveRack digital screen showing Feedback filters on standby.
 
 
@@ -223,6 +232,7 @@ http://dbxpro.com/en-US/products/driverack-pa-plus#documentation
 
 ### 6. DBX 231s Graphic Equaliser
 
+![Figure 20](/assets/audio/Mobile Rig Guide Pics/20 DBX 231s.png)
 Figure 20: DBX 231s Graphic Equaliser
 
 The 231s is a dual channel graphic EQ that works as an inserted effect just like the Lexicon and DBX compressors. You will find two more unplugged quarter inch TRS cables in the back of the rig labeled GEQ 1 and 2 respectively which you can insert into whatever channel you would like. The graphic EQ is typically used on the main LR output inserts in order to gain a master EQ on your master bus.
@@ -232,6 +242,7 @@ The 231s is split into two sections, one for each channel. Each one has a 20 - 2
 
 ### 7. DBX 215 Graphic Equaliser
 
+![Figure 21](/assets/audio/Mobile Rig Guide Pics/21 DBX 215.png)
 Figure 21: DBX 215 Graphic Equaliser
 
 
@@ -242,6 +253,7 @@ The term ’ring out’ monitors in the audio world refers to the process of rem
 
 ### 8. Shure ULXP4 Wireless Microphone Receivers
 
+![Figure 22](/assets/audio/Mobile Rig Guide Pics/22 ULXP4.png)
 Figure 22: Shure ULXP4 Wireless Microphone Receivers
 
 These are the receivers for the two wireless Beta 58s that can be found in the pullout drawer. Their channels are labeled ’W1’ and ’W2’ on the mix console. The receivers exist in order to receive the signal from the wireless microphone, convert it to a voltage and send it to your input channel. The signal from the microphone to the receiver is sent over radio frequency, indicated by the combination of letters and numbers you can see on the both the microphones and their corresponding receivers. The receivers, in addition to the microphones, have an internal volume parameter, given by the knob between the jog wheel and the power switch. This should not be touched and should be left at 100 percent (about five o’clock). The receivers also have a jog wheel used to change frequencies and settings, a ’Mode’ button and a ’Set’ button, in addition to the power switch.
@@ -253,6 +265,7 @@ The microphone frequency settings should always be locked when in regular use. T
 
 ### 9. QSC GX7 Loudspeaker Amplifier
 
+![Figure 23](/assets/audio/Mobile Rig Guide Pics/23 QSC amp.png)
 Figure 23: QSC GX7 Amplifier
 
 The QSC GX7 Loudspeaker Amplifier is used to power our EV TX1122 loudspeakers. These speakers are ’passive’ which means they require an external power source and crossover, as opposed to ’active speakers’ like our JBL PRX612Ms, which are self-powered with a built in crossover. The QSC GX7 takes a split of the main output of the MixWizard (coming from the ’Mid’ outputs of the DriveRack as mentioned above) and amplifies it to speaker level, sending it out along with power through the PASSIVE OUTS on the I/O panel via Speakon NL2 cable. The two volume knobs on the face of the unit should both be set to 10, and the power button should never be touched, as it turns on with the rest of the equipment with the Furman.
