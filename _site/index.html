@@ -275,6 +275,10 @@
     
       
         
+      
+    
+      
+        
           <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
@@ -338,73 +342,119 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//video/projection-guide.html">
-        Projection Guide
+      <a href="//recording/archival-recording-standards.html">
+        Archival Recording Standards
       </a>
     </h1>
 
-    <span class="post-date">16 Sep 2016</span>
+    <span class="post-date">18 Nov 2016</span>
 
-    <h1 id="video-rack-and-projection-system-user-guide">Video Rack and Projection System User Guide</h1>
+    <h2 id="archival-audio-recording-instructions-and-monitorpagehearing-assist">Archival Audio Recording Instructions and Monitor/Page/Hearing Assist</h2>
 
-<h2 id="system-boot">System Boot</h2>
+<p><strong>Archival Recording in the Hall</strong><br />
+Setting up the Audio Console (Venue SC48):</p>
 
-<p>First, make sure the MacPro is on and turn on the Projection System using the AMX controller at FOH (it will take a while for the lamp to warm up). Then, turn on the KUMO video switcher by flipping the KUMO’s power switch on the video rack under the FOH desk. Once the Projection System is live, use the AMX controller to set the Source to DVI 2, press ‘GO LIVE’, and unmute video (top left button).</p>
+<ol>
+  <li>Turn on the console by hitting the power button that can be found on the back side of the board in the center near the top.</li>
+  <li>Load your default board file by going to the “FILES” tab, “Load” and then navigating to your preset folder. If you do not have a board preset set up yet, then load a default from someone’s folder, preferably someone whose board preset you are familiar with.</li>
+  <li>Depending on whose preset you load, the ceiling microphones that we use for recording shows may be soft-patched differently. There are many ways to set up this patch in order to record shows, however I will detail two main ways, the first being the conceptually simple but lower quality method using direct outputs, and the second being the slightly more complicated but higher quality method using matrices.</li>
+  <li>Using direct outs
+    <ul>
+      <li>The easiest and quickest way to get recording setup is to patch the direct outputs of the hanging house mic left and right inputs to the firewire output that goes into the Mac Pro. To do this, select the “PATCHBAY” tab on the SC48 monitor, within this tab, there should be four sub-tabs labeled “INPUTS,” “OUTPUTS,” “DIRECTS” and “INSERTS.” Select the “DIRECTS” sub-tab, and within this sub-tab, select the “PROTOOLS” subtab which can be found among the two other types of Hardware tabs (FOH and STAGE). For all practical purposes, PROTOOLS here refers to the Firewire cable that connects the amc pro to the Venue. Alongside the left edge of the patchbay grid you should see another set of tabs representing the types of channels available for patching based on your selection of the previous tabs. Make sure “CHANNELS” is selected, as opposed to “FX RETURNS.” We use Firewire outputs 1 and 2 as our recording outputs that go into the Mac. Scroll down the patchbay grid until you find your hanging house mic left and right channels, and then patch each one to Firewire 1 and 2 accordingly. Lastly DO NOT FORGET to go back to the INPUTS tab at the top of the SC48 monitor, select each hanging house mic input channel, and turn on and turn up the direct output on each channel. If you forget to do this you will not get anything out of your direct outputs. (Turn the direct out on by clicking the IN graphic and turn it up by turning up the graphic encoder just above this virtual button)</li>
+      <li>DO NOT FORGET to gain your hanging house mics appropriately. I find that a gain of about 10 o’clock seems to work well for any type of show. Optimally, you would gain the mics enough to get the incoming signal as close to 0 dB as possible without going over, or clipping. It never hurts to be too quiet, while on the other hand, clipping distortion is irreversible, so it is always better to err on the side of caution and leave your hanging house mics gained less if you think things may get loud later in the show. If you can remember, make an effort to look at the incoming signal to these channels during your show to make sure you are not clipping. Adjust your gains on these channels appropriately.</li>
+    </ul>
+  </li>
+  <li>Using Matrices
+    <ul>
+      <li>This method uses matrices to send not only the hanging house mic feed into the mac but also takes a split of everything being sent out of your main outs and sends that as well. Thus it is a higher quality option for recording as opposed to simply taking the ambient house mic feed through direct outputs. Since we are sending a stereo output to the Mac, we need to set up a stereo matrix pair. Matrices 1-6 are always in use by the board, as they feed the Line arrays, subs booster, and surrounds, so you will use matrices 7 and 8. To stereo pair these matrices, go to the OPTIONS tab, and then to the BUSSES subtab. Within this tab you can stereo pair auxes and matrices. Go into configuration mode (either by hitting the red button labeled “Config” in the upper left center of the board or by double clicking the SHOW label at the bottom of the SC48 monitor), and then hit the EDIT button in the matrix section of the BUSSES subtab. Hit the checkmark above 7 and 8 to stereo pair them. Next, you need to set up these matrices so that they take the correct configuration of inputs and outputs that we want sent to the recording. Go to the OUTPUTS tab and select either one of your matrices. Inside the matrix mixer you will find 12 possible input channels to the matrix, on the right you will see your left-center-right options. We want to send the hanging house mics to the mac through this matrix, as well as the left-center-right outputs of the board. Turn the Left-Right and Center channels in the matrix mixer on and up via the controls beneath the virtual meter on each channel. Left-Right should be stereo paired, denoted by the checkbox beneath even-odd pairs of channels. If not then simply hit the corresponding checkbox. When any two input channels are stereo paired in the matrix mixer turning one on and up will automatically do so for its stereo partner. Once you turn Left-Right and Center on and up, hit the red user assign button in the matrix mixer. This will bring up the user assign tab. Preferably find two unused user assign channels, and from the drop down set them to your hanging house mic left and right input channels respectively. If all the user assign channels are in use, then change two that you don’t need for the current show (note that changing these user assigns will change them for any other matrices using those user assigns, so be sure you don’t need them before you change them). Hit the user assign button again to exit the user assign tab. Go to the first two channels in the matrix mixer, and from the dropdown box just above the virtual meter for each channel navigate to your hanging house mic left and right user assigned channels. Since these two channels constitute a stereo pair, hit the checkbox beneath these channels to link them. This should bring up a panning option, make sure it is set correctly (pan HHL all the way left and HHR all the way right), and then turn on and up the two channels. If you did this correctly your meters for these hanging house mic channels in the matrix mixer should be showing signal if there is any noise in the hall. Theoretically, since you stereo paired the two matrices, everything you just did for this matrix should have been automatically copied over to matrix 8, or vice versa if you started with 8, but just to be sure you should always check to see that everything is correct in both matrices. They should simply be identical copies of each other. Turn up these matrix faders on your board to unity (0 db) and then navigate to the PATCHBAY tab on-screen. We now need to patch these matrices. We want to send them to Firewire outputs 1 and 2 respectively. In the PATCHBAY tab, click the OUTPUTS subtab, and the PROTOOLS subtab within that. Select MATRIXES from the selection of output type tabs on the left edge of the virtual patchbay display. Find Matrix 7 and 8 and patch them to Firewire 1 and 2 respectively. Make sure your matrix 7 and 8 channels are unmuted and turned up.</li>
+      <li>NOTE that if you are using this method for recording, it is highly recommended that you MONITOR your recording outputs in order to not only gain your hanging house mics properly (see Using direct outs part (b) above) but also to get a good mix between these ambient signals and the onstage microphone signals being sent to your mains. In general, the ambient recordings should be quieter, placed in the background behind the main outputs. To monitor the mix, take the headphones that should be hanging underneath the desk where you are sitting and plug them into the headphones input on the board (beneath the front lip of the board towards the right side). Hit the AFL button on one of the matrices you are using for the recording, and use the headphones volume encoder on the upper right hand corner of the board to send the recording feed to your headphones and control the volume in your cans respectively. adjust the mix as necessary. Again, it is always better to err on the side of caution and keep your hanging house mic feed on the quiet side if you are unsure about the mix or whether or not it will hold during the actual show. If you get downtime during the show you can always monitor the mix and adjust accordingly.</li>
+    </ul>
+  </li>
+</ol>
 
-<h2 id="macpro-control-system">MacPro Control System</h2>
+<p>Setting up the Mac Pro:</p>
 
-<p>Open Chrome on the MacPro and use the Bookmarks to open the Projector and KUMO controller pages in two separate tabs. The Projector page allows you to turn the lamp on and off and align, size, and focus the projected images. Do not mess with other settings on this page, such as the Title List. The Projector page is usually only used for setup and can be closed once you are done focusing. The KUMO page is where you will route all video sources and destinations, and should be left up throughout the duration of the show. To send a video source to a destination, first select the desired destination, then click on the input source you want to pull from. For example, to send the FOH HDMI feed to the stage patch, click output V37 Stg In to select the destination and then click input FOH HDMI to pull the input.</p>
+<ol>
+  <li>Turn on the monitor display to the Mac Pro</li>
+  <li>Click on your empty desktop</li>
+  <li>Choose “Go” in from the options tab at the top of the display</li>
+  <li>Select “Applications”</li>
+  <li>Open “Microwave”</li>
+</ol>
 
-<h2 id="focusing">Focusing</h2>
+<p>Setting up your session:</p>
 
-<p>You should focus the image as soon as you can, before you start working with content. Wait to focus until all soft goods are set if you’re using the scrim since you will have to work around legs, borders, etc. Similarly, don’t set the masking position until you have focused the image on the projection screen. Remember to keep the center speaker out of the projector’s path. You can use the following website for general focusing: http://www.aaarpinball.com/Miscellaneous/p1080.htm (I use Green Pluses and click the pattern for a fullscreen display).</p>
+<ol>
+  <li>Change the Sample Rate to 44100</li>
+  <li>Change the bit depth to 24 bit</li>
+  <li>Change the channels to stereo if showing mono</li>
+  <li>Click “Create”</li>
+  <li>Name your session according to the naming protocol below (don’t include the .mp3)</li>
+  <li>Click the arrow next to the file name to drop down the filing menu</li>
+  <li>Save the file under “Documents” -&gt; “PH_Recordings”</li>
+</ol>
 
-<p>Sizing to the projection screen is simple: set the image to fit perfectly between the top edge of the white projection surface and the bottom edge of the roll. Avoid spillover by scaling the image smaller than the screen and slowly scaling it up to reach the top/bottom edges since it can be hard to notice the image on the black screen or hitting the stage below the screen’s roll. If the event is using the scrim for projection, placement and scale of the projection image depends on the specific needs of the group. Will there be dancers or musicians far upstage that could potentially block the image? Consult with the directors to get an image they are happy with that will be visible from almost all of the seats in the audience (someone sitting in the far left side of the house might not be able to see the left edge of the image if legs are in the way). Finally, make sure that the image is centered relative to masking, legs, or the center of the stage.</p>
+<p>Testing the recording during rehearsal:</p>
 
-<p>Once the screen is scaled and placed properly, focus the image by looking at sharp edges and high contrast areas and sweeping along the zoom tool to find the optimal focus distance. It helps to switch between a focus image, high resolution images with moderate contrast (pictures of faces are good), and text.</p>
+<ol>
+  <li>Press the record button to enable recording (large red circle) while making noise</li>
+  <li>Press the same record button to stop recording</li>
+  <li>If you see a very slight waveform, it means your recording is working, but you want more signal</li>
+  <li>Gain the hanging house mics until you see a better waveform. Congrats! You’ve got a recording going.</li>
+  <li>Drag the timing bar back to the beginning of your recording; it will allow you to record over your test
+Record the show: Press Record both before and after the show</li>
+</ol>
 
-<h2 id="line-arrays-and-surround-sound">Line Arrays and Surround Sound</h2>
+<p>Normalize, Gain, Normalize:</p>
 
-<p>When you turn on the Projection System, you also turn on the cinema audio system which includes the line arrays and the surround sound speakers around the hall. On most people’s presets they are controlled as a set of matrices which pick off sound sent to the mains, but you can set them up how you like. The line arrays must be flown in from the ceiling and are usually only used with the projection screen (it is ill-advised to send stage mics through the line arrays as you will have to fight a lot of feedback). The surrounds are set up as a stereo output (we do not have control over individual speakers like a 5.1 or 7.1 system). If you do use the surrounds in conjunction with the main speakers, make sure the surrounds are set to the correct delay time so that the audience doesn’t hear an echo from the two speaker systems.</p>
+<ol>
+  <li>From the drop down menu at the top of the screen choose “Effects” then “Normalize”; allow it to process</li>
+  <li>Next, also under “Effects”, choose “Multiband Compressor” and press “Apply” on the pop up window</li>
+  <li>Normalize again by repeating step 1: “Effects” and “Normalize”</li>
+  <li>Choose “File” -&gt; “Export”</li>
+  <li>Ensure that the Output File Format is MPEG 2 Audio Layer III (.mp3) and press “OK”</li>
+  <li>Name the file the same way you named the session (according to the naming convention below)</li>
+  <li>Click the arrow next to the file name to drop down the filing menu</li>
+  <li>Save the file under “Documents” -&gt; “PH_Recordings”</li>
+</ol>
 
-<h2 id="video-rack">Video Rack</h2>
+<p>Send the file to erinbrenner@uchicago.edu:</p>
 
-<p>The Video Rack is designed to be a black box, with users only having to understand what goes into it and what comes out of it. Normal use of the Video Rack does not require any changes to the individual components housed within, and users should aim to avoid diving into the rack by themselves. Keep in mind that the harder it is to get to a particular component, the less likely it is that you should be trying to get to it.</p>
+<ol>
+  <li>Open Safari (using the same method you used to open Microwave or from the dock below)</li>
+  <li>Go to the website WeTransfer.com</li>
+  <li>Upload the recording -&gt; enter Erin’s email address -&gt; enter your email address -&gt; press Send</li>
+</ol>
 
-<p><img src="/assets/video/projection-guide/video-rack-flowchart.jpg" alt="Video Rack Flowchart" /></p>
+<p>Naming Convention: Year.Month.Date_Show_Engineer.mp3<br />
+<em>Example</em>:    14.8.31_ThirdCoastPercussion_Remy.mp3<br />
+<em>Example</em>:    15.2.24_MEME_Jace.mp3</p>
 
-<p><strong>KUMO Router</strong><br />
-The KUMO is a 4out/16in video switching device that we use to manage all of our video routing within the performance hall. The outputs are the Projector, Preview Monitor, Crestron System, and Stage Patch V38. The inputs we use are the MacPro, FOH HDMI, Blu-Ray Player, Crestron System, and Stage Patch V37. The KUMO is controlled completely via the Chrome controller (described above) and the hardware in the rack is simply a hub of connection paths, so you should never have to change any of the connections in the rack.</p>
+<p><strong>Troubleshooting the Monitor/Page/Hearing Assist Feed</strong></p>
 
-<p><strong>Decimator</strong><br />
-Within the Video Rack is a Decimator DMON-6S multi-viewer. This picks off video signals from each input and maps them to a 6 window multi-view display on the Preview Monitor without any required mapping from the KUMO. It also passes through each signal to the KUMO and stays on at all times. This does not require any attention for regular use as it stays on at all times (powered via power strip at bottom of rack(???)) and will never interrupt input signals to the KUMO. This device is connected to the MacPro via USB.</p>
+<p>Hard Patch</p>
 
-<p><strong>Converters</strong><br />
-There are several video signal converters within the video rack, most of which are AJA HA-5 HDMI-HD SDI video/audio converters. Since most of our input sources and output destinations send and receive HDMI video signal, these converters surround the KUMO (which uses SDI for fast switching). The AJA converters are connected to the MacPro via USB, while other adapters such as the HDCP decoder for the in-rack Blu-Ray player are not connected. These converters are powered via the power strip located at the bottom of the video rack.</p>
+<ul>
+  <li>The monitor/page/hearing assist feed is fed directly from the center hanging house mic in the performance hall. The microphone is plugged into M29 in the center AVP 202 on catwalk 1. In the patchbay this is patched into one of the mic splitter inputs, and one of the corresponding outputs from the mic splitter sends a split of the signal to the ‘Hearing Assist’ patch. The other mic split goes to the Venue at FOH.</li>
+</ul>
 
-<p><strong>USB Hub</strong><br />
-The USB Hub that connects the AJA converters and the DMON-6S to the MacPro is attached to the side of the wall on the back of the video rack. If you find that you cannot communicate with these devices, check the USB connections from this hub.</p>
+<p>Presonus</p>
 
-<p><strong>Stage Patch Points</strong><br />
-Two SDI patches connect the stage patch and the KUMO video router: V37 input and V38 output. These connections are made under the FOH desk. In the amp room at the center stack, you can patch video signals to and from the AVPs around the stage to set up confidence monitors, take video feed from laptops on lecterns or backstage, or anything else you might need to do.</p>
+<ul>
+  <li>The signal from the microphone is sent through the Presonus Studio One Channel Preamp in the top center rack of the amp room. This unit also feeds the hanging house mic +48 volts phantom power, without which it will not work properly. The other settings and parameters on this preamp channel strip are set according to what makes the /monitor page feed sound best, so please do not touch any of these other controls. The only thing you should ever have to touch on this unit is the 48 volts button, which often times gets turned off by accident.</li>
+</ul>
 
-<h2 id="projection-booth">Projection Booth</h2>
+<p>Crestron Control Unit and DSP</p>
 
-<p>The projection booth has more control surfaces for interfacing with the projector. The slide-out laptop can be used to save focus settings for shows that have multiple days of rehearsal or performance. You can also use built in high resolution focus and color spread test images to set your focus.</p>
+<ul>
+  <li>The signal from the preamp is sent to a Crestron control unit and some DSPs. The Crestron Control Unit can be found towards the bottom of the center rack in the amp room and is labeled CU-11. The last step in the troubleshooting process after checking the hard patch and the Presonus unit is to take a look at this control unit and verify that it is working properly. If the MSG and or LNK lights are not on, or it looks like the London DSPs immediately below this unit do not seem to be receiving signal, then you may need to try doing a software or hardware reset in the Crestron Control Unit. If you think you need to do this, notify a supervisor first and get his or her approval to do so. Always try doing a software reset first. This can be done by pressing the inset button on the control unit labeled SW-R. If this does not fix the problem, trying hit the other inset button just to the left of this one labeled HW-R. This will force the unit into a hardware reset.</li>
+</ul>
 
-<h2 id="troubleshooting">Troubleshooting</h2>
+<p>Stage Manager Console</p>
 
-<p><strong>My input isn’t showing up on the Preview Monitor!</strong><br />
-First, make certain there are no problems with the input source. If there are no problems with the source itself, there is likely a loose connection at the AJA converter for your input. The AJA converters are located at the back of the video rack and are labeled according to the input or output they serve. On the side of the device are two lights that should be lit while functioning properly: a green light labeled POWER and an amber light labeled SDI LOCK. If either of these are off, check that all cables are plugged in and secure, and unplug and replug them all if necessary.</p>
-
-<p><strong>My stage patch isn’t working properly!</strong><br />
-Confirm that the video rack V37 input and V38 output (these are both at the bottom of the back of the video rack) are connected to the V37 and V38 patch points under the FOH desk. Next, check the patch in the amp room’s center stack. If you are pulling video from a laptop on stage or backstage check that the AVP patch matches what you pulled from in the amp room. If you are having problems with a confidence monitor, refer to the confidence monitor guide after checking all patches.</p>
-
-<p><strong>I can’t get audio from my video input!</strong><br />
-The Venue gets audio from the KUMO as a stereo AES(???) feed from the back of the video rack at the bottom. The video source should be set so that audio is sent through the video feed. For example, a MacBook on stage should have proper display settings and the audio settings should send out HDMI rather than speakers or headphones.</p>
-
-<p><strong>The Projector is on, but it won’t display Program!</strong><br />
-Go to the AMX controller at FOH and make sure that ‘Source’ is set to ‘DVI 2’, hit ‘GO LIVE’, and unmute the display. If it still isn’t working, go to the back of the video rack and find the AJA converter labeled ‘Projector’ and check all of the connections and indicator lights. Try unplugging all of the cables and plugging them back in. If it still isn’t working, go into the projection booth and check that the white DVI cable is plugged into (what is the port labeled?). If it still doesn’t work, turn the projection system off, then the KUMO, then the MacPro. Then turn on the MacPro, then the KUMO, then the projection system.</p>
+<ul>
+  <li>Make sure that the monitor feed is routed correctly inside the stage manager console (I need to head back down to Logan to write this out as I can’t remember off the top of my head what the particular steps are for this part)</li>
+</ul>
 
   </div>
   

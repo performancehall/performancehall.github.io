@@ -4,13 +4,127 @@
  <title>Performance Hall Docs</title>
  <link href="performancehall.github.io/atom.xml" rel="self"/>
  <link href="performancehall.github.io/"/>
- <updated>2016-10-20T20:50:04-05:00</updated>
+ <updated>2016-11-18T19:06:22-06:00</updated>
  <id>performancehall.github.io</id>
  <author>
    <name>Kyle McCornack, Hunter Korgel</name>
    <email>kpmccornack@gmail.com, hunterkorgel@uchicago.edu</email>
  </author>
 
+ 
+ <entry>
+   <title>Archival Recording Standards</title>
+   <link href="performancehall.github.io/recording/archival-recording-standards.html"/>
+   <updated>2016-11-18T00:00:00-06:00</updated>
+   <id>performancehall.github.io/recording/archival-recording-standards</id>
+   <content type="html">&lt;h2 id=&quot;archival-audio-recording-instructions-and-monitorpagehearing-assist&quot;&gt;Archival Audio Recording Instructions and Monitor/Page/Hearing Assist&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Archival Recording in the Hall&lt;/strong&gt;&lt;br /&gt;
+Setting up the Audio Console (Venue SC48):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turn on the console by hitting the power button that can be found on the back side of the board in the center near the top.&lt;/li&gt;
+  &lt;li&gt;Load your default board file by going to the “FILES” tab, “Load” and then navigating to your preset folder. If you do not have a board preset set up yet, then load a default from someone’s folder, preferably someone whose board preset you are familiar with.&lt;/li&gt;
+  &lt;li&gt;Depending on whose preset you load, the ceiling microphones that we use for recording shows may be soft-patched differently. There are many ways to set up this patch in order to record shows, however I will detail two main ways, the first being the conceptually simple but lower quality method using direct outputs, and the second being the slightly more complicated but higher quality method using matrices.&lt;/li&gt;
+  &lt;li&gt;Using direct outs
+    &lt;ul&gt;
+      &lt;li&gt;The easiest and quickest way to get recording setup is to patch the direct outputs of the hanging house mic left and right inputs to the firewire output that goes into the Mac Pro. To do this, select the “PATCHBAY” tab on the SC48 monitor, within this tab, there should be four sub-tabs labeled “INPUTS,” “OUTPUTS,” “DIRECTS” and “INSERTS.” Select the “DIRECTS” sub-tab, and within this sub-tab, select the “PROTOOLS” subtab which can be found among the two other types of Hardware tabs (FOH and STAGE). For all practical purposes, PROTOOLS here refers to the Firewire cable that connects the amc pro to the Venue. Alongside the left edge of the patchbay grid you should see another set of tabs representing the types of channels available for patching based on your selection of the previous tabs. Make sure “CHANNELS” is selected, as opposed to “FX RETURNS.” We use Firewire outputs 1 and 2 as our recording outputs that go into the Mac. Scroll down the patchbay grid until you find your hanging house mic left and right channels, and then patch each one to Firewire 1 and 2 accordingly. Lastly DO NOT FORGET to go back to the INPUTS tab at the top of the SC48 monitor, select each hanging house mic input channel, and turn on and turn up the direct output on each channel. If you forget to do this you will not get anything out of your direct outputs. (Turn the direct out on by clicking the IN graphic and turn it up by turning up the graphic encoder just above this virtual button)&lt;/li&gt;
+      &lt;li&gt;DO NOT FORGET to gain your hanging house mics appropriately. I find that a gain of about 10 o’clock seems to work well for any type of show. Optimally, you would gain the mics enough to get the incoming signal as close to 0 dB as possible without going over, or clipping. It never hurts to be too quiet, while on the other hand, clipping distortion is irreversible, so it is always better to err on the side of caution and leave your hanging house mics gained less if you think things may get loud later in the show. If you can remember, make an effort to look at the incoming signal to these channels during your show to make sure you are not clipping. Adjust your gains on these channels appropriately.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Using Matrices
+    &lt;ul&gt;
+      &lt;li&gt;This method uses matrices to send not only the hanging house mic feed into the mac but also takes a split of everything being sent out of your main outs and sends that as well. Thus it is a higher quality option for recording as opposed to simply taking the ambient house mic feed through direct outputs. Since we are sending a stereo output to the Mac, we need to set up a stereo matrix pair. Matrices 1-6 are always in use by the board, as they feed the Line arrays, subs booster, and surrounds, so you will use matrices 7 and 8. To stereo pair these matrices, go to the OPTIONS tab, and then to the BUSSES subtab. Within this tab you can stereo pair auxes and matrices. Go into configuration mode (either by hitting the red button labeled “Config” in the upper left center of the board or by double clicking the SHOW label at the bottom of the SC48 monitor), and then hit the EDIT button in the matrix section of the BUSSES subtab. Hit the checkmark above 7 and 8 to stereo pair them. Next, you need to set up these matrices so that they take the correct configuration of inputs and outputs that we want sent to the recording. Go to the OUTPUTS tab and select either one of your matrices. Inside the matrix mixer you will find 12 possible input channels to the matrix, on the right you will see your left-center-right options. We want to send the hanging house mics to the mac through this matrix, as well as the left-center-right outputs of the board. Turn the Left-Right and Center channels in the matrix mixer on and up via the controls beneath the virtual meter on each channel. Left-Right should be stereo paired, denoted by the checkbox beneath even-odd pairs of channels. If not then simply hit the corresponding checkbox. When any two input channels are stereo paired in the matrix mixer turning one on and up will automatically do so for its stereo partner. Once you turn Left-Right and Center on and up, hit the red user assign button in the matrix mixer. This will bring up the user assign tab. Preferably find two unused user assign channels, and from the drop down set them to your hanging house mic left and right input channels respectively. If all the user assign channels are in use, then change two that you don’t need for the current show (note that changing these user assigns will change them for any other matrices using those user assigns, so be sure you don’t need them before you change them). Hit the user assign button again to exit the user assign tab. Go to the first two channels in the matrix mixer, and from the dropdown box just above the virtual meter for each channel navigate to your hanging house mic left and right user assigned channels. Since these two channels constitute a stereo pair, hit the checkbox beneath these channels to link them. This should bring up a panning option, make sure it is set correctly (pan HHL all the way left and HHR all the way right), and then turn on and up the two channels. If you did this correctly your meters for these hanging house mic channels in the matrix mixer should be showing signal if there is any noise in the hall. Theoretically, since you stereo paired the two matrices, everything you just did for this matrix should have been automatically copied over to matrix 8, or vice versa if you started with 8, but just to be sure you should always check to see that everything is correct in both matrices. They should simply be identical copies of each other. Turn up these matrix faders on your board to unity (0 db) and then navigate to the PATCHBAY tab on-screen. We now need to patch these matrices. We want to send them to Firewire outputs 1 and 2 respectively. In the PATCHBAY tab, click the OUTPUTS subtab, and the PROTOOLS subtab within that. Select MATRIXES from the selection of output type tabs on the left edge of the virtual patchbay display. Find Matrix 7 and 8 and patch them to Firewire 1 and 2 respectively. Make sure your matrix 7 and 8 channels are unmuted and turned up.&lt;/li&gt;
+      &lt;li&gt;NOTE that if you are using this method for recording, it is highly recommended that you MONITOR your recording outputs in order to not only gain your hanging house mics properly (see Using direct outs part (b) above) but also to get a good mix between these ambient signals and the onstage microphone signals being sent to your mains. In general, the ambient recordings should be quieter, placed in the background behind the main outputs. To monitor the mix, take the headphones that should be hanging underneath the desk where you are sitting and plug them into the headphones input on the board (beneath the front lip of the board towards the right side). Hit the AFL button on one of the matrices you are using for the recording, and use the headphones volume encoder on the upper right hand corner of the board to send the recording feed to your headphones and control the volume in your cans respectively. adjust the mix as necessary. Again, it is always better to err on the side of caution and keep your hanging house mic feed on the quiet side if you are unsure about the mix or whether or not it will hold during the actual show. If you get downtime during the show you can always monitor the mix and adjust accordingly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Setting up the Mac Pro:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Turn on the monitor display to the Mac Pro&lt;/li&gt;
+  &lt;li&gt;Click on your empty desktop&lt;/li&gt;
+  &lt;li&gt;Choose “Go” in from the options tab at the top of the display&lt;/li&gt;
+  &lt;li&gt;Select “Applications”&lt;/li&gt;
+  &lt;li&gt;Open “Microwave”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Setting up your session:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Change the Sample Rate to 44100&lt;/li&gt;
+  &lt;li&gt;Change the bit depth to 24 bit&lt;/li&gt;
+  &lt;li&gt;Change the channels to stereo if showing mono&lt;/li&gt;
+  &lt;li&gt;Click “Create”&lt;/li&gt;
+  &lt;li&gt;Name your session according to the naming protocol below (don’t include the .mp3)&lt;/li&gt;
+  &lt;li&gt;Click the arrow next to the file name to drop down the filing menu&lt;/li&gt;
+  &lt;li&gt;Save the file under “Documents” -&amp;gt; “PH_Recordings”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Testing the recording during rehearsal:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Press the record button to enable recording (large red circle) while making noise&lt;/li&gt;
+  &lt;li&gt;Press the same record button to stop recording&lt;/li&gt;
+  &lt;li&gt;If you see a very slight waveform, it means your recording is working, but you want more signal&lt;/li&gt;
+  &lt;li&gt;Gain the hanging house mics until you see a better waveform. Congrats! You’ve got a recording going.&lt;/li&gt;
+  &lt;li&gt;Drag the timing bar back to the beginning of your recording; it will allow you to record over your test
+Record the show: Press Record both before and after the show&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Normalize, Gain, Normalize:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;From the drop down menu at the top of the screen choose “Effects” then “Normalize”; allow it to process&lt;/li&gt;
+  &lt;li&gt;Next, also under “Effects”, choose “Multiband Compressor” and press “Apply” on the pop up window&lt;/li&gt;
+  &lt;li&gt;Normalize again by repeating step 1: “Effects” and “Normalize”&lt;/li&gt;
+  &lt;li&gt;Choose “File” -&amp;gt; “Export”&lt;/li&gt;
+  &lt;li&gt;Ensure that the Output File Format is MPEG 2 Audio Layer III (.mp3) and press “OK”&lt;/li&gt;
+  &lt;li&gt;Name the file the same way you named the session (according to the naming convention below)&lt;/li&gt;
+  &lt;li&gt;Click the arrow next to the file name to drop down the filing menu&lt;/li&gt;
+  &lt;li&gt;Save the file under “Documents” -&amp;gt; “PH_Recordings”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Send the file to erinbrenner@uchicago.edu:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open Safari (using the same method you used to open Microwave or from the dock below)&lt;/li&gt;
+  &lt;li&gt;Go to the website WeTransfer.com&lt;/li&gt;
+  &lt;li&gt;Upload the recording -&amp;gt; enter Erin’s email address -&amp;gt; enter your email address -&amp;gt; press Send&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Naming Convention: Year.Month.Date_Show_Engineer.mp3&lt;br /&gt;
+&lt;em&gt;Example&lt;/em&gt;:    14.8.31_ThirdCoastPercussion_Remy.mp3&lt;br /&gt;
+&lt;em&gt;Example&lt;/em&gt;:    15.2.24_MEME_Jace.mp3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Troubleshooting the Monitor/Page/Hearing Assist Feed&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hard Patch&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The monitor/page/hearing assist feed is fed directly from the center hanging house mic in the performance hall. The microphone is plugged into M29 in the center AVP 202 on catwalk 1. In the patchbay this is patched into one of the mic splitter inputs, and one of the corresponding outputs from the mic splitter sends a split of the signal to the ‘Hearing Assist’ patch. The other mic split goes to the Venue at FOH.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Presonus&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The signal from the microphone is sent through the Presonus Studio One Channel Preamp in the top center rack of the amp room. This unit also feeds the hanging house mic +48 volts phantom power, without which it will not work properly. The other settings and parameters on this preamp channel strip are set according to what makes the /monitor page feed sound best, so please do not touch any of these other controls. The only thing you should ever have to touch on this unit is the 48 volts button, which often times gets turned off by accident.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Crestron Control Unit and DSP&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The signal from the preamp is sent to a Crestron control unit and some DSPs. The Crestron Control Unit can be found towards the bottom of the center rack in the amp room and is labeled CU-11. The last step in the troubleshooting process after checking the hard patch and the Presonus unit is to take a look at this control unit and verify that it is working properly. If the MSG and or LNK lights are not on, or it looks like the London DSPs immediately below this unit do not seem to be receiving signal, then you may need to try doing a software or hardware reset in the Crestron Control Unit. If you think you need to do this, notify a supervisor first and get his or her approval to do so. Always try doing a software reset first. This can be done by pressing the inset button on the control unit labeled SW-R. If this does not fix the problem, trying hit the other inset button just to the left of this one labeled HW-R. This will force the unit into a hardware reset.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stage Manager Console&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure that the monitor feed is routed correctly inside the stage manager console (I need to head back down to Logan to write this out as I can’t remember off the top of my head what the particular steps are for this part)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Projection Guide</title>
