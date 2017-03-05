@@ -46,12 +46,12 @@ audio:
 recording:
     - title: Handheld Tascam Tutorial
       url: /recording/handheld-tascam-tutorial.html
-    - title: Archival Recording Instructions and Standards
-      url: /audio/archival-instructions.html
     - title: Setting Up a Board Feed For a Videographer
       url: /audio/board-feed-for-videographer.html
     - title: Archival Recording Standards
       url: /recording/archival-recording-standards.html
+    - title: Comprehensive Audio Recording Manual
+      url: /recording/comprehensive-audio-recording-manual.html
 
 lighting_hall:
     - title: Followspot Guide

@@ -279,6 +279,10 @@
     
       
         
+      
+    
+      
+        
           <a class="sidebar-nav-item" href="/spaces/">Spaces and Drawings</a>
         
       
@@ -301,7 +305,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; 2016. All rights reserved. Created and maintained by:
+      &copy; 2017. All rights reserved. Created and maintained by:
       Hunter Korgel and
       Kyle McCornack
     </p>
@@ -323,18 +327,81 @@
       </div>
 
       <div class="container content">
-        <h1>Welcome to the Docs</h1>
+        <h1>The Performance Hall's Code of Conduct</h1>
+
 <p>
-    You've reached the home of the documents of concern for the employees of the Reva and David Logan Center's Performance Hall.
-    Feel free to take your time browsing around.
+    The Performance Hall is committed to providing a welcoming and harassment-
+    free environment for people of all races, sexual orientations, gender
+    statuses, physical dispositions, and beliefs. We believe in having an
+    archived and publicly available set of guidelines as a necessary and
+    important part of attaining this type of environment. Please take a moment
+    to read ours below.
 </p>
+
+<h2>Costumer Service</h2>
+
 <p>
-    This is currently a work in progress, so documents will go up and may come
-    down, and things will likely change quite frequently,
-    but it will only get more helpful and thorough as time goes on.
+    At the Logan Center, we maintain a high standard or client and patron
+    service (both are our customers). The following bullet points are basic
+    tips for interacting with patrons, talent, external crews, building staff,
+    and anyone else who may be in the Logan Center.
 </p>
+
+<ul>
+  <li>Always greet the client and patrons warmly and maintain a pleasant
+    atmosphere</li>
+  <li>Display sincere interest in helping the client and patrons</li>
+  <li>Motivate other employees to be productive at all times, especially when
+    others are in the space</li>
+  <li>If you do not know the answer to a question, state that you do not know
+    and that you will work on finding the answer. Bring the question to the
+    appropriate person or group of people, and proceed from there. Always follow
+    up to give an update on your efforts.</li>
+  <li>ALWAYS BE POLITE to everyone, all the time, no matter what. This means
+    coworkers, external crew, talent, support staff, patrons, supervisors,
+    faculty, staff, strangers, etc.</li>
+</ul>
+
+<h2>Disability Sensitivity</h2>
+
 <p>
-  If there are other things you would like to see here, send an email with the subject line '[WEBSITE]' to us at: hunterkorgel@uchicago.edu, kpmccornack@gmail.com
+    When speaking to people with disabilities, always use people-first language.
+    Group designations are inappropriate because they do not reflect the
+    individuality, equality or dignity of the person.
+</p>
+
+<ul>
+  <li>Address the person with a disability directly, not their companion or
+    caregiver. If they are using a wheelchair, kneel to speak with them at eye
+    level.</li>
+  <li>Instead of asking the person about their disability (which is illegal),
+    ask “How may I assist you?”. Focus on their needs, not their disability.
+  </li>
+  <li>If for any reason a problem arises and the person with a disability cannot
+    easily access the facility, please attempt to serve them with personalized
+    service.</li>
+  <li>Politely address and assist those with disabilities without being
+    patronizing or demeaning.</li>
+</ul>
+
+<h2>Indicators of quality performance include</h2>
+
+<ul>
+  <li>Timely arrival for shifts</li>
+  <li>Articulating clearly and listening to clients</li>
+  <li>Maintaining professional attitude with clients and patrons at all times
+    </li>
+  <li>Making appropriate decisions and accepting consequences of actions</li>
+  <li>Accurate interpretation of Logan Center policies and procedures</li>
+</ul>
+
+<h2>Questions, concerns, or feedback?</h2>
+
+<p>
+    We welcome your feedback on this and we thank you for working with us to
+    make it a safe, enjoyable, and friendly experience for everyone who visits
+    us. Contact us via phone (773-834-2385) or email (erinbrenner@uchicago.edu)
+    if you have any questions, concerns or feedback.
 </p>
 
 <!---
@@ -342,158 +409,131 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="//video/projection-cheat-sheet.html">
-        Projection Cheat Sheet
+      <a href="//video/video-rack-guide.html">
+        Video Rack Guide
       </a>
     </h1>
 
     <span class="post-date">26 Aug 2016</span>
 
-    <h3 id="basic">BASIC</h3>
+    <h2 id="intro">Intro</h2>
+
+<p>The video rack is a bit of a beast of a rig. Don’t be frightened by it.
+There are a lot of wires and components on the inside of it, but most of the actual signal flow is relatively simple. In this tutorial we’ll break down the sections of it that you need to know, and explain how the signals flow into, out of and within the rack.</p>
+
+<h2 id="major-sections">Major Sections</h2>
+
+<p>Mac Pro
+Multiview
+Converters
+IO Panel
+USB Hub</p>
+
+<h2 id="io-panel">IO Panel</h2>
+
+<p>This is where all the signals come into and out of the rack. As such, if you need to troubleshoot anything, this is the place to start. In an ideal world, you shouldn’t change anything further down the signal chain than the IO Panel. If changing things here doesn’t resolve your issues, think long and hard before you go changing any connections beyond this point.</p>
+
+<h4 id="io-panel-connections">IO Panel Connections</h4>
 
 <ul>
   <li>
-    <p>SOURCE = MacMini or FOH HDMI</p>
+    <p>SWITCHED:</p>
 
-    <ol>
-      <li>Turn the Switcher Rack On (Black on / off flip switch, right side)</li>
-      <li>On the AMX Touch interface, hit “Turn on system and projector”</li>
-      <li>Open Chrome on the Mac Mini and Open the Kumo Bookmark</li>
-      <li>Click Projector on the Bottom Row</li>
-      <li>Select your source on the Top Row</li>
-    </ol>
+    <p>This is the switched power that feeds the Furman relay. It is switched via the switch on the front of the Furman, and feeds power to a number of the video converters.</p>
   </li>
-</ul>
-
-<p><img src="http://i.imgur.com/Hs68lLj.png" alt="Image One" /></p>
-
-<h5 id="if-that-doesnt-get-you-an-image-now-we-start">If that doesn’t get you an image now we start:</h5>
-
-<p><a name="troubleshooting"> <em>TROUBLESHOOTING</em> </a></p>
-
-<ul>
-  <li>Make sure you are actually sending some sort of image from your source: (very helpful to have the preview monitor at FOH set to the same source as the projector)</li>
-  <li>If your source is the mac mini, try dragging a window to the right</li>
-  <li>If you’re using a different source, make sure your display preferences are set up correctly</li>
-  <li>Make sure the lamp of the projector is actually on
-    <ul>
-      <li>In Chrome, open the <strong>Projector</strong> bookmark. On the top left side there will be a little button that says Lamp and it will have on and off buttons on either side of the label. Make sure “ON” is selected.</li>
-    </ul>
-  </li>
-  <li>Make sure the image is not muted</li>
-</ul>
-
-<p><img src="http://i.imgur.com/xncCve2.png" alt="Image Two" /></p>
-
-<h3 id="intermediate">INTERMEDIATE</h3>
-
-<h4 id="source--stage">SOURCE = STAGE</h4>
-
-<p>AFTER YOU HAVE ALREADY DONE THE <strong>BASIC</strong> INSTRUCTIONS</p>
-
-<ol>
-  <li>Get the Decimator, its power adaptor, and one of the long Blue SDI Cables* from Janice [When using the SDI cables, be gentle with them, be careful not to kink them, and please coil them properly when striking] . You may also need an extension cord and / or a power strip.</li>
-  <li>Get whatever adaptors / other cables you need to be able send an HDMI signal to the Decimator from your source. (Probably a Thunderbolt to HDMI, or DVI to HDMI)</li>
-  <li>Connect one end of the Blue SDI Cable to the SDI OUTPUT on the Decimator</li>
-  <li>Connect the other end of the SDI Cable to one of the AVP Patch Points (If Downstage Right, use AV12, and run the cable up over the doorway.)</li>
-  <li>Connect your source HDMI cable to the Decimator’s HDMI INPUT</li>
-  <li>Confirm that your AVP Patch point (the one to which you connected the Blue SDI cable) is patched to AV38 in the patchbay (The default patching is AV12 to AV38)</li>
-  <li>On the KUMO Routing Interface (Chrome), select Projector on the Bottom Row and STAGE on the Top Row.</li>
-</ol>
-
-<p>That <em>should</em> get you an image. If it doesn’t, refer to the <a href="#troubleshooting">Troubleshooting</a> section above.</p>
-
-<p>Then, if none of that works:</p>
-
-<ul>
-  <li>Check Your SDI Patching.</li>
-  <li>Check to make sure the Decimator is on (the screen will be lit).</li>
-  <li>Check the BNC Patching in the Patchbay</li>
-  <li>Check to make sure AV38 at FOH is actually connected to something, it should be SDI input #3 on the back of the AJA in the rack.</li>
-</ul>
-
-<hr />
-
-<h4 id="refocusing--sizing-the-image-basic-without-presets">REFOCUSING / SIZING THE IMAGE (Basic/ Without Presets)</h4>
-
-<ol>
-  <li>Make sure the projector is on.</li>
-  <li>Open the projector interface on chrome</li>
-  <li>Click the “Basic Control” tab on the left</li>
   <li>
-    <p>Use the sets of arrows to adjust the image according to what you need</p>
+    <p>UNSWITCHED:</p>
 
     <ul>
-      <li>For this you only have coarse adjust:</li>
-      <li>When you click an arrow it will continue to adjust in that direction until you click the square in the center of the arrows</li>
-      <li>Also, when focusing, try and have someone on stage close to the screen (or whatever you’re projecting onto) to confirm the focusing</li>
+      <li>This power connection feeds :</li>
     </ul>
   </li>
-</ol>
+  <li>
+    <p>Creston:</p>
 
-<p><img src="http://i.imgur.com/5Jrk0p3.png" alt="Image Three" /></p>
-
-<hr />
-
-<h4 id="refocusing--sizing-intermediate--with-presets">REFOCUSING / SIZING (Intermediate / With Presets)</h4>
-
-<p>You can do all the same things you can do from the web interface, and more, from the projection booth</p>
-
-<ol>
-  <li>Go into the projection booth</li>
-  <li>Check to make sure the computer is on
     <ul>
-      <li>The computer is in the left rack, underneath the HDCam players, and underneath the screen that pulls out</li>
-      <li>It’s a 1U rack unit with a disk drive on the left and a “SuperLogics” logo, there is a red power button on the right.</li>
-      <li>Push the power button and the fan will start up, letting you know that it’s on.</li>
+      <li>This is the Crestron Fiber optic connection</li>
     </ul>
   </li>
-  <li>Pull out the screen drawer (the black handle on the rack unit above the computer)</li>
-  <li>Click the <strong>DCCs2</strong> icon</li>
-  <li>In the communication settings window, make sure <strong>Projector</strong> is selected</li>
-</ol>
+  <li>FW32</li>
+  <li>NETWORK</li>
+  <li>
+    <p>NETWORK</p>
+  </li>
+  <li>
+    <p>USB</p>
+  </li>
+  <li>
+    <p>PROJECTOR:</p>
 
-<ul>
-  <li>The IP Address is:  <code class="highlighter-rouge">192.168.1.134</code> Port is: <code class="highlighter-rouge">43728</code></li>
+    <ul>
+      <li>This is the DVI feed out to the Projector. The cable travels along the trough under FOH and comes up in Projection Boot and plugs into one of the DVI ports on the bottom of front panel of the left most rack by the projectors.</li>
+    </ul>
+  </li>
+  <li>STAGE IN SDI
+    <ul>
+      <li>This is fed from V37 and is used to route a signal from somewhere on stage up to the KUMO</li>
+    </ul>
+  </li>
+  <li>STAGE OUT SDI
+    <ul>
+      <li>This feeds V38 and is used to route a signal from one of the KUMO inputs to a display feed somewhere other than FOH, usually for confidence monitors or projectors on stage.</li>
+    </ul>
+  </li>
+  <li>AMX MON
+    <ul>
+      <li>(INACTIVE?)</li>
+    </ul>
+  </li>
+  <li>
+    <p>BLANK SDI</p>
+  </li>
+  <li>FOH IN
+    <ul>
+      <li>This is where the FOH HDMI cable patches into the video rack. From here it connects to the FOH HDMI AJA Converter and from there into the Decimator Multiview and on to the KUMO.</li>
+    </ul>
+  </li>
+  <li>MULTIVIEW
+    <ul>
+      <li>This is the HDMI feed that comes from the Multiview and goes to the Right hand Display on the FOH desk.</li>
+    </ul>
+  </li>
+  <li>DISPLAY (?)</li>
+  <li>CRESTRON
+    <ul>
+      <li>This is the HDMI port that feeds the HDMI input on the Crestron panel on the ABP under the FOH Desk.</li>
+    </ul>
+  </li>
 </ul>
 
-<p><img src="http://i.imgur.com/hx6h4VI.png" alt="Image Four" /></p>
+<p>MIDI IN
+MIDI OUT
+* AES3 IN
+* AES3 OUT
+* KUMO L
+* KUMO R</p>
 
-<ol>
-  <li>Click OK (Also, the projector must be on in order to communicate with it. If it’s not on, nothing further will work. <em>And how were you planning to size an image if it’s off anyways?</em> :P</li>
-</ol>
+<h3 id="making-sense-of-it-all">Making Sense of it All</h3>
 
-<p><img src="http://i.imgur.com/O1bGrL9.png" alt="Image Five" />
-7. Once the communication loading bar has completed and gone away, click the <strong>lens</strong> tab at the top.
-8. From the lens tab you have access to the focusing and resizing adjustments, as well as Fine Adjust mode, and <em>presets</em>
-	* SAVING A PRESET</p>
+<p>The biggest thing that will help you to understand how the video rack works is to have an understanding of the underlying signal flow. If you can understand how the signals move around and are altered in an abstract fashion, making sense of the cable mess becomes, if not easier, then a little more straightforward.</p>
 
- 		* Make all the image adjustments you need
- 		* Click the <strong>Memory List</strong> button to access the list of presets, then click a new row under all the ones that currently exist
- 		* Click <strong>Entry</strong>, and name your preset, once it’s named you’re all good
-<ul>
-  <li>LOADING A PRESET</li>
-</ul>
+<p>The video signals that run into, out of and around the video rack come in two ‘flavors’, SDI (specifically <strong>__</strong>__) and HDMI. Any time you need to make a change between the two formats, you need a converter. The converters in the rack take the form of the small grey AJA boxes. These AJA boxes accomplish the same function as the larger, bright red Decimator boxes that you may have seen around before.</p>
 
- 		* Select the preset you want to load
- 		* Click the <strong>Test</strong> button, and the preset will begin to load
+<p>Now, why exactly are we converting between SDI and HDMI in the first place? Why can’t we just use one format? The answer to those questions has to do with the nature of the Hardware we use for various purposes in the hall. HDMI can be thought of as more of a consumer level format. You use it to connect your laptop or computer to a monitor or TV or a small projector. SDI on the other hand, is a format used in higher profile professional hardware, such as the NEC Projector (the one in the projection booth), video switching hardware like the AJA KUMO, and for transporting video signals over distances longer than a couple feet without signal degradation.</p>
 
-<hr />
+<p>Since we often deal with multiple video signals that we like to be able to switch between for displaying various media during shows, we use specialized hardware to be able to switch between all of our signals. For us, this hardware is the AJA KUMO 1604, which has 16 SDI inputs and 4 SDI outputs. The KUMO can route any of the 16 inputs to any of the 4 outputs and can switch back and forth relatively seamlessly, with control being accessed via a network connection than you can call up in a browser (See the ‘KUMO’ bookmark in Chrome on the FOH Mac Pro).</p>
 
-<h4 id="confidence-monitors">CONFIDENCE MONITORS</h4>
+<p>So if we have an HDMI signal on a laptop at FOH that we want to be able to route to a display on stage, one way to do this would be to just hook the HDMI up to a Decimator, take the SDI output, patch it to the ABP and do the opposite on stage. However if we want to be able to switch the signal that the display receives, we would want to hook the HDMI upto an HDMI to SDI converter (like the Decimator or the AJA boxes), and run the SDI into the AJA, so that we can switch the display’s feed back and forth between this HDMI and the other signal.</p>
 
-<p>Using the Confidence Monitors is sort of the opposite of running a source from the stage in terms of signal flow.</p>
+<h4 id="multiview">Multiview</h4>
 
-<ol>
-  <li>Get out the Confidence Monitor rack case from Janice, grab one of the blue SDI cables, and get as many monitors and heavy duty DVI cables as you need.</li>
-  <li>Set up the case where it will live during the show, it needs power and needs to be relatively close to both an AVP, and the monitors to which you will be running the DVI cables.</li>
-  <li>Connect the power cord for the rack supply, and turn the rack on. There should be blue and green lights that indicate that the unit is on.</li>
-  <li>Connect the blue SDI cable to one of the AV patch points on the AVP</li>
-  <li>Make sure the patching in the patchbay is set up properly so that the AV patch point where you connected the SDI cable is hooked up to the point from where the signal at FOH is sending.</li>
-  <li>Connect the DVI cables from the back of the inside of the confidence monitor rack to the monitors you will be using, making sure to run the cable out of the way and to be gentle with the cable.</li>
-</ol>
+<p>So we’ve covered why we need to convert signals and how the KUMO accomplishes the signal switching we like to be able to do, but one thing we’ve yet to discuss is the Multiview and how that fits into the signal chain.</p>
 
-<hr />
+<p>When we’re switching back and forth between the various video feeds we have to deal with during a show, it’s convenient if not necessary to be able to see what each signal is to ensure that we’re not going to go live on a blank screen or some other unsuitable feed. The Multiview allows us to quickly inspect a lot of different signals quickly to make sure everything is how it should be. However in order to do this, it needs all the signals we worry about to flow through it. This makes our lives a little more difficult in terms of troubleshooting things, and certainly makes the video rack a lot messier, but provides necessary functionality that outweighs these costs.</p>
+
+<p>So to revisit our previous example, we have an HDMI signal we want to be able to get from a laptop at FOH down to a display or projector on the stage. We patch into the FOH HDMI cable that sits at the desk. That cable goes into the IO Panel on the back of the video rack. From there an HDMI cable runs inside the rack to an AJA HDMI to SDI converter. The SDI cable that comes out of that carrying our signal goes into an input on the multiview and comes out unchanged on a loop output from the multiview. From the multiview the new SDI cable patches to an input on the back of the AJA KUMO.</p>
+
+<p>An important part of this is that the signal the Multiview is getting and showing us from the FOH HDMI is the same as the signal it then sends to the input on the KUMO. The multiview lets us look at a number of the signals we’re getting on the ‘Preview Monitor’, so that we can know what we’re getting before we switch our signals with the KUMO.</p>
 
   </div>
   
