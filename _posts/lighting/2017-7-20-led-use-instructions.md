@@ -4,7 +4,7 @@ title: LED Use Instructions
 permalink: /lighting/led-use-instructions.html
 ---
 
-###Directions for Using LEDS:
+## Directions for Using LEDS:
 
 Setting Up Power  
 
@@ -12,7 +12,7 @@ Setting Up Power
 * Tap "Relay Controls"
 * Make sure the Relays 211 and 218 are turned on
 
-At the Console
+At the Console  
 
 * Select Channels 101-108 (or some subset thereof) and put them at some intensity (full, or 50%) as you would a conventional fixture
 * In the upper left set of buttons to the right of the faders, hit "color" so that the LED next to it is lit up
@@ -20,5 +20,5 @@ At the Console
 * The first box should say RGB. If it does not, spin the leftmost encoder until it does
 * The next three encoders correspond to red, green, and blue respectively. Turn them right and left to mix the color you want
 
-All other functionality with the LEDs such as recording them into a cue is exactly the same as it has been in the past with conventional fixtures
+All other functionality with the LEDs such as recording them into a cue is exactly the same as it has been in the past with conventional fixtures.  
 If you have questions, contact Eric Karsten at ekarsten@uchicago.edu or 571-405-1837
