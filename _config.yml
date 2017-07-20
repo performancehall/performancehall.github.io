@@ -66,6 +66,8 @@ lighting_hall:
       url: /assets/lighting/hall-channel-hookup-july-2017.pdf
     - title: Performance Hall Rep Plot
       url: /assets/lighting/hall-rep-plot.pdf
+    - title: LED Use Instructions
+      url: /lighting/led-use-instructions.html
     - title: Node Configuration Instructions
       url: /lighting/node-configuration.html
     - title: Lighting Cheatsheet
