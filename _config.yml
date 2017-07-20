@@ -21,7 +21,7 @@ author:
   email:             kpmccornack@gmail.com, hunterkorgel@uchicago.edu
 
 # Custom vars
-version:             1.2.0
+version:             2.1.1
 
 audio:
     - title: Audio Glossary
@@ -61,13 +61,11 @@ lighting_hall:
     - title: General Information
       url: /lighting/lighting-info.html
     - title: Performance Hall Magic Sheet
-      url: /assets/lighting/hall-magic-sheet.pdf
+      url: /assets/lighting/hall-magic-sheet-july-2017.pdf
     - title: Performance Hall Channel Hookup
-      url: /assets/lighting/hall-channel-hookup.pdf
+      url: /assets/lighting/hall-channel-hookup-july-2017.pdf
     - title: Performance Hall Rep Plot
-      url: /assets/lighting/hall-rep-plot.pdf
-    - title: Performance Hall Instrument Schedule
-      url: /assets/lighting/hall-instrument-schedule.pdf
+      url: /assets/lighting/hall-rep-plot-july-2017.pdf
     - title: Node Configuration Instructions
       url: /lighting/node-configuration.html
     - title: Lighting Cheatsheet
@@ -77,9 +75,9 @@ lighting_hall:
 
 lighting_penthouse:
     - title: Penthouse Magic Sheet
-      url: /assets/lighting/penthouse-magic-sheet.pdf
+      url: /assets/lighting/penthouse-magic-sheet-july-2017.pdf
     - title: Penthouse Rep Plot
-      url: /assets/lighting/penthouse-rep-plot.pdf
+      url: /assets/lighting/penthouse-rep-plot-july-2017.pdf
 
 video:
     - title: Projection Cheat Sheet
