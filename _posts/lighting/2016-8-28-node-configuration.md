@@ -6,19 +6,19 @@ permalink: /lighting/node-configuration.html
 
 Plug the node into the lighting network and write down the ip address taped to the side of the node
 
-On a Mac:
-Open System Preferences
-Go to the Network Preferences page
-Move to the “Auditorium” Wi-Fi network
-Click on Advanced
-Go to the TCP/IP page
-In the drop down menu where it says “Configure IPv4” select “Manually”
-Give the computer an ip address of 192.168.0.199 (or another ip address within the lighting network but not used by an entity on that network)
-Give the computer a Subnet Mask of 255.255.255.0
-Click OK and then click Apply
-Open Firefox
-Type in the ip address of the node where you would enter a web address + /mini/
-For example, if the ip address is 192.168.0.72, you would type in 192.168.0.72/mini/
+On a Mac:  
+Open System Preferences  
+Go to the Network Preferences page  
+Move to the “Auditorium” Wi-Fi network  
+Click on Advanced  
+Go to the TCP/IP page  
+In the drop down menu where it says “Configure IPv4” select “Manually”  
+Give the computer an ip address of 192.168.0.199 (or another ip address within the lighting network but not used by an entity on that network)  
+Give the computer a Subnet Mask of 255.255.255.0  
+Click OK and then click Apply  
+Open Firefox  
+Type in the ip address of the node where you would enter a web address + /mini/  
+For example, if the ip address is 192.168.0.72, you would type in 192.168.0.72/mini/  
 
 There are only a few things that you should be changing in this screen, depending upon what you are configuring the node to do:
 
