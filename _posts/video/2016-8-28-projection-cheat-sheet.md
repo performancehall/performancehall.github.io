@@ -6,23 +6,21 @@ permalink: /2016/8/28/projection-cheat-sheet.html
 
 ###BASIC
 
-* SOURCE = MacMini or FOH HDMI
+* SOURCE = Mac Pro or FOH HDMI
 
 	1. Turn the Switcher Rack On (Black on / off flip switch, right side)
-	2. On the AMX Touch interface, hit “Turn on system and projector"
-	3. Open Chrome on the Mac Mini and Open the Kumo Bookmark
-	4. Click Projector on the Bottom Row
-	5. Select your source on the Top Row
-
-![Image One](http://i.imgur.com/Hs68lLj.png)
+	2. Make sure the Roland video switcher powers on
+	3. On the AMX Touch interface, hit “Turn on system and projector"
+	4. Wait for the projection system to finish booting
+	5. On the Roland Video Switcher, press the top row button that matches your source. It should light up red.
 
 #####If that doesn’t get you an image now we start:
 
 <a name="troubleshooting"> *TROUBLESHOOTING* </a>
 
-* Make sure you are actually sending some sort of image from your source: (very helpful to have the preview monitor at FOH set to the same source as the projector)
-* If your source is the mac mini, try dragging a window to the right
-* If you’re using a different source, make sure your display preferences are set up correctly
+* Make sure you are actually sending some sort of image from your source: (very helpful to check the preview monitor at FOH - every source will be displayed)
+* If your source is the Mac Pro, try dragging a window to the right
+* If you’re using a laptop or other external source, make sure your display preferences are set up correctly
 * Make sure the lamp of the projector is actually on
   * In Chrome, open the **Projector** bookmark. On the top left side there will be a little button that says Lamp and it will have on and off buttons on either side of the label. Make sure “ON” is selected.
 * Make sure the image is not muted
@@ -33,17 +31,17 @@ permalink: /2016/8/28/projection-cheat-sheet.html
 
 ###INTERMEDIATE
 
-####SOURCE = STAGE
+####SOURCE = STAGE Input V37
 
  AFTER YOU HAVE ALREADY DONE THE **BASIC** INSTRUCTIONS
 
  1. Get the Decimator, its power adaptor, and one of the long Blue SDI Cables* from Janice [When using the SDI cables, be gentle with them, be careful not to kink them, and please coil them properly when striking] . You may also need an extension cord and / or a power strip.
- 2. Get whatever adaptors / other cables you need to be able send an HDMI signal to the Decimator from your source. (Probably a Thunderbolt to HDMI, or DVI to HDMI)
+ 2. Get whatever adaptors / other cables you need to be able send an HDMI signal to the Decimator from your source. (Probably a Thunderbolt to HDMI, or USB-C to HDMI)
  3. Connect one end of the Blue SDI Cable to the SDI OUTPUT on the Decimator
- 4. Connect the other end of the SDI Cable to one of the AVP Patch Points (If Downstage Right, use AV12, and run the cable up over the doorway.)
- 4. Connect your source HDMI cable to the Decimator’s HDMI INPUT
- 5. Confirm that your AVP Patch point (the one to which you connected the Blue SDI cable) is patched to AV38 in the patchbay (The default patching is AV12 to AV38)
- 6. On the KUMO Routing Interface (Chrome), select Projector on the Bottom Row and STAGE on the Top Row.
+ 4. Connect the other end of the SDI Cable to one of the AVP Patch Points
+ 5. Connect your source HDMI cable to the Decimator’s HDMI INPUT
+ 6. Confirm that your AVP Patch point (the one to which you connected the Blue SDI cable) is patched to V37 in the patchbay
+ 7. On the Roland Video Switcher's top row, select V37. It should light up red.
 
 That *should* get you an image. If it doesn't, refer to the [Troubleshooting](#troubleshooting) section above.
 section above.
@@ -51,9 +49,9 @@ section above.
 Then, if none of that works:
 
 * Check Your SDI Patching.
-* Check to make sure the Decimator is on (the screen will be lit).
+* Check to make sure the Decimator is on (the screen will be lit) and configured properly. Refer to the Decimator Operator Manual if needed.
 * Check the BNC Patching in the Patchbay
-* Check to make sure AV38 at FOH is actually connected to something, it should be SDI input #3 on the back of the AJA in the rack.
+* Check to make sure V37 at FOH is connected to Input 1 on the Roland Video Switcher.
 
 ***
 
@@ -108,13 +106,13 @@ You can do all the same things you can do from the web interface, and more, from
 
 ####CONFIDENCE MONITORS
 
-Using the Confidence Monitors is sort of the opposite of running a source from the stage in terms of signal flow.
+Using the Confidence Monitors is sort of the opposite of running a source from the stage in terms of signal flow. While V37 connects to the Roland Video Switcher, the Kumo houses a secondary stage input on V38 and a pair of stage outputs on V39 and V40.
 
-1. Get out the Confidence Monitor rack case from Janice, grab one of the blue SDI cables, and get as many monitors and heavy duty DVI cables as you need.
-2. Set up the case where it will live during the show, it needs power and needs to be relatively close to both an AVP, and the monitors to which you will be running the DVI cables.
-3. Connect the power cord for the rack supply, and turn the rack on. There should be blue and green lights that indicate that the unit is on.
-4. Connect the blue SDI cable to one of the AV patch points on the AVP
-5. Make sure the patching in the patchbay is set up properly so that the AV patch point where you connected the SDI cable is hooked up to the point from where the signal at FOH is sending.
-6. Connect the DVI cables from the back of the inside of the confidence monitor rack to the monitors you will be using, making sure to run the cable out of the way and to be gentle with the cable.
+1. Open Chrome and open the Kumo control page (it should be bookmarked).
+2. Select the destination patch for your confidence monitor, V39. Now select which source you would like to send down V39 (if you want to match what is being projected, you would select "Program Roland", but if you want a different Roland input from what is being projected, you could use "Preview Roland" after routing that source through the Roland's bottom row. On the Roland, Preview will light up green while Program will light up red.)
+3. Gather a Decimator and its power cable, SDI cable, HDMI cable, a monitor and its power cable, and any power strips or extension cords you need.
+4. Place the monitor on stage with the Decimator near it and connect the HDMI output to the monitor's input using the HDMI cable.
+5. Run the SDI cable from the Decimator's SDI Input to whatever AVP patch point is closest.
+6. In the amp room, use the BNC patch to connect V39 to whichever patch point you chose. If an image doesn't appear on the monitor, double check the monitor video source and the Decimator configuration, or review the troubleshooting section above.
 
 ***
