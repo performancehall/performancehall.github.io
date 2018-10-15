@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projection Cheat Sheet
-permalink: /2016/8/28/projection-cheat-sheet.html
+permalink: /video/projection-cheat-sheet.html
 ---
 
 ###BASIC
