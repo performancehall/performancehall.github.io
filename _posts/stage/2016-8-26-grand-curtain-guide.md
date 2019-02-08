@@ -127,7 +127,18 @@ Once the end stops are in place you can begin to thread the rope through the pul
 
 ## Threading the Rope ##
 
-Begin by threading the rope through the floor pulley. With the pulley placed on the floor and the knob facing stage left and you,
+Begin by threading the rope up through the downstage pulley and track, headed towards stage right. The direction of the thread is important, as all the markings on the rope are measured asymmetrically. Start with the end wrapped in white gaff tape labeled ‘THREAD’.
+
+Thread through the downstage-left pulley, through all the downstage carriers, through the stage right pulley, through all the upstage carriers, and stop at the upstage master carrier. Bring the other end of the rope through the opposite direction: through the ground pulley, through the upstage-left pulley, and meet the other end of the rope at the upstage master traveler.
+
+Complete the closed loop by clamping the ropes in the teeth of both master travelers. The upstage master carrier should clamp both ropes at their blue taped markings, and the downstage master traveler should clamp one rope at the red tape marking.
+
+If you get lost, consult the sketch below. Once the rope is threaded, fly out U2 and test the rope pull before hanging the curtain to make sure everything is threaded and connected properly.
+
+![Rope Threading Diagram](/assets/grand_pics/RopeThreadingDiagram.jpg)
+
+<!--- Saved for future reference if needed
+With the pulley placed on the floor and the knob facing stage left and you,
 thread the rope through the gap in the top on the right hand side, staying between the pulley and the bar. Continue feeding the rope along
 the wheel, staying inside the posts, until you can bring the rope up out the other side of the gap at the top.
 
@@ -160,6 +171,7 @@ Once you're through the pulley pull that end of the rope to the upstage master c
 ![Upstage Master Carrier Slack](/assets/grand_pics/grand_6.jpg)
 
 After the rope is secured to the master carriers, you can start hanging the curtain on the hooks hanging from the carriers.
+--->
 
 ## Hanging the Curtain ##
 
