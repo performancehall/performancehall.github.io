@@ -96,8 +96,8 @@ video:
       url: /video/projection-guide.html
 
 stage:
-    - title: Grand Curtain Guide
-      url: /stage/grand-curtain-guide.html
+### (Removed to make link live editable 3/21/19)    - title: Grand Curtain Guide
+###      url: /stage/grand-curtain-guide.html
     - title: Marley Guide
       url: /stage/marley-guide
     - title: Genie Guide
