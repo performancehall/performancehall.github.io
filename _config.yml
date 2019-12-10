@@ -115,8 +115,6 @@ checklists:
       url: /checklists/stage-manager-checklist.html
 
 employees:
-    - title: Tech Manual
-      url: /employees/tech-manual.html
     - title: Emergency Plan
       url: /assets/employees/emergency-plan.pdf
 
