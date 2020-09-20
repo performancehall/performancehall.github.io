@@ -92,8 +92,8 @@ video:
       url: /video/video-rack-guide.html
     - title: Confidence Monitor Guide
       url: /video/confidence-monitor-guide.html
-    - title: Projection Guide
-      url: /video/projection-guide.html
+###    - title: Projection Guide  (Removed to make link live editable 9/19/20)
+###      url: /video/projection-guide.html
 
 stage:
 ### (Removed to make link live editable 3/21/19)    - title: Grand Curtain Guide
