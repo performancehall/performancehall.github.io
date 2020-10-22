@@ -84,16 +84,17 @@ lighting_penthouse:
       url: /assets/lighting/penthouse-channel-hookup-july-2017.pdf
 
 video:
-    - title: Projection Cheat Sheet
-      url: /video/projection-cheat-sheet.html
-    - title: Overflow Video Streams
-      url: /video/overflow-video-streams.html
-    - title: Video Rack Tutorial
-      url: /video/video-rack-guide.html
-    - title: Confidence Monitor Guide
-      url: /video/confidence-monitor-guide.html
-###    - title: Projection Guide  (Removed to make link live editable 9/19/20)
+###    - title: Projection Cheat Sheet
+###      url: /video/projection-cheat-sheet.html
+###    - title: Overflow Video Streams
+###      url: /video/overflow-video-streams.html
+###    - title: Video Rack Tutorial
+###      url: /video/video-rack-guide.html
+###    - title: Confidence Monitor Guide
+###      url: /video/confidence-monitor-guide.html
+###    - title: Projection Guide
 ###      url: /video/projection-guide.html
+### All video system guides were migrated to live editable Google Doc links in 2020
 
 stage:
 ### (Removed to make link live editable 3/21/19)    - title: Grand Curtain Guide
