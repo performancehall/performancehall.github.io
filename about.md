@@ -6,7 +6,9 @@ layout: page
 title: About
 ---
 
-###Hello!
+##Hello!
 
 Information is on the way!
+
+
 --->
